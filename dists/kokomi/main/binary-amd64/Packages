@@ -1,0 +1,891 @@
+Package: appmotor
+Priority: optional
+Section: devel
+Installed-Size: 229
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Architecture: amd64
+Version: 0.7-1
+Depends: libc6 (>= 2.34), libcap2 (>= 1:2.10), libdbus-1-3 (>= 1.9.14), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 11), libsystemd0
+Filename: pool/main/a/appmotor/appmotor_0.7-1_amd64.deb
+Size: 63836
+MD5sum: 619c43ee942c0818274c29e8653dd342
+SHA1: 2b666811c5aab4f92d71442ef5e672720286af35
+SHA256: 8d67d8b2cb99aaa80541d9c06a51a111827fc97800933b6ddc4e85c8943960fc
+SHA512: 28828d3779db14c96de39068cd3c948a8506b1107a38137d85e76c4828243ce7b2eb2fb5c8a97e9308bebf915b2863549db58e5442864ab7391931a48d36f192
+Description: YoyoOS Appmotor
+Homepage: https://github.com/yoyoos/appmotor
+
+Package: cutefish-icons
+Priority: optional
+Section: x11
+Installed-Size: 42027
+Maintainer: CutefishOS <support@cutefishos.com>
+Architecture: all
+Version: 0.8
+Filename: pool/main/c/cutefish-icons/cutefish-icons_0.8_all.deb
+Size: 3057134
+MD5sum: 0819d4c280c3afd6c2c2326610dbcd6e
+SHA1: 9020daab116bb379815556fbce851cbc978a2d39
+SHA256: e9744fe222d3c89308d9f50f65a9274209eb2863f10291f2960a71b0b35e3bc4
+SHA512: 5153485b01a996a53a318b57afd0b1e6fd5e1d952202004421a91996b335c95cf1e389fdb68ef8e6963d58b1bee652baba0cd21c74e627e55b36f7c6177203ac
+Description: CutefishOS Icons
+Homepage: https://cutefishos.com
+
+Package: dde-device-formatter
+Priority: optional
+Section: utils
+Installed-Size: 258
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Architecture: amd64
+Version: 0.0.1.14-1
+Depends: libc6 (>= 2.24), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc1 (>= 1:3.0), libgl1, libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libudisks2-qt5, libx11-6
+Filename: pool/main/d/dde-device-formatter/dde-device-formatter_0.0.1.14-1_amd64.deb
+Size: 58972
+MD5sum: 0464862ab3b69698c75029c01291ace7
+SHA1: 633bfae084b5ca511ed63e951b6827fc17039211
+SHA256: c1f6a6e0c4541767ba95dbb6c81b01a1fe17bd21a61968c52a134b00196eec69
+SHA512: 9d347eebc2fc2d01138d01de2c56c5c9eb46705ee3db43942a5b2b584c2551d5abb1ba17166fe328a78e38d49297bb3dbd281f64db65175ecfcedb8c87f9f223
+Description: Device formatter
+ A simple graphical interface for creating file system in a block device.
+Homepage: http://www.deepin.org
+
+Package: deepin-anything-dkms
+Priority: optional
+Section: admin
+Installed-Size: 86
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Architecture: all
+Source: deepin-anything
+Version: 5.0.18-1
+Depends: dkms (>= 2.1.0.0)
+Filename: pool/main/d/deepin-anything/deepin-anything-dkms_5.0.18-1_all.deb
+Size: 18344
+MD5sum: 1d22da1ef2e386a37b57ac44dffdcc52
+SHA1: 622f1d5cc41baee480982f039ce2bbbe6aed0c31
+SHA256: 81841a5e744dd874cb3617ec6571b28c70005774dbca7720d7003fbb08213d21
+SHA512: ec87ebf078d28d4b99b9529694b07c83e90fc06132ee723da9657f93c0b62913d913e9b48cdd9d64f1512ee5de3ab3504b91f99c3764d4b0b3df867164d82b99
+Description: anything module
+ anything kernel module package
+Homepage: http://github.com/linuxdeepin/deepin-anything
+
+Package: deepin-anything-libs
+Priority: optional
+Section: admin
+Installed-Size: 532
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Architecture: amd64
+Source: deepin-anything
+Version: 5.0.18-1
+Depends: libc6 (>= 2.14), libglib2.0-0 (>= 2.35.8), libpcre3
+Filename: pool/main/d/deepin-anything/deepin-anything-libs_5.0.18-1_amd64.deb
+Size: 53832
+MD5sum: 701151da1c375ea70a761f6058074e9c
+SHA1: cdb1447d72cebfb4de64aeab1c57e413c471ae0e
+SHA256: 24ff0352091e8f0e3efd761a3462ccd491f7b651c9736ce0049d3a802a48e971
+SHA512: 4d1a003d4af020c5f05e2b1793bbc0ea3ea5667f582dcda1f1bf362c1234eecdeea2884e2a832304fd8de0ec68ee0d7edb3c964f88176ede4b1141b146cb1c95
+Description: anything library
+ anything library package
+Homepage: http://github.com/linuxdeepin/deepin-anything
+
+Package: deepin-anything-server
+Priority: optional
+Section: admin
+Installed-Size: 443
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Architecture: amd64
+Source: deepin-anything
+Version: 5.0.18-1
+Depends: deepin-anything-libs, libc6 (>= 2.14), libdtkcore5 (>= 5.5), libgcc1 (>= 1:3.0), libmount1 (>= 2.24.2), libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5), libudisks2-qt5, deepin-anything-dkms
+Filename: pool/main/d/deepin-anything/deepin-anything-server_5.0.18-1_amd64.deb
+Size: 116132
+MD5sum: 9653ce9987897b1da5d8b371a8d65aae
+SHA1: 193822e1aaa112aa3fc9f2cfa9b54390c8df3ec7
+SHA256: bba6b009ce0a25444fc3477f38ac7b011a36eea9af5482eeddc723eae98682b4
+SHA512: e18b8a1147e5ee7d189d0296101ef9b981214d5aaeeb971bfe167444409de4d4d996bf030fae66764fe14dfb22db9825498e8d269093e2a0c0aa03f4a2b08ade
+Description: anything server application and lib
+ anything server package
+Homepage: http://github.com/linuxdeepin/deepin-anything
+
+Package: deepin-desktop-schemas
+Priority: optional
+Section: misc
+Installed-Size: 346
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Architecture: amd64
+Version: 5.10.6-1
+Replaces: deepin-default-gsettings
+Depends: dconf-gsettings-backend | gsettings-backend
+Conflicts: deepin-default-gsettings
+Breaks: dde-daemon (<< 2.92.2), deepin-default-gsettings, deepin-wm (<< 0.2.1), startdde (<< 2.91.0)
+Filename: pool/main/d/deepin-desktop-schemas/deepin-desktop-schemas_5.10.6-1_amd64.deb
+Size: 44684
+MD5sum: 8ceb6558bf7ad529442622fed55672e7
+SHA1: e8b5d97a31c82255edd6bda93a9a919100b016ac
+SHA256: e68215c5ad35b5c2460a0f2e6a628261aaaa8326079cdc7bc9f318d40c4fb5d5
+SHA512: 60f975eb6b62dade54c2e03cc9c0fe0976a97e66c62fe145d9cece5a577a5a1a77dbb25936eab109e34236a91bf1abcc26f0746a71be561bc25731920a78452b
+Description: GSettings deepin desktop-wide schemas
+ deepin-desktop-schemas contains a collection of GSettings schemas for
+ settings shared by various components of a desktop.
+Homepage: http://www.deepin.org/
+
+Package: fishui
+Priority: optional
+Section: devel
+Installed-Size: 853
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.8-1
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.69.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5qml5 (>= 5.4.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1)
+Filename: pool/main/f/fishui/fishui_0.8-1_amd64.deb
+Size: 117486
+MD5sum: c850618e06c71a8d4342e4cef2afb45d
+SHA1: 8e2e05ef4644784906bd951a8e50e8c834926d42
+SHA256: b656f7a1c1c4b0ff925917e405b41d135b59769fa9228d8c0617de99bab5d4d9
+SHA512: 6a42b87f97d049a8eb938aeaefe43c0fbb8582355295b54b4d33b034d494a7afcf08bdce7b48f3822c4fb39902fb3e869d0e6da57770edf09ecd7c741f8cdf2c
+Description: CutefishOS UIKit
+Homepage: https://cutefishos.com
+
+Package: fishui
+Priority: optional
+Section: devel
+Installed-Size: 853
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.8
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.69.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5qml5 (>= 5.4.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1)
+Filename: pool/main/f/fishui/fishui_0.8_amd64.deb
+Size: 117426
+MD5sum: 73bf85f8a4970b84bd7480d042e8f1b8
+SHA1: a5949be553fb5428b5786e4c3964fece6926153c
+SHA256: 9a3f0c698ba3b73ac9451fa634de3b576f2f7dcadd37927cf065ba68ad69cfc9
+SHA512: b254fa62dbfabd7cd5c90d6b3a823629f6ad0206fba7f47a01f576f7c97f107b6c9cc92a5451c0a6b1178e6805f7c2536ae58e8789f2fa33cbec704ca7a2affb
+Description: CutefishOS UIKit
+Homepage: https://cutefishos.com
+
+Package: libboost-system1.67.0
+Priority: optional
+Section: libs
+Installed-Size: 2025
+Maintainer: Debian Boost Team <team+boost@tracker.debian.org>
+Architecture: amd64
+Source: boost1.67
+Version: 1.67.0-13+deb10u1
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Filename: pool/main/b/boost1.67/libboost-system1.67.0_1.67.0-13+deb10u1_amd64.deb
+Size: 229068
+MD5sum: 3fc1c29f48945a2cbfb48cead91d035e
+SHA1: 1cc80d6d18d9abe4dda580b80faf7b512deb6b42
+SHA256: ca6785594503d0fbf66f02300beab24e6f3c028759cfb21cef35b8cfa15ba0dd
+SHA512: d4e5f634e38978f133a048a5faf56fd1f83bc6d9795143156c01c6c03536eb45a23bf156b7d50982e079ff66ecd99154389b681a6e4d7e4ed61ff1df98f05360
+Description: Operating system (e.g. diagnostics support) library
+ This package forms part of the Boost C++ Libraries collection.
+ .
+ The Boost System library provides simple, light-weight error_code
+ objects that encapsulate system-specific error code values, yet also
+ provide access to more abstract and portable error conditions via
+ error_condition objects. Because error_code objects can represent
+ errors from sources other than the operating system, including
+ user-defined sources, each error_code and error_condition has an
+ associated error_category.
+Homepage: http://www.boost.org/libs/system/
+Multi-Arch: same
+
+Package: libcutefish
+Priority: optional
+Section: devel
+Installed-Size: 1926
+Maintainer: CutefishOS <support@cutefishos.com>
+Architecture: amd64
+Version: 0.7
+Depends: libc6 (>= 2.14), libcanberra0 (>= 0.16), libgcc-s1 (>= 3.3.1), libkf5bluezqt6 (>= 5.77.0), libkf5coreaddons5 (>= 4.97.0), libkf5networkmanagerqt6 (>= 5.66.0), libkf5screen-bin (>= 4:5.17.5~), libkf5screen7 (>= 4:5.23.80), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.7.0) | libqt5quick5-gles (>= 5.7.0), libqt5sensors5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 5)
+Filename: pool/main/libc/libcutefish/libcutefish_0.7_amd64.deb
+Size: 499436
+MD5sum: af046005ba16106c278389fc06631b19
+SHA1: df4bd757a0dcc8f583719a22e6a6aba29b21f927
+SHA256: e9f360ae04586c631d092c2c6a9ead06fa7f090ede005a30d4130dcf9998b278
+SHA512: 908879379c6182f00444d0d503fcc0f0e1aa0efaded2f1a9bcc480254b29dc95419c182df95a5744cc082fb32955eeba4c5b45e5b311b9f5ffd8c8eebb07945b
+Description: CutefishOS Library
+Homepage: https://cutefishos.com
+
+Package: libdframeworkdbus2
+Priority: optional
+Section: libs
+Installed-Size: 4516
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Architecture: amd64
+Source: dde-qt-dbus-factory
+Version: 5.5.12.1-1
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Filename: pool/main/d/dde-qt-dbus-factory/libdframeworkdbus2_5.5.12.1-1_amd64.deb
+Size: 820232
+MD5sum: 7446e7df9c3dfa7e67634c1ef00adf98
+SHA1: 1123e556a95087c053fd69f2b4a2f5506b0af371
+SHA256: 9fbb2ff9673715121bde4ae4afe081dfd050e18a7949acd460e5012a943d8ad0
+SHA512: 0f011a39e1e282666c1ef2a3a1cc5e2efeb9deec9284f141722326d6771fc6ed078ceab4af6b208aa464f184cf4a92961fb75d46e6108ef9f81bbddbc8fc255c
+Description: Qt DBus interface library for Deepin software (shared library)
+ Libdframeworkdbus provides Qt DBus interface for various Deepin software.
+ It centralizes DBus-related code into single library for Deepin software
+ written in Qt and get itself generated from handwritten XML DBus interface
+ descriptions.
+ .
+ This package is part of DDE (Deepin Desktop Environment).
+Homepage: https://github.com/linuxdeepin/dde-qt-dbus-factory
+Multi-Arch: same
+
+Package: libdisomaster
+Priority: optional
+Section: libs
+Installed-Size: 82
+Maintainer: Chris Xiong <chirs241097@gmail.com>
+Architecture: amd64
+Source: disomaster
+Version: 5.0.7-1
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libisoburn1 (>= 1.5.0), libqt5core5a (>= 5.15.1), libstdc++6 (>= 5.2)
+Filename: pool/main/d/disomaster/libdisomaster_5.0.7-1_amd64.deb
+Size: 22428
+MD5sum: f302ca3128b3f1a0a803edcda6f9406c
+SHA1: f1771fa809bc3ca7c70221463aae70d7a2f98a1a
+SHA256: 902366f6d005af463d0ca7f3dc640e16a98e2f6c960947966a0d4b562a78d8ab
+SHA512: af2dfeb40a0ab59c7b36939c3843493d78cf150507026fc5e0f60aa36479862574662d8cda6c35f0619ee2e639d22d5ab11f63b41dd519b2ada97134a0cc4fba
+Description: libisoburn wrapper for Qt.
+ A convenient way to burn iso9660 image!
+Homepage: https://github.com/linuxdeepin/disomaster
+
+Package: libdmr
+Priority: extra
+Section: libdevel
+Installed-Size: 774
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Architecture: amd64
+Source: deepin-movie-reborn
+Version: 5.10.1-1
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.12.0), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.14.1), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.5.0), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libffmpegthumbnailer4v5, libmpv1 (>= 0.29), libpulse0 (>= 0.99.1), libqt5concurrent5, libmpris-qt5-1
+Filename: pool/main/d/deepin-movie-reborn/libdmr_5.10.1-1_amd64.deb
+Size: 232152
+MD5sum: 48dd473388fc830e36633c5cd998585c
+SHA1: 21c8ab6f674edfe8200f98141f364383e5e97f5c
+SHA256: 48e1c785f9e5a2795f2fb491c62472a17d0f4c90f46d4d04828721f84a81a3c5
+SHA512: 5ae254041608e87c9827335ac035e3681a8ec5e3a47b043c9b58fc2503060c3eaafb56d151fd34cf7978fc49124432f38b64091327f324a43ada48371dc5a1d0
+Description: movie player widget library
+ deepin movie player widget library
+Homepage: https://www.deepin.org/
+Multi-Arch: same
+
+Package: libdocparser
+Priority: optional
+Section: libdevel
+Installed-Size: 1215
+Maintainer: deepin <packages@deepin.com>
+Architecture: amd64
+Source: docparser
+Version: 1.0.3-1
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libgl1, libpoppler-cpp0v5 (>= 0.46.0), libqt5core5a (>= 5.0.2), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/d/docparser/libdocparser_1.0.3-1_amd64.deb
+Size: 374784
+MD5sum: 7b545ec2bd7cb326cf216e4fe830866a
+SHA1: 6e7669b382ce3b342024cfa0be2843679e5134e8
+SHA256: 8ad516e132e5440a133eeffcaacfc09c0c0b94f4a86e8e7cba3f8703500167b7
+SHA512: 710b98abbffd2d64b6c514b1cb312d0c40e2e59483cad4b557658f6bcbbefbcc5313e16d270216d8b147d00d61383bf9fa75654655eaff4b9681c84581d55d84
+Description: Document parser library.
+ This package contains the shared libraries.
+
+Package: libgio-qt
+Priority: optional
+Section: libs
+Installed-Size: 406
+Maintainer: Gary Wang <wzc782970009@gmail.com>
+Architecture: amd64
+Source: gio-qt
+Version: 0.0.11-1
+Depends: libc6 (>= 2.2.5), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.31.8), libglibmm-2.4-1v5 (>= 2.54.0), libqt5core5a (>= 5.15.1), libsigc++-2.0-0v5 (>= 2.2.0), libstdc++6 (>= 5.2)
+Filename: pool/main/g/gio-qt/libgio-qt_0.0.11-1_amd64.deb
+Size: 74524
+MD5sum: a2caa3736805fd5f945bd69253d0c293
+SHA1: fcdd8e1b44dc6f0736afd82f40e3b016825bbe43
+SHA256: abb09640e2077273bd20056a6de5145ac6286ee71fe846f4ccd33e5d44c1b59c
+SHA512: 33327f1986ef876249b77582af662337f275dc4bc682ea2cfef0fc02c73af2b45202068288d8d0847b8b2dc3d40a45118459897e823679bccf1fb67a0b46e552
+Description: Gio wrapper for Qt.
+ A convenient way to bind gio with Qt5.
+Homepage: https://github.com/linuxdeepin/gio-qt
+
+Package: libudisks2-qt5
+Priority: optional
+Section: admin
+Installed-Size: 558
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Architecture: amd64
+Source: udisks2-qt5
+Version: 5.0.6-1
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libstdc++6 (>= 5)
+Filename: pool/main/u/udisks2-qt5/libudisks2-qt5_5.0.6-1_amd64.deb
+Size: 136016
+MD5sum: 65bf03100d0482ce86551e6a51b583a6
+SHA1: 57c7f5a56ce08c97c1624c7cc1f72a000f3f02b7
+SHA256: ce6c29800658317b15972246e918608464cc03bc3c9e918b7abd6db9da4e29e9
+SHA512: 2a53b1dc3606543cc78e291440f68585433fd618d97fdf0376bcbbe6c7e266c45526b32b1271bed4bafb55ae7a9eeecca83c8a52beb468ef9769e654838865cc
+Description: UDisks2 library with Qt5
+ UDisks2 DBus interfaces binding of Qt5.
+Homepage: http://github.com/linuxdeepin/udisks2-qt5
+
+Package: libyoyo
+Priority: optional
+Section: devel
+Installed-Size: 1926
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.7
+Depends: libc6 (>= 2.14), libcanberra0 (>= 0.16), libgcc-s1 (>= 3.3.1), libkf5bluezqt6 (>= 5.77.0), libkf5coreaddons5 (>= 4.97.0), libkf5networkmanagerqt6 (>= 5.66.0), libkf5screen-bin (>= 4:5.17.5~), libkf5screen7 (>= 4:5.23.80), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.7.0) | libqt5quick5-gles (>= 5.7.0), libqt5sensors5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 5)
+Filename: pool/main/liby/libyoyo/libyoyo_0.7_amd64.deb
+Size: 499464
+MD5sum: 9fe01356e37c4ccbec19bb574aa0731e
+SHA1: e4eb6e2b672144003372a8e3883e2de236d997c0
+SHA256: c257a7c82066b920f5b337c5d2bf04ae30c20cbfaaa6ca4fd2d3998a8f1061dc
+SHA512: c003dae8a5ad771e7551aa1ef886be6686f7ffc84c9f02c7ffc398a23ba743e0293b91453026da1fd3c27cacc47aa992894dbf0e65b0ee7e6bdfd1a74e5ab3ac
+Description: YoyoOS Library
+Homepage: https://yoyoos.com
+
+Package: texteditor
+Priority: optional
+Section: devel
+Installed-Size: 9
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Architecture: amd64
+Version: 0.7-1
+Filename: pool/main/t/texteditor/texteditor_0.7-1_amd64.deb
+Size: 1856
+MD5sum: 8075a2003701fdc008629e1c3a5cfca9
+SHA1: f082d5ec05f5ddb6558d9bc228cfe158de11206d
+SHA256: 04257b50ee69605b240493a5f6bf4b682dcd004c184c5168a3d431ad0c7c8341
+SHA512: 3cd40f2a31dd8ae768e2d50744b65144f349bb71a3d78192e26766bab75a6d9720c2a397f196da16583308af317ac9018147f1c23b5c534ab5c5b24900a30a39
+Description: YoyoOS Texteditor
+Homepage: https://github.com/yoyoos/texteditor
+
+Package: yoyo-calamares
+Priority: optional
+Section: utils
+Installed-Size: 9470
+Maintainer: Jonathan Carter <jcc@debian.org>
+Architecture: amd64
+Version: 0.5
+Depends: os-prober, libboost-python1.74.0 (>= 1.74.0), libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libgcc-s1 (>= 3.3.1), libicu70 (>= 70.1-1~), libkf5coreaddons5 (>= 5.61.0), libkf5parts5 (>= 4.96.0), libkf5service-bin, libkf5service5 (>= 4.99.0), libkpmcore11 (>= 20.12.2), libparted2 (>= 3.1), libpwquality1 (>= 1.1.0), libpython3.10 (>= 3.10.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.10.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5svg5 (>= 5.6.0~beta), libqt5webkit5 (>= 5.212.0~alpha3), libqt5widgets5 (>= 5.15.1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 9), libyaml-cpp0.7 (>= 0.7.0)
+Recommends: btrfs-progs, squashfs-tools
+Filename: pool/main/y/yoyo-calamares/yoyo-calamares_0.5_amd64.deb
+Size: 3971590
+MD5sum: 2a0c1c5f9e047234b7a632fff6480b40
+SHA1: 6dcfb86ba3457b8179fd4b91c37581125f8428fb
+SHA256: 0f111f4db115588349293ca767edd8a507e7242684618123ab4a0b07d9d8e01b
+SHA512: c31f08f3f3e655db14f02aeb76cbe388cb537f9dfb6d3340776c017a2076c67b3651d717ef67ed42c25adc71376150e900fe59a4f20ff54db689b539758dbd35
+Description: distribution-independent installer framework
+ Calamares is a distribution-independent installer framework.
+ .
+ It provides a graphical installer that can be used with nearly
+ any distribution. This package is suitable for live media on
+ Debian-based systems, and won't be of any particular use on
+ an already installed system.
+ .
+ You will likely want to provide your own config files to match
+ your distribution, reading the Calamares documentation will guide
+ you through that process.
+Homepage: https://github.com/calamares/calamares
+
+Package: yoyo-calculator
+Priority: optional
+Section: devel
+Installed-Size: 218
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Architecture: amd64
+Version: 0.6-1
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-calculator/yoyo-calculator_0.6-1_amd64.deb
+Size: 77828
+MD5sum: 5a730121e335346e1c37701c4644cef3
+SHA1: c0f0ceb4bc27bd0c9897975e7e0089e0aa345542
+SHA256: 9ffffb9831d5692265290c724d0f98b3f185464f2839813470b43814803b217d
+SHA512: 7b42560321643a3b76917f363e83b9593f703d4c94d2efbcedb61651d4409644694c03cd205450599cc7e506ef986b4afda4d21813517fcd315dc44305ddab4c
+Description: YoyoOS Calculator
+Homepage: https://github.com/yoyoos/calculator
+
+Package: yoyo-core
+Priority: optional
+Section: devel
+Installed-Size: 1452
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Architecture: amd64
+Version: 0.8
+Depends: accountsservice, qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, appmenu-gtk2-module, appmenu-gtk3-module, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5coreaddons5 (>= 4.97.0), libkf5idletime5 (>= 4.96.0), libkf5windowsystem5 (>= 5.25.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6 (>= 2:1.2.99.901), libx11-xcb1 (>= 2:1.7.5), libxcb-composite0, libxcb-damage0, libxcb-dpms0, libxcb-image0 (>= 0.2), libxcb-record0, libxcb-shape0, libxcb-util1 (>= 0.4.0), libxcb1 (>= 1.6), libxcursor1 (>> 1.1.2), libxi6 (>= 2:1.2.99.4), libxtst6
+Filename: pool/main/y/yoyo-core/yoyo-core_0.8_amd64.deb
+Size: 351486
+MD5sum: 0246c35bae519b52219e0f3d704694a9
+SHA1: df99e92b6257154a5bcabc13bd6f098856c64779
+SHA256: 80987279107670fc7453bc9dcb62c761e3007d9c572f6d99e557086d7ac604ec
+SHA512: 1b306a73f194f442b9b1cb4e0425bda6ed17b3168655983f625880cdd7e31651ad464bddb88566cbd9dc1a590fcc7d359afcac246c8ee333a72fb3f2d5380091
+Description: YoyoOS System Components
+Homepage: https://github.com/yoyoos/core
+
+Package: yoyo-cursor-themes
+Priority: optional
+Section: kde
+Installed-Size: 83437
+Maintainer: Reion Wong <reion@yoyoos.com>
+Architecture: amd64
+Version: 0.5
+Filename: pool/main/y/yoyo-cursor-themes/yoyo-cursor-themes_0.5_amd64.deb
+Size: 5029930
+MD5sum: 97605402fe63fc09084c964d9abb4e85
+SHA1: 72f46d2e9a83b6598a4e4470356f95e1d0fafbc3
+SHA256: 56b914a618cb31264a0e4ff739fb585adac9c90ebabaec883f016c32596e5a2a
+SHA512: f03e2b5305648a1a8d8396159c034a11157a9487c7b5ca2be4eaa403b9f1b4d4508532f90fdf281adb95bcaa4c453e5c5601932e6445dbb6bb38881b11ad054b
+Description: YoyoOS Cursor Theme
+Homepage: https://yoyoos.com
+
+Package: yoyo-daemon
+Priority: optional
+Section: devel
+Installed-Size: 87
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.8-1
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-daemon/yoyo-daemon_0.8-1_amd64.deb
+Size: 23860
+MD5sum: 0b53aba87ba3a2e6821045a22df3bf0d
+SHA1: 5245bb44845a11924769a7d9586989e5d2342f5f
+SHA256: f7635cbef42caf1d646912a40e9d0fd3cfa95883c3e1458c39e6b718666e1951
+SHA512: b39e861884e26c10c3cec5f16aed9b14f896aed2b5b57ca173d4818f28d0b457f644b91c886bb0bf40b9f37430b68d84f132a687ced3ff43ca57fc0fe2499335
+Description: YoyoOS Daemon.
+Homepage: http://yoyoos.com
+
+Package: yoyo-daemon
+Priority: optional
+Section: devel
+Installed-Size: 87
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.8
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-daemon/yoyo-daemon_0.8_amd64.deb
+Size: 23768
+MD5sum: 5ae457dddd04b123096d06e12a4e31d0
+SHA1: e0116443a66ac90dd69c41a29d1eda202b329a12
+SHA256: f9d56dd5758f44fca3f109c911dc457779ce8a44cfaec92caa86463b5d5f89f9
+SHA512: c4fdbbd8e5b2f769b9d1b4fdc60b54d92e141c722fff20547230ab8af5c15940a59faf9c69c7411839078db91957a425811126222c5ef8d45f329a9aa3d7400a
+Description: YoyoOS Daemon.
+Homepage: http://yoyoos.com
+
+Package: yoyo-debinstaller
+Priority: optional
+Section: devel
+Installed-Size: 95
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.7-1
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libapt-pkg6.0 (>= 0.8.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-debinstaller/yoyo-debinstaller_0.7-1_amd64.deb
+Size: 27442
+MD5sum: 11b4be0657ca79c1394d655590b7a28a
+SHA1: 8b0f052405d12a59904f3364c6cd85c164671d2c
+SHA256: 6c9deff982ed5fdd5238ec9d074b1a3898864593ef3277552a8dfa71967e069b
+SHA512: 6ee4dd11837a2eef41574adc23765819c64fdbe3d9422178315eb3a759d2078279610c39e680ae3947499fc8156b8432aa54caca3c90f7d39946b165d2f607da
+Description: YoyoOS Deb Installer
+Homepage: https://yoyoos.com/
+
+Package: yoyo-desktop
+Priority: extra
+Section: metapackages
+Installed-Size: 11
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.8
+Depends: yoyo-calculator, yoyo-core, yoyo-dock, yoyo-filemanager, yoyo-launcher, yoyo-statusbar, yoyo-kwin-plugins, yoyo-qt-plugins, yoyo-screenlocker, yoyo-wallpapers, yoyo-settings, yoyo-icons, yoyo-gtk-themes, yoyo-daemon, yoyo-updator, fishui, libyoyo, fonts-noto, fonts-noto-mono, desktop-file-utils
+Recommends: yoyo-screenshot, yoyo-videoplayer, yoyo-debinstaller, yoyo-terminal, pppoe, smbclient, wireless-tools, pulseaudio-module-bluetooth
+Filename: pool/main/y/yoyo-desktop/yoyo-desktop_0.8_amd64.deb
+Size: 1328
+MD5sum: 03596904110b74da9d165555627a9c43
+SHA1: 020d59237a477f48a6789fd6b30a8e494ba50786
+SHA256: 50fd6fd0e07ad0c6d491c8efacb9bcaded7fa8c784724ee854e8ad64b57732a6
+SHA512: b3e7a1d37e838d374e1472a1b0d50bfb23fb618bb2830a7e4f3fabb7fa658767ef466dc91c9863e4d184c999a3b4b8fa03761345db203850607c43482d1796b4
+Description: YoyoOS Meta Packages.
+Homepage: https://yoyoos.com
+
+Package: yoyo-dock
+Priority: optional
+Section: devel
+Installed-Size: 267
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Architecture: amd64
+Version: 0.8
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtgraphicaleffects, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.35.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1)
+Filename: pool/main/y/yoyo-dock/yoyo-dock_0.8_amd64.deb
+Size: 74662
+MD5sum: b74a8e89f54c190680f795b0cd33f6ef
+SHA1: 0eb5eae457bdc1d2ea65e4fad147fc6ca9bf90f2
+SHA256: fe75a6a7bebd1c6dd65dca3420f2b880506c3c1e431e069f9ff937b1ae184288
+SHA512: 5cb7930c72e85d595aa644d33ea8792da3cde2686a51105f0720f421ad0665464c47759d2e64fdb2a6a159895479108c1ba8a3d3eb1ff08fd2e3605382ed55f1
+Description: YoyoOS Dock
+Homepage: https://yoyoos.com
+
+Package: yoyo-filemanager
+Priority: optional
+Section: devel
+Installed-Size: 948
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.8
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtgraphicaleffects, kio, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5configcore5 (>= 4.97.0), libkf5coreaddons5 (>= 4.97.0), libkf5kiocore5 (>= 5.92.0), libkf5kiowidgets5 (>= 5.3.0+git20141101.0339), libkf5solid5 (>= 5.74.0), libkf5windowsystem5 (>= 4.96.0), libkf5xmlgui5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.9.0~beta) | libqt5gui5-gles (>= 5.9.0~beta), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-filemanager/yoyo-filemanager_0.8_amd64.deb
+Size: 252138
+MD5sum: 0260334e972de7159b1358c1bfc36a04
+SHA1: 70f92e552ad48576140b2d59ad8c601c48d48519
+SHA256: da3bd496532f79bee862771562e69fcfccf24a62da7d164cad4273008a2253ff
+SHA512: 73dfca755f8e90330bce880bde74daa55fbbd02a18c72eff92f21f4cf6e1e0aff09f2807a3f9d0e69a40bff9e5d7887a45a20b7d1ef86a8d78e3d843a2f257e9
+Description: YoyoOS File Manager
+Homepage: https://yoyoos.com
+
+Package: yoyo-gtk-themes
+Priority: optional
+Section: gnome
+Installed-Size: 2557
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.7
+Filename: pool/main/y/yoyo-gtk-themes/yoyo-gtk-themes_0.7_amd64.deb
+Size: 96438
+MD5sum: f9994c583bff5d5df6d5eba2b360b2c9
+SHA1: c189ebb4abb040621ed25b8cee26dc396b70cf59
+SHA256: 19a241285c38765f8f6cff2625b5435c158ff044731d9a2d2815e61b7284cc1a
+SHA512: 48e4ce1b57992c990acddbb598f7003072623be56d1abf8a6a3d9e04ba259e063d5c3d11fc4ef95c5304e501094641bbe34785ca584ad39fd9713c44184fe730
+Description: YoyoOS GTK Themes
+Homepage: https://yoyoos.com
+
+Package: yoyo-hi
+Priority: optional
+Section: utils
+Installed-Size: 56
+Maintainer: shenmo <shenmo@spark-app.store>
+Architecture: amd64
+Version: 1.1
+Filename: pool/main/y/yoyo-hi/yoyo-hi_1.1_amd64.deb
+Size: 844
+MD5sum: f448dc066f6bfe732f044de4ae2844a6
+SHA1: abdfc053ef3c610377accc41fb5df1d7b99df0e4
+SHA256: 2775a11c54febf50079506397e00500ebbed60752b54771929e967b1de30caee
+SHA512: e6715c590f3b32c65c72f378653069ce91de4c317bb20cb3d6fa462512de5cb6c3314819e678926e722b244c6a6c1431d7fef118d87cea08020bfc3ef8c118db
+Description: yoyo-hi
+
+Package: yoyo-icons
+Priority: optional
+Section: x11
+Installed-Size: 42027
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: all
+Version: 0.8-1
+Filename: pool/main/y/yoyo-icons/yoyo-icons_0.8-1_all.deb
+Size: 3057528
+MD5sum: 0e0e95a2e7a4aa8d448b1a67b73db0cf
+SHA1: 46194a8498ee326324c72f01ab164b03f67ddc2e
+SHA256: 79cca1e2d07e7fd347a8a21620da85fa7796feb277fd0dae648aade6c78856a4
+SHA512: e433f02022b351482aaa8df7ec0ca409163f66a3efc97dfa5bef59cbfde414ddf4a11d9a08c460094d8f2897dfcc5c0d12c9a1e37c42eb83efd30ab49d80500a
+Description: YoyoOS Icons
+Homepage: https://yoyoos.com
+
+Package: yoyo-kwin-plugins
+Priority: optional
+Section: devel
+Installed-Size: 212
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Architecture: amd64
+Version: 0.8
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, libc6 (>= 2.29), libgcc-s1 (>= 3.3.1), libkdecorations2-5v5 (>= 5.1.50+git20141206.0010+15.04), libkf5coreaddons5 (>= 4.99.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5)
+Filename: pool/main/y/yoyo-kwin-plugins/yoyo-kwin-plugins_0.8_amd64.deb
+Size: 44668
+MD5sum: 4f96414993b6883686cab6f6687802fa
+SHA1: f5b5a2612a216c2e7a2fcc633183772a6149d92e
+SHA256: d0fa24c7704d4fe486524e80399c493c40ed78a575154c024a6be25134e303dd
+SHA512: 0f2fc0a49a7195835f812530a2cf54a842bdcd0c9707b284d6e700c550b5c1917b5748a26610aea80e07e5942ebc48e705459d040f51e784f38d330cf6aa736b
+Description: YoyoOS KWin Plugins
+Homepage: https://yoyoos.com
+
+Package: yoyo-launcher
+Priority: optional
+Section: devel
+Installed-Size: 234
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.8
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Filename: pool/main/y/yoyo-launcher/yoyo-launcher_0.8_amd64.deb
+Size: 63010
+MD5sum: 856b0de2a663fd42f56081ceabd7e2c9
+SHA1: 5bfadda399c4a6cfabf07ec8e5ac0adfb1ffb941
+SHA256: bf144612c2a71a7047a66a774da7b1f560485c67038fa7658fd983632db5fb92
+SHA512: 58f03d98c6819b17d7a5c90b40fcebc2f02bd7adc187cd75bd3e14a6ce61b3231965460ff8bf4ff64dde1ae05d6c221bcb2eff3546ca1aecf336347649de1321
+Description: YoyoOS Launcher
+Homepage: https://yoyoos.com
+
+Package: yoyo-plymouth-theme
+Priority: optional
+Section: misc
+Installed-Size: 36
+Maintainer: Reion Wong <reion@yoyoos.com>
+Architecture: all
+Version: 0.5-1
+Filename: pool/main/y/yoyo-plymouth-theme/yoyo-plymouth-theme_0.5-1_all.deb
+Size: 12986
+MD5sum: 721a337e6cb63e465701eab33ff66d12
+SHA1: e88ecfa04fb17067d5e6ec9c3b544c40b26f372c
+SHA256: f94723d89f610ef5a34b51c5bd05024ca76b52dc6092697eb808ca16eb182c5b
+SHA512: 78cf093e288d21d0f2e1424104c44b33ea43ceed9b8dbf1fd892542624fab0085d00270f5378dd3548ff90d59afe58c0da5ac17cc972c338922f96e556638a18
+Description: Plymouth theme for YoyoOS.
+
+Package: yoyo-plymouth-theme
+Priority: optional
+Section: misc
+Installed-Size: 39
+Maintainer: Reion Wong <reion@yoyoos.com>
+Architecture: all
+Version: 0.5
+Filename: pool/main/y/yoyo-plymouth-theme/yoyo-plymouth-theme_0.5_all.deb
+Size: 15212
+MD5sum: 10a82f67ebf58ee35cb7aef1cd9cee9f
+SHA1: 1024d5fcd432d5fa6ee2a548231b9c2f551402ee
+SHA256: d60303b7e1749ac20ce1b25bd9ff86e33d75d41ffbc26b43409cb5576df6d96d
+SHA512: 01ed7c17f8a20426ad7ca09e646f607c4459378183cd0fec229c010cab71ff72f8d039d86c2564a8a2bda5bde667f3b79081e53d70804f96926dc01e5ba7fe60
+Description: Plymouth theme for YoyoOS.
+
+Package: yoyo-qt-plugins
+Priority: optional
+Section: devel
+Installed-Size: 509
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.6
+Depends: libc6 (>= 2.29), libdbusmenu-qt5-2 (>= 0.3.2), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.69.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5quickcontrols2-5 (>= 5.7.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libqt5xdgiconloader3 (>= 2.0.0), libstdc++6 (>= 5), qtbase-abi-5-15-3
+Filename: pool/main/y/yoyo-qt-plugins/yoyo-qt-plugins_0.6_amd64.deb
+Size: 168854
+MD5sum: 5c0c0ab18ad8466344e1d6c251e7ec99
+SHA1: c784f89c38206f667d648e552705efd442884924
+SHA256: 48baf9621a53d7aee2ce2af2ae67281b6a16a6c793b198c365bf2bcaf5a57a6e
+SHA512: 8b18cb5ad685ef5e43a94f3a65d47d93db4207c7450e09a476eeef15e7dbdc26492a619711a6e25fabed2c5b522b936b892cf38eefc6a4396fd1f97068085f98
+Description: YoyoOS Qt Plugins
+Homepage: https://yoyoos.com
+
+Package: yoyo-screenlocker
+Priority: optional
+Section: devel
+Installed-Size: 164
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.6-1
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libpam0g (>= 0.99.7.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6
+Filename: pool/main/y/yoyo-screenlocker/yoyo-screenlocker_0.6-1_amd64.deb
+Size: 37804
+MD5sum: 669ef7e688a9d54642a883a17ae972de
+SHA1: 93c88b5432f596bfdec09896992948aa2c1c8504
+SHA256: 966fd804f287f776b0cca318de573ab18cb591068a43ee16c534b8f7daddac3f
+SHA512: 2bbf1b435e25a51f9ad10e537d65af31b9ba27722390fa652d7331efe290e0643e54035c0d716e356001b3366bff311d4619cabb9f38fb04c2acb7a5dd2c96a3
+Description: YoyoOS Screen Locker
+Homepage: https://yoyoos.com
+
+Package: yoyo-screenshot
+Priority: optional
+Section: devel
+Installed-Size: 115
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Architecture: amd64
+Version: 0.8
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Filename: pool/main/y/yoyo-screenshot/yoyo-screenshot_0.8_amd64.deb
+Size: 22922
+MD5sum: 72f7cdb86ab28bfeedb75e14881869dc
+SHA1: aac50f646cb486e76850a699e9f3465dad7b3e7b
+SHA256: 1129367bf610f12b7792cc74fc20f37403e77e787f840bb64281494c0aeca517
+SHA512: 68310e616051508f5f00b3162679876196ebea46b6f50216ef2e10e9bb186e04d546a5b28988dbbbeb6d041e68a7eb3a09196e51804c01b8c0a3bec0bdc4726e
+Description: YoyoOS Screenshot
+Homepage: https://yoyoos.com
+
+Package: yoyo-sddm-theme
+Priority: optional
+Section: devel
+Installed-Size: 44
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Architecture: amd64
+Version: 0.5-1
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, sddm
+Filename: pool/main/y/yoyo-sddm-theme/yoyo-sddm-theme_0.5-1_amd64.deb
+Size: 6722
+MD5sum: 67a57e78066c27183c96662545f4a431
+SHA1: cc71ca2b0fb896c76679338cacc851951caec15a
+SHA256: c10e6a16edb22c659a243d7b425303723c34faf8325627de521b62ece0212b48
+SHA512: a022ccb45c715c1d031b467aad4ee421cee112969703952eb07ff0d475394dfbd7472fe622260123efede6129e87fd95a14b85942662fc9a898d971a64e0f119
+Description: YoyoOS Calculator
+Homepage: https://github.com/yoyoos/calculator
+
+Package: yoyo-settings
+Priority: optional
+Section: devel
+Installed-Size: 1323
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.8-1
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtquick-particles2, kscreen, libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libfontconfig1 (>= 2.12.6), libgcc-s1 (>= 3.3.1), libicu70 (>= 70.1-1~), libkf5configcore5 (>= 4.97.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libx11-6, libxcursor1 (>> 1.1.2), libxfixes3
+Filename: pool/main/y/yoyo-settings/yoyo-settings_0.8-1_amd64.deb
+Size: 311112
+MD5sum: 96559c514bfc46959940baeb47de01ce
+SHA1: 334de822798e3a6f62fa7663813fb742dfd6bb46
+SHA256: 43a6ab9819fc4840766277d70d76e0d580147df920ea74e7b26fae52934f94a6
+SHA512: bb8d4bd491414b029d61ee6fef6bdc1df38d9f0c3ed7dc48c05103131e384098a5a511781bc8db0730e4227a69c2bfab171362976708aafa574b2a715e7f794b
+Description: YoyoOS Settings
+Homepage: https://yoyoos.com
+
+Package: yoyo-settings
+Priority: optional
+Section: devel
+Installed-Size: 1323
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.8
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtquick-particles2, kscreen, libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libfontconfig1 (>= 2.12.6), libgcc-s1 (>= 3.3.1), libicu70 (>= 70.1-1~), libkf5configcore5 (>= 4.97.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libx11-6, libxcursor1 (>> 1.1.2), libxfixes3
+Filename: pool/main/y/yoyo-settings/yoyo-settings_0.8_amd64.deb
+Size: 310216
+MD5sum: 2f8d327f5135b19cbdf5f78392830e54
+SHA1: ba335d09c4ef826f81fb76bdb918c21534a9396a
+SHA256: 32d1a7a48b035096ee6739f81da5489f087b4db26276b862835ca91f966223e9
+SHA512: db1ff7fc90a531bf99d8ff20990bed12a7d83d613483daf5f5e20245007804c7a07afb5d817bc1606debda90464b316a1a1a4b5089c54c0a45f733c6e62acb6c
+Description: YoyoOS Settings
+Homepage: https://yoyoos.com
+
+Package: yoyo-statusbar
+Priority: optional
+Section: devel
+Installed-Size: 705
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.8-1
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.35.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libxcb1
+Filename: pool/main/y/yoyo-statusbar/yoyo-statusbar_0.8-1_amd64.deb
+Size: 178704
+MD5sum: 17f47148bea7fc43d1b1ae69be54b215
+SHA1: bfbdb33cbc5a9729d1fbe4cc4f4cf26d67075ef7
+SHA256: 09c0488a6d3b0954242f925a00b22336466f9d939056ffdb39cc5c33f1ce6e3f
+SHA512: 3c81b2a565ac0ff4e63bc0e98175232369e47022ec8d7b38d11149968f9ee79b3e4903c063d50d7fadbb211b02d5eb13d3fda51041cb3cb7bcb18e39bb623639
+Description: YoyoOS Statusbar
+Homepage: https://yoyoos.com
+
+Package: yoyo-terminal
+Priority: optional
+Section: devel
+Installed-Size: 883
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.7-3
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libyoyo, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.1) | libqt5quick5-gles (>= 5.6.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-terminal/yoyo-terminal_0.7-3_amd64.deb
+Size: 257376
+MD5sum: 86ac351bdf169270a5958989b55b19fc
+SHA1: 3a5fb1966e71122bf3cf3983206103b1d3c39490
+SHA256: fea5323dd183b0b91f73fe54853b000ff31e031b3d7a0f82ccedb96b4b0651e8
+SHA512: ddafd8c11531d371e2067e9c90d4d2457d3ba1bff63eb39dbe54a4db7aa2d0389cb82109e07e67b7b06e0fc3cffc4859a71f93ee2e8dcdde39a2ef5d763c1c02
+Description: YoyoOS Terminal
+Homepage: https://yoyoos.com
+
+Package: yoyo-terminal
+Priority: optional
+Section: devel
+Installed-Size: 883
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.7-2
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libyoyo, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.1) | libqt5quick5-gles (>= 5.6.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-terminal/yoyo-terminal_0.7-2_amd64.deb
+Size: 257136
+MD5sum: 6d5064fda2237c677fd399687bc2999a
+SHA1: 975d2ad1494b0a472bea51f942019d19a79e4a32
+SHA256: 478d58d8d14724602fa001bf488faecf891c69b438dbcd36ca3b964afeb63170
+SHA512: 80b8dbffef8cd21acb6bef9d873a2abb7737e0f20bfef8dfe889b6aa7ef470ec7e2212d1911935eabb45a0b6016a340443a92968f0bc5556bd9646b837185ef5
+Description: YoyoOS Terminal
+Homepage: https://yoyoos.com
+
+Package: yoyo-terminal
+Priority: optional
+Section: devel
+Installed-Size: 883
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.7-1
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libyoyo, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.1) | libqt5quick5-gles (>= 5.6.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-terminal/yoyo-terminal_0.7-1_amd64.deb
+Size: 257174
+MD5sum: 1f93c9450fd7a968cc608e827430144b
+SHA1: 622f0a73144af6b8fd77431089db84fcd649c306
+SHA256: 5a28d66057c1626ba6947dd07c5ad5c9265931a451326a9849071600a4f1815e
+SHA512: 6d741afe51b0a79b6e98ea5f65cdd2528fdce1f8f78827097446a15641359158e002c8fe9b2e62c3b71482c2fa4426c03616c899a2d9ba69084b4e2b17100efe
+Description: YoyoOS Terminal
+Homepage: https://yoyoos.com
+
+Package: yoyo-terminal
+Priority: optional
+Section: devel
+Installed-Size: 883
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.7
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.1) | libqt5quick5-gles (>= 5.6.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-terminal/yoyo-terminal_0.7_amd64.deb
+Size: 257052
+MD5sum: a1285a34769631ad98f7758e6cf4318f
+SHA1: e204f5a2cfc7508a593f3f48199f8688fbea9552
+SHA256: 19b98e31dfb9d48b0e335f4438587bdd7ceadab3ecfd78529100add935fef0d3
+SHA512: 810e502ae0611e18ad57fbfea90aa478b57bfc72707beb46b2b9fdfa18de103b62fbdb78d953682f0f78f41174760a38ad77d11506bd6bf0ab94b5fd445b2d9a
+Description: YoyoOS Terminal
+Homepage: https://yoyoos.com
+
+Package: yoyo-updator
+Priority: optional
+Section: devel
+Installed-Size: 345
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Architecture: amd64
+Version: 0.8-1
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.1.0), libstdc++6 (>= 4.1.1)
+Filename: pool/main/y/yoyo-updator/yoyo-updator_0.8-1_amd64.deb
+Size: 287530
+MD5sum: 5dbef4f47fb8a1875c273dc6b5825ed6
+SHA1: bcc9948d6a98ae4019c6f9d58a2a4177cc5ce8ae
+SHA256: 1a43ceeb445130038be537b1d8973589dc69b849cd7eb5cee8d46d74c53c8850
+SHA512: 93a6d8cdec5224c820aa0a56c9c6be26d4669ef9ac6944b91cbb1540a509c84a08792684b9275a8cbb883eac9801e17ebd3331ef52c579783a149db53b5dd1bd
+Description: YoyoOS Updator.
+Homepage: https://yoyoos.com
+
+Package: yoyo-videoplayer
+Priority: optional
+Section: video
+Installed-Size: 248
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.5-3
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtquick-particles2, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libmpv1 (>= 0.29), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.4.0) | libqt5quick5-gles (>= 5.4.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2), qtdeclarative-abi-5-15-3
+Filename: pool/main/y/yoyo-videoplayer/yoyo-videoplayer_0.5-3_amd64.deb
+Size: 82352
+MD5sum: 82243cc40a6f7a6415eebb80fcbf3755
+SHA1: 53f7665560c5814b96d1493b656dcb5adf8bc768
+SHA256: 38c3dcce9d7cf9e0f924143bc19ee252e6602f89a6d5d453800e85b3caf37637
+SHA512: 2a2a7f82206e64921c0b3707c656461ff8098940238021d4fda457b7846cb698889e23c99a9b7a01ebcaa374374fdb48d0added3fd3af53b3b3d67969ef79539
+Description: An open source video player built with Qt/QML and libmpv
+Homepage: https://yoyoos.com
+
+Package: yoyo-wallpapers
+Priority: optional
+Section: devel
+Installed-Size: 3350
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.5
+Filename: pool/main/y/yoyo-wallpapers/yoyo-wallpapers_0.5_amd64.deb
+Size: 3231676
+MD5sum: 5a59ebf5aa6dd8a60023d0f858759c77
+SHA1: 7fc409268bccdf0e8c82b7799ccec48d5e8874f4
+SHA256: f5f9750a471f957c2bbe0a1846179ee55755072a8b991f34bcdc9d8628e560c0
+SHA512: 9f69b1d197c64a5db4d3fa040f15e30a51cc42a518bb8d1b9b2ad5127890ee9acf81d4f2220627fe0d199bb3f38333f84cf21a34bf2f9d7c73a384e2d80e36ea
+Description: YoyoOS Wallpapers
+Homepage: https://yoyoos.com
+
