@@ -1,2 +1,2 @@
-# yoyo-repo
+# packages
 Yoyo package repository
