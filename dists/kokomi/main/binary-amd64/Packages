@@ -7,11 +7,11 @@ Architecture: amd64
 Version: 0.7-1
 Depends: libc6 (>= 2.34), libcap2 (>= 1:2.10), libdbus-1-3 (>= 1.9.14), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 11), libsystemd0
 Filename: pool/main/a/appmotor/appmotor_0.7-1_amd64.deb
-Size: 63836
-MD5sum: 619c43ee942c0818274c29e8653dd342
-SHA1: 2b666811c5aab4f92d71442ef5e672720286af35
-SHA256: 8d67d8b2cb99aaa80541d9c06a51a111827fc97800933b6ddc4e85c8943960fc
 SHA512: 28828d3779db14c96de39068cd3c948a8506b1107a38137d85e76c4828243ce7b2eb2fb5c8a97e9308bebf915b2863549db58e5442864ab7391931a48d36f192
+Size: 63836
+SHA256: 8d67d8b2cb99aaa80541d9c06a51a111827fc97800933b6ddc4e85c8943960fc
+SHA1: 2b666811c5aab4f92d71442ef5e672720286af35
+MD5sum: 619c43ee942c0818274c29e8653dd342
 Description: YoyoOS Appmotor
 Homepage: https://github.com/yoyoos/appmotor
 
@@ -28,11 +28,11 @@ Depends: libc6 (>= 2.14), libdde-file-manager (= 5.6.3-1), libdfm-extension, lib
 Recommends: qt5dxcb-plugin, deepin-screensaver
 Conflicts: dde-file-manager-oem, dde-workspace (<< 2.90.5)
 Filename: pool/main/d/dde-file-manager/dde-desktop_5.6.3-1_amd64.deb
-Size: 453600
-MD5sum: e9efba17353f7f928790c80b690fb664
-SHA1: 0f5a7e9ee43ab45c5d7c19edf5b7ebaecd414ab8
-SHA256: 298de6577bd4d3120205f86e436bbfba411001ddd618a526915cde6eb9341cad
 SHA512: 0e94600f0989633c56737b64769f9fddbe74d6458422a41fbec5c202e8f3ac2620da647fc677f2b81acda45c373712d33bc51d9cbc7eae387bde0117be849fd7
+Size: 453600
+SHA256: 298de6577bd4d3120205f86e436bbfba411001ddd618a526915cde6eb9341cad
+SHA1: 0f5a7e9ee43ab45c5d7c19edf5b7ebaecd414ab8
+MD5sum: e9efba17353f7f928790c80b690fb664
 Description: deepin desktop-environment - desktop module
  Deepin Desktop Environment (DDE) - desktop module.
 Homepage: http://www.deepin.org
@@ -47,11 +47,11 @@ Source: dde-file-manager
 Version: 5.6.3-1
 Depends: dde-desktop (= 5.6.3-1)
 Filename: pool/main/d/dde-file-manager/dde-desktop-dbgsym_5.6.3-1_amd64.deb
-Size: 18630296
-MD5sum: d6179981e56940b54f1b667177cc78d2
-SHA1: dd8c1f97d01988beaf5354e6ce8a008215219c7f
-SHA256: d475ac68fcaa0e3652243a506186a09c1455e87b1c90963427d3bd9edf5f4da8
 SHA512: 103c5e12898349bdfb5389764cd77d501e4d03cde27e5b87f35dabae47ab4e079e7eaec9480164d187bf94f59438a8e10b41edb908f2c64ce048c5d07a277be6
+Size: 18630296
+SHA256: d475ac68fcaa0e3652243a506186a09c1455e87b1c90963427d3bd9edf5f4da8
+SHA1: dd8c1f97d01988beaf5354e6ce8a008215219c7f
+MD5sum: d6179981e56940b54f1b667177cc78d2
 Description: debug symbols for dde-desktop
 Auto-Built-Package: debug-symbols
 Build-Ids: d0443fd1a6e70c15ef252a00eac6f95c70b92d8b d1e44ea6bbc93e8a2c15c4fae520f6dbaa246aab e6f70062a995e4d3e4a0514a6f245f40c1cc891e
@@ -65,11 +65,11 @@ Architecture: amd64
 Version: 0.0.1.14-1
 Depends: libc6 (>= 2.24), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc1 (>= 1:3.0), libgl1, libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libudisks2-qt5, libx11-6
 Filename: pool/main/d/dde-device-formatter/dde-device-formatter_0.0.1.14-1_amd64.deb
-Size: 58972
-MD5sum: 0464862ab3b69698c75029c01291ace7
-SHA1: 633bfae084b5ca511ed63e951b6827fc17039211
-SHA256: c1f6a6e0c4541767ba95dbb6c81b01a1fe17bd21a61968c52a134b00196eec69
 SHA512: 9d347eebc2fc2d01138d01de2c56c5c9eb46705ee3db43942a5b2b584c2551d5abb1ba17166fe328a78e38d49297bb3dbd281f64db65175ecfcedb8c87f9f223
+Size: 58972
+SHA256: c1f6a6e0c4541767ba95dbb6c81b01a1fe17bd21a61968c52a134b00196eec69
+SHA1: 633bfae084b5ca511ed63e951b6827fc17039211
+MD5sum: 0464862ab3b69698c75029c01291ace7
 Description: Device formatter
  A simple graphical interface for creating file system in a block device.
 Homepage: http://www.deepin.org
@@ -84,11 +84,11 @@ Source: dde-file-manager
 Version: 5.6.3-1
 Depends: libc6 (>= 2.4), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc1 (>= 1:3.0), libgio-qt, libgl1, libglib2.0-0 (>= 2.12.0), libglibmm-2.4-1v5 (>= 2.54.0), libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.2.0~alpha1), libsigc++-2.0-0v5 (>= 2.2.0), libstdc++6 (>= 4.5), libudisks2-qt5, dconf-gsettings-backend | gsettings-backend, libdde-file-manager (= 5.6.3-1)
 Filename: pool/main/d/dde-file-manager/dde-disk-mount-plugin_5.6.3-1_amd64.deb
-Size: 201516
-MD5sum: ff4306346fbed357c6bfd6754141c487
-SHA1: 964b9196e876538d083cb14bc2dda077d90087a3
-SHA256: 580a88a82159d3cf9d027e036db7846a35277b01663222deeb6a583403c7a60c
 SHA512: 1c2eef3c09f61c01333897811f14ac520f56e320a82b0521510fd26cabde5182f6463512b548f50823a4249c942c764a5cd5add9b2185a888c4d473311ebbf39
+Size: 201516
+SHA256: 580a88a82159d3cf9d027e036db7846a35277b01663222deeb6a583403c7a60c
+SHA1: 964b9196e876538d083cb14bc2dda077d90087a3
+MD5sum: ff4306346fbed357c6bfd6754141c487
 Description: plugin of dde-dock
  Disk mount plugin of dde-dock which is created by libdde-file-manager
 Homepage: http://www.deepin.org
@@ -103,11 +103,11 @@ Source: dde-file-manager
 Version: 5.6.3-1
 Depends: dde-disk-mount-plugin (= 5.6.3-1)
 Filename: pool/main/d/dde-file-manager/dde-disk-mount-plugin-dbgsym_5.6.3-1_amd64.deb
-Size: 3936048
-MD5sum: 7e710faf0c2207d5e154ae00434a4a80
-SHA1: 69ad41dede4809506a68f86466a44cd2c823fc7a
-SHA256: c73871e2a518e3fd908dda8f3acade6f2708ded17da1d716da2eb44f73f3b54a
 SHA512: 70ffc27508c820fb1b4333c82e4cb453aba41e3975eeab8b9b79794beab4693d89cd4c0c8518a2d3b0e79ff4ec8390929d16289f39baaba8a9d2834c0098f6b9
+Size: 3936048
+SHA256: c73871e2a518e3fd908dda8f3acade6f2708ded17da1d716da2eb44f73f3b54a
+SHA1: 69ad41dede4809506a68f86466a44cd2c823fc7a
+MD5sum: 7e710faf0c2207d5e154ae00434a4a80
 Description: debug symbols for dde-disk-mount-plugin
 Auto-Built-Package: debug-symbols
 Build-Ids: b79ab65850547eae5529303ae8f30d319d9c87b1
@@ -124,11 +124,11 @@ Depends: deepin-anything-server, libc6 (>= 2.14), libdde-file-manager (= 5.6.3-1
 Recommends: dde-qt5integration, avfs, samba
 Conflicts: dde-file-manager-oem
 Filename: pool/main/d/dde-file-manager/dde-file-manager_5.6.3-1_amd64.deb
-Size: 23508436
-MD5sum: af1789cc99a55820407e0b621a352870
-SHA1: 6b18b96e9a8342741c19f6b40e010d605f0945fc
-SHA256: a87fbd02866351a4112b0f204e55113b6b6757dc2d690dcfffa945d3687213f9
 SHA512: 6f5bdb322f955767c5632234637645937ceab05989c3d4fc2275799f4c00d9153e0ef95c7ab1352822e8aee35b3795879aae585299179735b2870f00f8da4013
+Size: 23508436
+SHA256: a87fbd02866351a4112b0f204e55113b6b6757dc2d690dcfffa945d3687213f9
+SHA1: 6b18b96e9a8342741c19f6b40e010d605f0945fc
+MD5sum: af1789cc99a55820407e0b621a352870
 Description: File manager front end
  File manager front-end of Deepin OS
 Homepage: http://www.deepin.org
@@ -143,11 +143,11 @@ Source: dde-file-manager
 Version: 5.6.3-1
 Depends: dde-file-manager (= 5.6.3-1)
 Filename: pool/main/d/dde-file-manager/dde-file-manager-dbgsym_5.6.3-1_amd64.deb
-Size: 16473832
-MD5sum: 1ace904489b50c7ab96bd324344a76fb
-SHA1: 02264d7fa31599445688b15318c178e6e6807e9d
-SHA256: 5f5b29c4ae6e00a708e877a47eabaa6e835becabf57b78383d5792d52f41d2f0
 SHA512: 908559a35aeba903102d1cfe23ba10e68579f69768526080283877b76a50d33392a56f08baafc56d58fc23bd2c76f1701bd1f10f422df4f1fac8ab5341afe8e8
+Size: 16473832
+SHA256: 5f5b29c4ae6e00a708e877a47eabaa6e835becabf57b78383d5792d52f41d2f0
+SHA1: 02264d7fa31599445688b15318c178e6e6807e9d
+MD5sum: 1ace904489b50c7ab96bd324344a76fb
 Description: debug symbols for dde-file-manager
 Auto-Built-Package: debug-symbols
 Build-Ids: 15063f159d38630496fb7455ee7f4303faa5029b 39f6482deaaef3da38265a940ccc28a35cd780b3 56c685482a88ea5bb2106345f1b999a9983ab83e
@@ -164,11 +164,11 @@ Provides: libqt5deepintheme-plugin
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.9.0~beta) | libqt5gui5-gles (>= 5.9.0~beta), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5), qtbase-abi-5-15-3, dde-qt5xcb-plugin, dde-qt5integration5
 Conflicts: libqt5deepintheme-plugin
 Filename: pool/main/q/qt5integration/dde-qt5integration_5.5.20-1_amd64.deb
-Size: 19214
-MD5sum: a42c392d91643215e1038e4aad9f8931
-SHA1: e04bd0744e7ba11d0cd4ceceb45194afbe6060ea
-SHA256: 070a267e6fa70acda8a96bb61f32109fba7392ba950b0753ec21dce6139eed4d
 SHA512: 5a748f1c115c5578738c6fc590926e4873ae638b5c8c57191dbe2908dd289036689375e184aaea05446ec0a78b0f8d180c0425f515ac0b59efe53fc022165715
+Size: 19214
+SHA256: 070a267e6fa70acda8a96bb61f32109fba7392ba950b0753ec21dce6139eed4d
+SHA1: e04bd0744e7ba11d0cd4ceceb45194afbe6060ea
+MD5sum: a42c392d91643215e1038e4aad9f8931
 Description: Qt platform theme integration plugin choosers for DDE
  Multiple Qt plugin choosers for DDE is included.
 
@@ -181,12 +181,12 @@ Architecture: amd64
 Source: qt5integration
 Version: 5.5.20-1
 Depends: dde-qt5integration (= 5.5.20-1)
-Filename: pool/main/q/qt5integration/dde-qt5integration-dbgsym_5.5.20-1_amd64.ddeb
-Size: 971826
-MD5sum: 139f069a4174e67a6c38bc044395d62a
-SHA1: cc6e436f3e4a027b11b26b4363454f41df9fc0f7
-SHA256: 3256dc3af17d6a31e43486770f2e97425199e2a8a605f9bb8bc8747a4dfc0311
+Filename: pool/main/q/qt5integration/dde-qt5integration-dbgsym_5.5.20-1_amd64.deb
 SHA512: 06179303b2bc03e22557e4825541bb1e57a58e8f493affcc55861e5083610f36ffdc53b8a05cbd321634e0800739e0c047650ce8d8596229b76a591bffdb45d0
+Size: 971826
+SHA256: 3256dc3af17d6a31e43486770f2e97425199e2a8a605f9bb8bc8747a4dfc0311
+SHA1: cc6e436f3e4a027b11b26b4363454f41df9fc0f7
+MD5sum: 139f069a4174e67a6c38bc044395d62a
 Description: debug symbols for dde-qt5integration
 Auto-Built-Package: debug-symbols
 Build-Ids: 274edb30f00e502fc50f0d671936b0fee6274e81 5806f2657b109f0c4e0e5ab215b404438ff5519e 5c226a318c5ca2652337743234324d27ecf4f0d4 6a102082acba0b1aacef699f276506f0ae756ec0 b13ade99ade83fad9d965c7b3c14d6fe5115608d b39f81c4853c9816ff3470d420dcaaac6c436c38
@@ -202,11 +202,11 @@ Source: qt5integration
 Version: 5.5.20-1
 Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5widgets5 (>= 5.10.0), libqt5x11extras5 (>= 5.6.0), libqt5xdg3 (>= 3.0.0), libqt5xdgiconloader3 (>= 3.0.0), libstdc++6 (>= 5), libx11-6, qtbase-abi-5-15-3, dde-qt5xcb-plugin
 Filename: pool/main/q/qt5integration/dde-qt5integration5_5.5.20-1_amd64.deb
-Size: 289576
-MD5sum: 9c10378698739c996247ab209428b675
-SHA1: 20d2d4025554ff03deab64809e806907b151a316
-SHA256: 89485045cbd2d1624c8c7caa7652d646b09506bf286e0ae126e0820d8a17b4ba
 SHA512: d77bc9b034bf9705ca8e3ae1df825809ae2cbddf764e10876561f30b556117c677aa51322d63160f3f002f5441c9ffc6e37477115789f935f3b1ec44cc800ae5
+Size: 289576
+SHA256: 89485045cbd2d1624c8c7caa7652d646b09506bf286e0ae126e0820d8a17b4ba
+SHA1: 20d2d4025554ff03deab64809e806907b151a316
+MD5sum: 9c10378698739c996247ab209428b675
 Description: Qt platform theme integration plugins for DDE
  Multiple Qt plugins to provide better Qt5 integration for DDE is included.
 
@@ -219,12 +219,12 @@ Architecture: amd64
 Source: qt5integration
 Version: 5.5.20-1
 Depends: dde-qt5integration5 (= 5.5.20-1)
-Filename: pool/main/q/qt5integration/dde-qt5integration5-dbgsym_5.5.20-1_amd64.ddeb
-Size: 5253390
-MD5sum: 67f2d93c0a28ae7a3277343f06a5a107
-SHA1: 4e6a7485dee8e8d462e9ce427ebe0485f224eed5
-SHA256: 94cc3818f25a8ef5b7fb86ab67278606f5bff88fc1feeeeb6eeec77961c8b822
+Filename: pool/main/q/qt5integration/dde-qt5integration5-dbgsym_5.5.20-1_amd64.deb
 SHA512: 7dec4035f2cc5eea24258f5811929d224f555a018ca480d774194fd7f830b89c6a791defe54a3f79a9884ff1f4e0eb40db40565d77307eea7379aa73c3347ea0
+Size: 5253390
+SHA256: 94cc3818f25a8ef5b7fb86ab67278606f5bff88fc1feeeeb6eeec77961c8b822
+SHA1: 4e6a7485dee8e8d462e9ce427ebe0485f224eed5
+MD5sum: 67f2d93c0a28ae7a3277343f06a5a107
 Description: debug symbols for dde-qt5integration5
 Auto-Built-Package: debug-symbols
 Build-Ids: 31b07cdd6e341b1357577d9a7c25f9fb11080126 32cb22a7ca34ba534942a44d37531dc27feaf4c1 a9faf26f9dd585c82710c40cd855d18a575c30bc bd80031e8d3cd571e02b40c33237f0a77db861a0 f084b0cfcb99d828199fe23dbe40f9d902a76630 f3d0a5bf47574290237fbb5ff2db1bb6608dcc5c
@@ -244,11 +244,11 @@ Depends: libc6 (>= 2.14), libdbus-1-3 (>= 1.9.14), libegl1, libfontconfig1 (>= 2
 Conflicts: libqt5dxcb-plugin, qt5dxcb-plugin
 Breaks: dde-qt5integration (<< 0.2.8.1)
 Filename: pool/main/d/dde-qt5platform-plugins/dde-qt5xcb-plugin_5.0.59.1-1_amd64.deb
-Size: 237948
-MD5sum: a13d14d34f1534d68b4194793f4bb490
-SHA1: e23c6bfa087b3df448d6e085caa526332d2c10b9
-SHA256: 2a1884c623cd3c43a6a735602358ca43888605a889e632ab9d88c2516fed1614
 SHA512: 0b269a59c63467b669253e87a8991e61d06cc18f0b1217c534a5042947d0f41c3984ab2b76c0ccd95271086b96eabbc974b3db06878366ab89e2f2c813b65fd1
+Size: 237948
+SHA256: 2a1884c623cd3c43a6a735602358ca43888605a889e632ab9d88c2516fed1614
+SHA1: e23c6bfa087b3df448d6e085caa526332d2c10b9
+MD5sum: a13d14d34f1534d68b4194793f4bb490
 Description: Qt platform plugins
  Qt platform plugins for DDE.
 
@@ -262,11 +262,11 @@ Source: deepin-anything
 Version: 5.0.18-1
 Depends: dkms (>= 2.1.0.0)
 Filename: pool/main/d/deepin-anything/deepin-anything-dkms_5.0.18-1_all.deb
-Size: 18344
-MD5sum: 1d22da1ef2e386a37b57ac44dffdcc52
-SHA1: 622f1d5cc41baee480982f039ce2bbbe6aed0c31
-SHA256: 81841a5e744dd874cb3617ec6571b28c70005774dbca7720d7003fbb08213d21
 SHA512: ec87ebf078d28d4b99b9529694b07c83e90fc06132ee723da9657f93c0b62913d913e9b48cdd9d64f1512ee5de3ab3504b91f99c3764d4b0b3df867164d82b99
+Size: 18344
+SHA256: 81841a5e744dd874cb3617ec6571b28c70005774dbca7720d7003fbb08213d21
+SHA1: 622f1d5cc41baee480982f039ce2bbbe6aed0c31
+MD5sum: 1d22da1ef2e386a37b57ac44dffdcc52
 Description: anything module
  anything kernel module package
 Homepage: http://github.com/linuxdeepin/deepin-anything
@@ -281,11 +281,11 @@ Source: deepin-anything
 Version: 5.0.18-1
 Depends: libc6 (>= 2.14), libglib2.0-0 (>= 2.35.8), libpcre3
 Filename: pool/main/d/deepin-anything/deepin-anything-libs_5.0.18-1_amd64.deb
-Size: 53832
-MD5sum: 701151da1c375ea70a761f6058074e9c
-SHA1: cdb1447d72cebfb4de64aeab1c57e413c471ae0e
-SHA256: 24ff0352091e8f0e3efd761a3462ccd491f7b651c9736ce0049d3a802a48e971
 SHA512: 4d1a003d4af020c5f05e2b1793bbc0ea3ea5667f582dcda1f1bf362c1234eecdeea2884e2a832304fd8de0ec68ee0d7edb3c964f88176ede4b1141b146cb1c95
+Size: 53832
+SHA256: 24ff0352091e8f0e3efd761a3462ccd491f7b651c9736ce0049d3a802a48e971
+SHA1: cdb1447d72cebfb4de64aeab1c57e413c471ae0e
+MD5sum: 701151da1c375ea70a761f6058074e9c
 Description: anything library
  anything library package
 Homepage: http://github.com/linuxdeepin/deepin-anything
@@ -300,11 +300,11 @@ Source: deepin-anything
 Version: 5.0.18-1
 Depends: deepin-anything-libs, libc6 (>= 2.14), libdtkcore5 (>= 5.5), libgcc1 (>= 1:3.0), libmount1 (>= 2.24.2), libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5), libudisks2-qt5, deepin-anything-dkms
 Filename: pool/main/d/deepin-anything/deepin-anything-server_5.0.18-1_amd64.deb
-Size: 116132
-MD5sum: 9653ce9987897b1da5d8b371a8d65aae
-SHA1: 193822e1aaa112aa3fc9f2cfa9b54390c8df3ec7
-SHA256: bba6b009ce0a25444fc3477f38ac7b011a36eea9af5482eeddc723eae98682b4
 SHA512: e18b8a1147e5ee7d189d0296101ef9b981214d5aaeeb971bfe167444409de4d4d996bf030fae66764fe14dfb22db9825498e8d269093e2a0c0aa03f4a2b08ade
+Size: 116132
+SHA256: bba6b009ce0a25444fc3477f38ac7b011a36eea9af5482eeddc723eae98682b4
+SHA1: 193822e1aaa112aa3fc9f2cfa9b54390c8df3ec7
+MD5sum: 9653ce9987897b1da5d8b371a8d65aae
 Description: anything server application and lib
  anything server package
 Homepage: http://github.com/linuxdeepin/deepin-anything
@@ -321,11 +321,11 @@ Depends: dconf-gsettings-backend | gsettings-backend
 Conflicts: deepin-default-gsettings
 Breaks: dde-daemon (<< 2.92.2), deepin-default-gsettings, deepin-wm (<< 0.2.1), startdde (<< 2.91.0)
 Filename: pool/main/d/deepin-desktop-schemas/deepin-desktop-schemas_5.10.6-1_amd64.deb
-Size: 44684
-MD5sum: 8ceb6558bf7ad529442622fed55672e7
-SHA1: e8b5d97a31c82255edd6bda93a9a919100b016ac
-SHA256: e68215c5ad35b5c2460a0f2e6a628261aaaa8326079cdc7bc9f318d40c4fb5d5
 SHA512: 60f975eb6b62dade54c2e03cc9c0fe0976a97e66c62fe145d9cece5a577a5a1a77dbb25936eab109e34236a91bf1abcc26f0746a71be561bc25731920a78452b
+Size: 44684
+SHA256: e68215c5ad35b5c2460a0f2e6a628261aaaa8326079cdc7bc9f318d40c4fb5d5
+SHA1: e8b5d97a31c82255edd6bda93a9a919100b016ac
+MD5sum: 8ceb6558bf7ad529442622fed55672e7
 Description: GSettings deepin desktop-wide schemas
  deepin-desktop-schemas contains a collection of GSettings schemas for
  settings shared by various components of a desktop.
@@ -341,11 +341,11 @@ Version: 2021.11.24-1
 Depends: papirus-icon-theme
 Conflicts: deepin-cursor-theme
 Filename: pool/main/d/deepin-icon-theme/deepin-icon-theme_2021.11.24-1_all.deb
-Size: 28856028
-MD5sum: 9a7d63d4dd0acde074276ca23454d7f0
-SHA1: 3dbe0c951d355f3cdc953cec896b8193bd72d67e
-SHA256: f85ddf9caf9ba35950f0f8e78bf81f7f5e12dda7cac8b1565cafd1834747841e
 SHA512: 0674251b0eaa8dfb52cf8894ac552162543a31b518c0063e93c65e5eba6854d25ae4c860e1f51b3c022ca4bc8839c038dc01c55e1c272f2cf8567d01dcbd3410
+Size: 28856028
+SHA256: f85ddf9caf9ba35950f0f8e78bf81f7f5e12dda7cac8b1565cafd1834747841e
+SHA1: 3dbe0c951d355f3cdc953cec896b8193bd72d67e
+MD5sum: 9a7d63d4dd0acde074276ca23454d7f0
 Description: Deepin Icons
  This package is DeepinIconTheme
 Homepage: https://github.com/linuxdeepin/deepin-icon-theme
@@ -360,11 +360,11 @@ Source: dtkwidget
 Version: 5.5.42-1
 Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (= 5.5.42-1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5printsupport5 (>= 5.0.2), libqt5widgets5 (>= 5.6.0~rc), libstdc++6 (>= 4.1.1)
 Filename: pool/main/d/dtkwidget/dtkwidget5-examples_5.5.42-1_amd64.deb
-Size: 15061956
-MD5sum: 039506b07a72ddede33399613427ee7b
-SHA1: 354ee86e7782a871d4d1d9b8df8fc31b987a9ec2
-SHA256: e0897ed81cd9351e8a0c105ccf0f8a0ca8b8c826fc3dd7b45e14d2939ed2d955
 SHA512: a76b48ff9521d7deac839d746159450b39c3c71e42f6219152c1fb1b3091d7c457fd6ddcb3166befe3e6ef6904f3bf2e2a8bf3b01e61ad58ab1b95146e3fd90b
+Size: 15061956
+SHA256: e0897ed81cd9351e8a0c105ccf0f8a0ca8b8c826fc3dd7b45e14d2939ed2d955
+SHA1: 354ee86e7782a871d4d1d9b8df8fc31b987a9ec2
+MD5sum: 039506b07a72ddede33399613427ee7b
 Description: dtkwidget-examples is generated by dtkwidget.
  DtkWidget is Deepin graphical user interface for deepin desktop development.
  .
@@ -380,12 +380,12 @@ Architecture: amd64
 Source: dtkwidget
 Version: 5.5.42-1
 Depends: dtkwidget5-examples (= 5.5.42-1)
-Filename: pool/main/d/dtkwidget/dtkwidget5-examples-dbgsym_5.5.42-1_amd64.ddeb
-Size: 5229238
-MD5sum: 8a0f20214d038ea986f4fad3a87b198a
-SHA1: 2aa11ffbd42b5e6e91de431f163939a24b9046b2
-SHA256: 15c921c481ae9c2390827b3623d608f7b7a40ba6457a25ceb1c460100d729809
+Filename: pool/main/d/dtkwidget/dtkwidget5-examples-dbgsym_5.5.42-1_amd64.deb
 SHA512: fcea9afadf14526d8a17d47140d8849c5d14bac66b5f907d64413452909b346249298204a7c44838c2144e536684b1c11bf17a6f9a9ad6f0192bddc5ce43a761
+Size: 5229238
+SHA256: 15c921c481ae9c2390827b3623d608f7b7a40ba6457a25ceb1c460100d729809
+SHA1: 2aa11ffbd42b5e6e91de431f163939a24b9046b2
+MD5sum: 8a0f20214d038ea986f4fad3a87b198a
 Description: debug symbols for dtkwidget5-examples
 Auto-Built-Package: debug-symbols
 Build-Ids: b87e31b6c628987a0946d71359897897e445e446
@@ -400,11 +400,11 @@ Architecture: amd64
 Version: 0.8-1
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.69.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5qml5 (>= 5.4.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1)
 Filename: pool/main/f/fishui/fishui_0.8-1_amd64.deb
-Size: 117486
-MD5sum: c850618e06c71a8d4342e4cef2afb45d
-SHA1: 8e2e05ef4644784906bd951a8e50e8c834926d42
-SHA256: b656f7a1c1c4b0ff925917e405b41d135b59769fa9228d8c0617de99bab5d4d9
 SHA512: 6a42b87f97d049a8eb938aeaefe43c0fbb8582355295b54b4d33b034d494a7afcf08bdce7b48f3822c4fb39902fb3e869d0e6da57770edf09ecd7c741f8cdf2c
+Size: 117486
+SHA256: b656f7a1c1c4b0ff925917e405b41d135b59769fa9228d8c0617de99bab5d4d9
+SHA1: 8e2e05ef4644784906bd951a8e50e8c834926d42
+MD5sum: c850618e06c71a8d4342e4cef2afb45d
 Description: CutefishOS UIKit
 Homepage: https://cutefishos.com
 
@@ -418,11 +418,11 @@ Source: boost1.67
 Version: 1.67.0-13+deb10u1
 Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
 Filename: pool/main/b/boost1.67/libboost-system1.67.0_1.67.0-13+deb10u1_amd64.deb
-Size: 229068
-MD5sum: 3fc1c29f48945a2cbfb48cead91d035e
-SHA1: 1cc80d6d18d9abe4dda580b80faf7b512deb6b42
-SHA256: ca6785594503d0fbf66f02300beab24e6f3c028759cfb21cef35b8cfa15ba0dd
 SHA512: d4e5f634e38978f133a048a5faf56fd1f83bc6d9795143156c01c6c03536eb45a23bf156b7d50982e079ff66ecd99154389b681a6e4d7e4ed61ff1df98f05360
+Size: 229068
+SHA256: ca6785594503d0fbf66f02300beab24e6f3c028759cfb21cef35b8cfa15ba0dd
+SHA1: 1cc80d6d18d9abe4dda580b80faf7b512deb6b42
+MD5sum: 3fc1c29f48945a2cbfb48cead91d035e
 Description: Operating system (e.g. diagnostics support) library
  This package forms part of the Boost C++ Libraries collection.
  .
@@ -448,11 +448,11 @@ Depends: libboost-system1.67.0, libc6 (>= 2.14), libdfm-extension, libdframework
 Recommends: libudfburn
 Breaks: dde-file-manager (<= 1.2.3-3)
 Filename: pool/main/d/dde-file-manager/libdde-file-manager_5.6.3-1_amd64.deb
-Size: 3538268
-MD5sum: cc9392ba0942e0adf1dcb87c89630108
-SHA1: e070ab9a326d0e43c2e2a1bddec48d8c3432f901
-SHA256: 36c77c656d735d4bd6972825a7efc54dd7b1fda573cd6dfc94ddd74b8766f1a3
 SHA512: 0c9ba190ad169d2eb2da2f6d5ba2fe27a84af2a8536420f606f881d6f984dc4e1c5219227c910dbcf732aee3663bfeddbde6c664c4b9e80304a7d6560700ca04
+Size: 3538268
+SHA256: 36c77c656d735d4bd6972825a7efc54dd7b1fda573cd6dfc94ddd74b8766f1a3
+SHA1: e070ab9a326d0e43c2e2a1bddec48d8c3432f901
+MD5sum: cc9392ba0942e0adf1dcb87c89630108
 Description: DDE File Manager library
  This package contains the shared libraries.
 Homepage: http://www.deepin.org
@@ -468,11 +468,11 @@ Source: dde-file-manager
 Version: 5.6.3-1
 Depends: libdde-file-manager (= 5.6.3-1)
 Filename: pool/main/d/dde-file-manager/libdde-file-manager-dbgsym_5.6.3-1_amd64.deb
-Size: 97053068
-MD5sum: f0d8921ebc684453c87b90c4db661b02
-SHA1: 9eb71b2dcbeb0a96dcf814f8cb205811c7c75677
-SHA256: fa9f112834c39935649bd1254c5c060ed005742194a7780cc4801a9d98ff011a
 SHA512: 860521c6d28731e6f15fc369760f7af08224b51908f1ef727ee03881031febee9ef151336cca532c3cfd7c764a161d5d5b8ecd3a44075793cd26d405b424d482
+Size: 97053068
+SHA256: fa9f112834c39935649bd1254c5c060ed005742194a7780cc4801a9d98ff011a
+SHA1: 9eb71b2dcbeb0a96dcf814f8cb205811c7c75677
+MD5sum: f0d8921ebc684453c87b90c4db661b02
 Description: debug symbols for libdde-file-manager
 Auto-Built-Package: debug-symbols
 Build-Ids: 1784d5346549bafb401901a1a96a1a7970f9720c 3c1e70b33637bdc08b4704bf9621b01805ac6eb4 4db99463126954d65422073233adaf34f23109d7 551aa6d935507159755dec66fd00811cd40f51d1 712f6068e26ef50864c67871ba218785f3fe8834 80ba54bce966705447afa0b7247b3ee3abb0d583 a563d8a82502d5b6c0ddb7985b5de40a628b921e
@@ -488,11 +488,11 @@ Source: dde-file-manager
 Version: 5.6.3-1
 Depends: libdde-file-manager (= 5.6.3-1)
 Filename: pool/main/d/dde-file-manager/libdde-file-manager-dev_5.6.3-1_amd64.deb
-Size: 84732
-MD5sum: ba6ca4d4bb042fedc5a534013954fc96
-SHA1: c663e5d95e994f32d008e1de0f69130abbe86e5c
-SHA256: 02a88b6228ed6fb1f565f4550a9b225f2b9a24112ff4c473b49dc2a40b13d903
 SHA512: ab0956d26a8443d823482a9c541fc3a4b55b84d826a8f5571dbf028f3b49a2af0ac393e744ce4dcae52cf3c72ec844701c6e2c1f542411440cc6ee051375ca9c
+Size: 84732
+SHA256: 02a88b6228ed6fb1f565f4550a9b225f2b9a24112ff4c473b49dc2a40b13d903
+SHA1: c663e5d95e994f32d008e1de0f69130abbe86e5c
+MD5sum: ba6ca4d4bb042fedc5a534013954fc96
 Description: DDE File Manager Devel library
  This package contains the header files and static libraries
  of libdde-file-manager
@@ -508,11 +508,11 @@ Source: dde-wayland
 Version: 1.0.0-1+rb2
 Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.0), libgl1, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5waylandclient5 (>= 5.14.1), libstdc++6 (>= 4.1.1)
 Filename: pool/main/d/dde-wayland/libdde-waylandclient_1.0.0-1+rb2_amd64.deb
-Size: 21840
-MD5sum: 1d0e04903e4af3f34c883f505bc28288
-SHA1: de9b9a9d83b34602a4917dd4073cd7cbb755d8be
-SHA256: 32837d839a746ed71d8236b345aa144b6643efc2cdcb1b90eaef168312a957d7
 SHA512: d5fa9f960f2f53127866dbaa0ca7123bab3ddbb6a4dbec3d02cf04fcb7f01fdfc34efeb25bae1a57152f79b7d8ccf7ec2b580771a9604831b874b2aec795272f
+Size: 21840
+SHA256: 32837d839a746ed71d8236b345aa144b6643efc2cdcb1b90eaef168312a957d7
+SHA1: de9b9a9d83b34602a4917dd4073cd7cbb755d8be
+MD5sum: 1d0e04903e4af3f34c883f505bc28288
 Description: DDE wayland client library
  with DDE custom protocol.
 Multi-Arch: same
@@ -527,11 +527,11 @@ Source: dde-wayland
 Version: 1.0.0-1+rb2
 Depends: libdde-waylandclient (= 1.0.0-1+rb2)
 Filename: pool/main/d/dde-wayland/libdde-waylandclient-dev_1.0.0-1+rb2_amd64.deb
-Size: 2840
-MD5sum: d60bb1bdf68a60db1b0c3a3edefab8fe
-SHA1: 2e1e8ae0214153910141a1704db53628098142ea
-SHA256: 4619c727a890d0ebb36f4f02f12bb730327e1ac46bcad0de5689ebfb98e49422
 SHA512: c2a3f3958d729903bb3e6cbd6c75a8d11688ad2e47e17223bc164ffb3952944d55319253bf7d911dd5e880848ff019bfcde04acdb483d0d879a342e8ae21ad38
+Size: 2840
+SHA256: 4619c727a890d0ebb36f4f02f12bb730327e1ac46bcad0de5689ebfb98e49422
+SHA1: 2e1e8ae0214153910141a1704db53628098142ea
+MD5sum: d60bb1bdf68a60db1b0c3a3edefab8fe
 Description: DDE wayland client library
  include header files.
 
@@ -545,11 +545,11 @@ Source: dde-wayland
 Version: 1.0.0-1+rb2
 Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.0), libgl1, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5qmlmodels5 (>= 5.14.1), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5waylandcompositor5 (>= 5.14.1), libstdc++6 (>= 4.1.1), libxkbcommon0 (>= 0.5.0)
 Filename: pool/main/d/dde-wayland/libdde-waylandserver_1.0.0-1+rb2_amd64.deb
-Size: 22592
-MD5sum: 483416943294818660c04be9d5a7734e
-SHA1: 102475a101ae4f1aafbbded94254e384271c24a9
-SHA256: baf1d6de4d5724da16826e489ec4cd2949c2481353f20deae8b6b2f224e3cab9
 SHA512: d702d2adae0c36a8cdedd9627024217869414a0d8a29fcd816740e9adc23def00cfeb317fe21532a723a2513052401e56beab0bc366a4d009c11b0513cfb57c3
+Size: 22592
+SHA256: baf1d6de4d5724da16826e489ec4cd2949c2481353f20deae8b6b2f224e3cab9
+SHA1: 102475a101ae4f1aafbbded94254e384271c24a9
+MD5sum: 483416943294818660c04be9d5a7734e
 Description: DDE wayland server library
  with DDE custom protocol.
 Multi-Arch: same
@@ -564,11 +564,11 @@ Source: dde-wayland
 Version: 1.0.0-1+rb2
 Depends: libdde-waylandserver (= 1.0.0-1+rb2)
 Filename: pool/main/d/dde-wayland/libdde-waylandserver-dev_1.0.0-1+rb2_amd64.deb
-Size: 3028
-MD5sum: a21c77220d3229e22359f1cf9a01f872
-SHA1: 3b467d78ed0f5a2efc22fd8e3e510006cad3fc27
-SHA256: b81e0eef6517cea4f1cc8c4a1a67e6d9209e5e1f551fe14fb544e287c3889e76
 SHA512: 083ee7257791c24abc959d7bef6651f98462f0cafbf9b14bfca1f72636158236ece62765e72c8df5f345bf5380e3eb0ffeca2a8ac6917b10549a12ec65dcee57
+Size: 3028
+SHA256: b81e0eef6517cea4f1cc8c4a1a67e6d9209e5e1f551fe14fb544e287c3889e76
+SHA1: 3b467d78ed0f5a2efc22fd8e3e510006cad3fc27
+MD5sum: a21c77220d3229e22359f1cf9a01f872
 Description: DDE wayland server library
  include header files.
 
@@ -582,11 +582,11 @@ Source: dde-file-manager
 Version: 5.6.3-1
 Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libjemalloc2 (>= 5.0.0), libstdc++6 (>= 5.2)
 Filename: pool/main/d/dde-file-manager/libdfm-extension_5.6.3-1_amd64.deb
-Size: 53876
-MD5sum: 58d1c7843ae529917dafd09b79a8f37e
-SHA1: 7c2f67b20a50eb57168c0076ca727a3cd00d18ee
-SHA256: 953cbc1b6d0b3c03a750c142e8671e0fc5683ca791af6f9aa958172f8ebe721c
 SHA512: a66021b666fbc35bc57c47dc58bf903955935c12b20ec3ecdd88c735aeecd92900f1d4d8a4afc1950f03d4d598a0cd080e9f9bfce5e9b862ade43dbf71aad723
+Size: 53876
+SHA256: 953cbc1b6d0b3c03a750c142e8671e0fc5683ca791af6f9aa958172f8ebe721c
+SHA1: 7c2f67b20a50eb57168c0076ca727a3cd00d18ee
+MD5sum: 58d1c7843ae529917dafd09b79a8f37e
 Description: extension library of dde-file-manager
  Extension library of dde-file-manager which is provided for third parties
 Homepage: http://www.deepin.org
@@ -601,11 +601,11 @@ Source: dde-file-manager
 Version: 5.6.3-1
 Depends: libdfm-extension (= 5.6.3-1)
 Filename: pool/main/d/dde-file-manager/libdfm-extension-dbgsym_5.6.3-1_amd64.deb
-Size: 185632
-MD5sum: 6bb0572db4696e9223af5023c4c3fb1a
-SHA1: 6e0eaa49fd770568641859f857769b72d72da33a
-SHA256: 4c49f0d15f3e9131014f991bb4dc8f4cda7cfeb261b12d23f600a6adaa9ae93d
 SHA512: f45fcd0ed7f764483a0d94751f8ce31a868dbbbeacf78432418ff764f993cf8f0a913be667f628ce3cf4cb46dd9c3779d10cdb5a998521ac5495e35721734c93
+Size: 185632
+SHA256: 4c49f0d15f3e9131014f991bb4dc8f4cda7cfeb261b12d23f600a6adaa9ae93d
+SHA1: 6e0eaa49fd770568641859f857769b72d72da33a
+MD5sum: 6bb0572db4696e9223af5023c4c3fb1a
 Description: debug symbols for libdfm-extension
 Auto-Built-Package: debug-symbols
 Build-Ids: 011aeea64e1ae22d947f9f1666311f0da8e22d48
@@ -620,11 +620,11 @@ Source: dde-file-manager
 Version: 5.6.3-1
 Depends: libdfm-extension
 Filename: pool/main/d/dde-file-manager/libdfm-extension-dev_5.6.3-1_amd64.deb
-Size: 46824
-MD5sum: c028750e926b37184d4ec0cb3178a220
-SHA1: 76be588e264c912f2dc4a18196deb4b12d7d6812
-SHA256: 8e9e95c39a53c3b9530d7ce4271e4ba72b47489f417ab5639c2225b87315557d
 SHA512: ea702f29aff00fb4dbb6eebe46ec31d5dc769fdd052d09676aaf4009b002bfb23bdf22927fb6ce6e8ff74439b3e9f1102acbb1301f81527503a979384bc8d0a3
+Size: 46824
+SHA256: 8e9e95c39a53c3b9530d7ce4271e4ba72b47489f417ab5639c2225b87315557d
+SHA1: 76be588e264c912f2dc4a18196deb4b12d7d6812
+MD5sum: c028750e926b37184d4ec0cb3178a220
 Description: Development package for libdfm-extension
  This package contains the header files and pkgconfig
  of libdfm-extension
@@ -640,11 +640,11 @@ Source: dde-qt-dbus-factory
 Version: 5.5.12.1-1
 Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
 Filename: pool/main/d/dde-qt-dbus-factory/libdframeworkdbus2_5.5.12.1-1_amd64.deb
-Size: 820232
-MD5sum: 7446e7df9c3dfa7e67634c1ef00adf98
-SHA1: 1123e556a95087c053fd69f2b4a2f5506b0af371
-SHA256: 9fbb2ff9673715121bde4ae4afe081dfd050e18a7949acd460e5012a943d8ad0
 SHA512: 0f011a39e1e282666c1ef2a3a1cc5e2efeb9deec9284f141722326d6771fc6ed078ceab4af6b208aa464f184cf4a92961fb75d46e6108ef9f81bbddbc8fc255c
+Size: 820232
+SHA256: 9fbb2ff9673715121bde4ae4afe081dfd050e18a7949acd460e5012a943d8ad0
+SHA1: 1123e556a95087c053fd69f2b4a2f5506b0af371
+MD5sum: 7446e7df9c3dfa7e67634c1ef00adf98
 Description: Qt DBus interface library for Deepin software (shared library)
  Libdframeworkdbus provides Qt DBus interface for various Deepin software.
  It centralizes DBus-related code into single library for Deepin software
@@ -665,11 +665,11 @@ Source: disomaster
 Version: 5.0.7-1
 Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libisoburn1 (>= 1.5.0), libqt5core5a (>= 5.15.1), libstdc++6 (>= 5.2)
 Filename: pool/main/d/disomaster/libdisomaster_5.0.7-1_amd64.deb
-Size: 22428
-MD5sum: f302ca3128b3f1a0a803edcda6f9406c
-SHA1: f1771fa809bc3ca7c70221463aae70d7a2f98a1a
-SHA256: 902366f6d005af463d0ca7f3dc640e16a98e2f6c960947966a0d4b562a78d8ab
 SHA512: af2dfeb40a0ab59c7b36939c3843493d78cf150507026fc5e0f60aa36479862574662d8cda6c35f0619ee2e639d22d5ab11f63b41dd519b2ada97134a0cc4fba
+Size: 22428
+SHA256: 902366f6d005af463d0ca7f3dc640e16a98e2f6c960947966a0d4b562a78d8ab
+SHA1: f1771fa809bc3ca7c70221463aae70d7a2f98a1a
+MD5sum: f302ca3128b3f1a0a803edcda6f9406c
 Description: libisoburn wrapper for Qt.
  A convenient way to burn iso9660 image!
 Homepage: https://github.com/linuxdeepin/disomaster
@@ -684,11 +684,11 @@ Source: deepin-movie-reborn
 Version: 5.10.1-1
 Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.12.0), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.14.1), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.5.0), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libffmpegthumbnailer4v5, libmpv1 (>= 0.29), libpulse0 (>= 0.99.1), libqt5concurrent5, libmpris-qt5-1
 Filename: pool/main/d/deepin-movie-reborn/libdmr_5.10.1-1_amd64.deb
-Size: 232152
-MD5sum: 48dd473388fc830e36633c5cd998585c
-SHA1: 21c8ab6f674edfe8200f98141f364383e5e97f5c
-SHA256: 48e1c785f9e5a2795f2fb491c62472a17d0f4c90f46d4d04828721f84a81a3c5
 SHA512: 5ae254041608e87c9827335ac035e3681a8ec5e3a47b043c9b58fc2503060c3eaafb56d151fd34cf7978fc49124432f38b64091327f324a43ada48371dc5a1d0
+Size: 232152
+SHA256: 48e1c785f9e5a2795f2fb491c62472a17d0f4c90f46d4d04828721f84a81a3c5
+SHA1: 21c8ab6f674edfe8200f98141f364383e5e97f5c
+MD5sum: 48dd473388fc830e36633c5cd998585c
 Description: movie player widget library
  deepin movie player widget library
 Homepage: https://www.deepin.org/
@@ -704,11 +704,11 @@ Source: docparser
 Version: 1.0.3-1
 Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libgl1, libpoppler-cpp0v5 (>= 0.46.0), libqt5core5a (>= 5.0.2), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 5.2)
 Filename: pool/main/d/docparser/libdocparser_1.0.3-1_amd64.deb
-Size: 374784
-MD5sum: 7b545ec2bd7cb326cf216e4fe830866a
-SHA1: 6e7669b382ce3b342024cfa0be2843679e5134e8
-SHA256: 8ad516e132e5440a133eeffcaacfc09c0c0b94f4a86e8e7cba3f8703500167b7
 SHA512: 710b98abbffd2d64b6c514b1cb312d0c40e2e59483cad4b557658f6bcbbefbcc5313e16d270216d8b147d00d61383bf9fa75654655eaff4b9681c84581d55d84
+Size: 374784
+SHA256: 8ad516e132e5440a133eeffcaacfc09c0c0b94f4a86e8e7cba3f8703500167b7
+SHA1: 6e7669b382ce3b342024cfa0be2843679e5134e8
+MD5sum: 7b545ec2bd7cb326cf216e4fe830866a
 Description: Document parser library.
  This package contains the shared libraries.
 
@@ -724,11 +724,11 @@ Replaces: libdtkcore5 (<< 5.4.10), libdtkgui5 (<< 5.4.10)
 Depends: dconf-gsettings-backend | gsettings-backend
 Conflicts: libdtkcore5 (<< 5.4.10), libdtkgui5 (<< 5.4.10)
 Filename: pool/main/d/dtkcommon/libdtkcommon_5.5.22-1_amd64.deb
-Size: 2058
-MD5sum: a63de108c89231d3ea5265a673cbe98e
-SHA1: c9b85687c2e5d98ae471639ff2e48d579268e0f6
-SHA256: 78cbf81c672111d9b3224e400164e7a49f924ffc80996b6a7d0f51322878781e
 SHA512: b8ba3f643aac5202530930256bd5b58af39cdb0a6798b169b234706b80304772fc83bab8cfd66b7c8b044dcd52fecf6f6a831b08b4fc66042825bc26b32a7faf
+Size: 2058
+SHA256: 78cbf81c672111d9b3224e400164e7a49f924ffc80996b6a7d0f51322878781e
+SHA1: c9b85687c2e5d98ae471639ff2e48d579268e0f6
+MD5sum: a63de108c89231d3ea5265a673cbe98e
 Description: dtk common files
  Used to store public configuration files
 Homepage: http://www.deepin.org/
@@ -745,11 +745,11 @@ Replaces: libdtkcore-dev (<< 5.4.10)
 Depends: libdtkcommon (= 5.5.22-1)
 Conflicts: libdtkcore-dev (<< 5.4.10)
 Filename: pool/main/d/dtkcommon/libdtkcommon-dev_5.5.22-1_amd64.deb
-Size: 10688
-MD5sum: 07eee7e42bd33404db3239a67d52ad2a
-SHA1: 92412f7286c067cbb1702a63993e75742740ffc9
-SHA256: 5de31456e4aa700f662f043a59c56b86824d4ea83b49c8acc7ad6150e4c29c39
 SHA512: 88c44f940241f837a4c254ec623ef34e45dda0e9ebd1ecf1bd9a3d4ad5ba50036ef063dd522dbc39a04562021ea1b7345825550faf014c070f2d72bb05fd1d11
+Size: 10688
+SHA256: 5de31456e4aa700f662f043a59c56b86824d4ea83b49c8acc7ad6150e4c29c39
+SHA1: 92412f7286c067cbb1702a63993e75742740ffc9
+MD5sum: 07eee7e42bd33404db3239a67d52ad2a
 Description: dtk common files
  Used to store public build files
 Homepage: http://www.deepin.org/
@@ -764,11 +764,11 @@ Source: dtkcore
 Version: 5.5.30-1
 Depends: libdtkcore5 (= 5.5.30-1), libdtkcommon-dev
 Filename: pool/main/d/dtkcore/libdtkcore-dev_5.5.30-1_amd64.deb
-Size: 27112
-MD5sum: 5fd5873c4e4f0282673a8ea395d5e1f3
-SHA1: 070ec98f6721b8e99777ae4d23285798ce5c4428
-SHA256: 32d7249429b00d522d798756392c6ae9c9d51a29e466592b5dcb18cbcc2eca1a
 SHA512: 2b4232df6f1a6e82c46893583c7628f390ab2fd564323f29a99fba7874bfbf4ecc9886af961ffd942da2f1266dc24a5bb002b61e2dfcc4301235d314db800de2
+Size: 27112
+SHA256: 32d7249429b00d522d798756392c6ae9c9d51a29e466592b5dcb18cbcc2eca1a
+SHA1: 070ec98f6721b8e99777ae4d23285798ce5c4428
+MD5sum: 5fd5873c4e4f0282673a8ea395d5e1f3
 Description: Deepin Tool Kit Core Devel library
  DtkCore is base devel library of Deepin Qt/C++ applications.
  .
@@ -784,11 +784,11 @@ Source: dtkcore
 Version: 5.5.30-1
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), lshw, libdtkcommon
 Filename: pool/main/d/dtkcore/libdtkcore5_5.5.30-1_amd64.deb
-Size: 323590
-MD5sum: 411eda4f9e7724304a7b6f3a52156b5a
-SHA1: 0fa9eaeccae306735adbd74f73c8fe33f4dc65e1
-SHA256: 433be1f65fb06b509af9fdb01f5e7d17f4690d907040594634bcb41318419213
 SHA512: 87d7bf401c99d467dcf9aaf9d83cef95dafe012fa3fc5a933f9b4a94efe39361e8c2f658558e54cde3f42ad3d41f7008c0e070c9ed5e67d4b290a984d1a4ac45
+Size: 323590
+SHA256: 433be1f65fb06b509af9fdb01f5e7d17f4690d907040594634bcb41318419213
+SHA1: 0fa9eaeccae306735adbd74f73c8fe33f4dc65e1
+MD5sum: 411eda4f9e7724304a7b6f3a52156b5a
 Description: Deepin Tool Kit Core library
  DtkCore is base library of Deepin Qt/C++ applications.
  .
@@ -805,11 +805,11 @@ Source: dtkcore
 Version: 5.5.30-1
 Depends: libc6 (>= 2.34), libdtkcore5 (= 5.5.30-1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5), qtbase-abi-5-15-3
 Filename: pool/main/d/dtkcore/libdtkcore5-bin_5.5.30-1_amd64.deb
-Size: 104736
-MD5sum: cea6137c02f6ffba8f4a7f87c461af37
-SHA1: 31aefc85680d13698d5076a602aec38bb80d24ca
-SHA256: 132701ebce91818802f98e3b56ba4e707682afa267c65acf18f0df8f21ddf637
 SHA512: 0ee02768e2a60838cb8111c906f4f53647fc2f6862b1e90a56d7005a646ab33d7dcc52557e692123ec29da8dd9d073693e132858b14dacff9edc56ee61cd4a0b
+Size: 104736
+SHA256: 132701ebce91818802f98e3b56ba4e707682afa267c65acf18f0df8f21ddf637
+SHA1: 31aefc85680d13698d5076a602aec38bb80d24ca
+MD5sum: cea6137c02f6ffba8f4a7f87c461af37
 Description: Deepin Tool Kit Core Utilities
  DtkCore is base devel library of Deepin Qt/C++ applications.
  .
@@ -824,12 +824,12 @@ Architecture: amd64
 Source: dtkcore
 Version: 5.5.30-1
 Depends: libdtkcore5-bin (= 5.5.30-1)
-Filename: pool/main/d/dtkcore/libdtkcore5-bin-dbgsym_5.5.30-1_amd64.ddeb
-Size: 1589748
-MD5sum: ee02493fee4d122c9fddc36bda5ff5ee
-SHA1: f24d23affd8b2cf0fc6b37ffd7492c2a5c2a51b7
-SHA256: 1f067aab2ab2e2b1f53eee586ba876784bcff392a025c8329b3d46863c40b2bd
+Filename: pool/main/d/dtkcore/libdtkcore5-bin-dbgsym_5.5.30-1_amd64.deb
 SHA512: 47832baf30984b775ba4594d0ad3af585406674cd6cd3583f2e2116dfca81253c747ef2c56107fa640baed78288885e3fcdb843becbdb4ef482e4a4bf8631945
+Size: 1589748
+SHA256: 1f067aab2ab2e2b1f53eee586ba876784bcff392a025c8329b3d46863c40b2bd
+SHA1: f24d23affd8b2cf0fc6b37ffd7492c2a5c2a51b7
+MD5sum: ee02493fee4d122c9fddc36bda5ff5ee
 Description: debug symbols for libdtkcore5-bin
 Auto-Built-Package: debug-symbols
 Build-Ids: 01b96c27b9c31d257cc87180df859f0fb3369cb1 2556c7a1ed42d20773319ba4fb6ac715b6d50764 32fd4dc37aeb0edd621d7693e0b0cbd7e4d3b06a
@@ -844,12 +844,12 @@ Architecture: amd64
 Source: dtkcore
 Version: 5.5.30-1
 Depends: libdtkcore5 (= 5.5.30-1)
-Filename: pool/main/d/dtkcore/libdtkcore5-dbgsym_5.5.30-1_amd64.ddeb
-Size: 6947996
-MD5sum: 7cfc8a065e6129c653d78c07023a10bc
-SHA1: b07e3c0631c1d604296938ef24816c87e1c43d4d
-SHA256: 9d85218ad921fedb602fe20825305c07a5fe0249ab50980df48dd506bdf52376
+Filename: pool/main/d/dtkcore/libdtkcore5-dbgsym_5.5.30-1_amd64.deb
 SHA512: 177ab6a2216d6e31b40545baa637ad1be48d0f9a0ab2d082439a1adf5b3afcaed246b39eb2995de8eb91d0c1ac43901cf5cdc8dbde9bdf37def312f297e97a79
+Size: 6947996
+SHA256: 9d85218ad921fedb602fe20825305c07a5fe0249ab50980df48dd506bdf52376
+SHA1: b07e3c0631c1d604296938ef24816c87e1c43d4d
+MD5sum: 7cfc8a065e6129c653d78c07023a10bc
 Description: debug symbols for libdtkcore5
 Auto-Built-Package: debug-symbols
 Build-Ids: 3c2acd5ddff7032783dade7cd9415feac8511473
@@ -866,11 +866,11 @@ Source: dtkgui
 Version: 5.5.22-1
 Depends: libdtkgui5 (= 5.5.22-1)
 Filename: pool/main/d/dtkgui/libdtkgui-dev_5.5.22-1_amd64.deb
-Size: 13268
-MD5sum: 4bf318bd9ae8bafeeaae6760ce911b5e
-SHA1: 0550ae73eb412d781eb13a7aee935786d3d20abd
-SHA256: c7eb45a112968e3efe88b0fb331496426780a842f166ea9f1543e001908c9895
 SHA512: 59775b0e59d433776ed7fee3fd003221197bddbbc41e9f462d564327d85d8b535e5ccb569088556c265fd547bef6116b1135df65bf5052087411b7cb520d356b
+Size: 13268
+SHA256: c7eb45a112968e3efe88b0fb331496426780a842f166ea9f1543e001908c9895
+SHA1: 0550ae73eb412d781eb13a7aee935786d3d20abd
+MD5sum: 4bf318bd9ae8bafeeaae6760ce911b5e
 Description: Deepin Tool Kit Gui Devel library
  DtkGui is base devel library of Deepin Qt/C++ applications.
  .
@@ -886,11 +886,11 @@ Source: dtkgui
 Version: 5.5.22-1
 Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.5), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libstdc++6 (>= 4.5), qtbase-abi-5-15-3, libdtkcommon
 Filename: pool/main/d/dtkgui/libdtkgui5_5.5.22-1_amd64.deb
-Size: 142482
-MD5sum: dafc6a72b974eaa23b35a74a87f03ff9
-SHA1: bdf1532ca6fcf03bb7d4cfedab8362829d6bc0f3
-SHA256: af419a6b396db05206515f38c62f493cc90c11bd0e27a857cc96d18a102ad835
 SHA512: 12aa46762167c39ad3d9f854a4aea59757b2b568415606419c9e0037d6f4c34802f6408c329082e8b6d858fc729bdd967c288d506236dcde4b7bcde74bda1299
+Size: 142482
+SHA256: af419a6b396db05206515f38c62f493cc90c11bd0e27a857cc96d18a102ad835
+SHA1: bdf1532ca6fcf03bb7d4cfedab8362829d6bc0f3
+MD5sum: dafc6a72b974eaa23b35a74a87f03ff9
 Description: Deepin Tool Kit Gui library
  DtkGui is base library of Deepin Qt/C++ applications.
  .
@@ -907,11 +907,11 @@ Source: dtkgui
 Version: 5.5.22-1
 Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.5), libdtkgui5 (= 5.5.22-1), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 6), libx11-6
 Filename: pool/main/d/dtkgui/libdtkgui5-bin_5.5.22-1_amd64.deb
-Size: 29714
-MD5sum: 5a1c277283b42bc2ecf18d225c803d98
-SHA1: abebb0c52a6a073da4b6478918d0dd764514b895
-SHA256: a458adfb8c81a1c194330fd9967cd6f503a005b3ac4fd53ef4c2339d65afaa2e
 SHA512: df9c6dce8fe998f30462d44c198ea5e737f10a951d529e5b3ad5245029f1c0ac2cb02d9e4c849896aa680e155823ea27def82d04fd551c3a56faf6344c0c1eb7
+Size: 29714
+SHA256: a458adfb8c81a1c194330fd9967cd6f503a005b3ac4fd53ef4c2339d65afaa2e
+SHA1: abebb0c52a6a073da4b6478918d0dd764514b895
+MD5sum: 5a1c277283b42bc2ecf18d225c803d98
 Description: Deepin Tool Kit Gui Utilities
  DtkGui is base devel library of Deepin Qt/C++ applications.
  .
@@ -926,12 +926,12 @@ Architecture: amd64
 Source: dtkgui
 Version: 5.5.22-1
 Depends: libdtkgui5-bin (= 5.5.22-1)
-Filename: pool/main/d/dtkgui/libdtkgui5-bin-dbgsym_5.5.22-1_amd64.ddeb
-Size: 735472
-MD5sum: b405051476cdf7757772ca303e7cacb2
-SHA1: 2985962db519022712f3fb43b30504a5ab0f7ac6
-SHA256: c691660c9728b0219df623b9ff71b04709b573d9904802f34275f71c3524852b
+Filename: pool/main/d/dtkgui/libdtkgui5-bin-dbgsym_5.5.22-1_amd64.deb
 SHA512: 2ac12981e6f437eec3165e77350e06e1c81c9d26aeb4707cf811eec7ddcc6909d8960467ff9069e69236dcc8959d7a3904b574fc3ab9397162fa8faab20d0826
+Size: 735472
+SHA256: c691660c9728b0219df623b9ff71b04709b573d9904802f34275f71c3524852b
+SHA1: 2985962db519022712f3fb43b30504a5ab0f7ac6
+MD5sum: b405051476cdf7757772ca303e7cacb2
 Description: debug symbols for libdtkgui5-bin
 Auto-Built-Package: debug-symbols
 Build-Ids: 4916b23ed7bc6bdc154f3f9515b859e33024b7aa 7841927e336b9435d0dbe0cb9ef7daa8373b57c0 90f17924ace8904005fc0ad325b8ca0b3a3b56a0 b4d2eb90ffa2b699c0f55cead8551c7c612ac15f
@@ -946,12 +946,12 @@ Architecture: amd64
 Source: dtkgui
 Version: 5.5.22-1
 Depends: libdtkgui5 (= 5.5.22-1)
-Filename: pool/main/d/dtkgui/libdtkgui5-dbgsym_5.5.22-1_amd64.ddeb
-Size: 3826656
-MD5sum: efec83fe8f63f952e56a10c5340bb09d
-SHA1: a54b42f77b3a5ec9396c86917d953ee03d69462c
-SHA256: 248a57fa1ec1e3bb1e1473d4985d4a60578a538736ba249a825c410f98ba563f
+Filename: pool/main/d/dtkgui/libdtkgui5-dbgsym_5.5.22-1_amd64.deb
 SHA512: 8fd282e9d9a832c8a568dd4e3dadddf4d29ddcf938f45c1b94eac78468fbac135eeaa1416586d89bcbb073bb095e6746d1dc36a1acff06a5a089fa8fc886c674
+Size: 3826656
+SHA256: 248a57fa1ec1e3bb1e1473d4985d4a60578a538736ba249a825c410f98ba563f
+SHA1: a54b42f77b3a5ec9396c86917d953ee03d69462c
+MD5sum: efec83fe8f63f952e56a10c5340bb09d
 Description: debug symbols for libdtkgui5
 Auto-Built-Package: debug-symbols
 Build-Ids: 916e47d4031beb05e3c2194c68be74d1393abddb
@@ -968,11 +968,11 @@ Source: dtkwidget
 Version: 5.5.42-1
 Depends: libdtkwidget5 (= 5.5.42-1), libqt5x11extras5-dev, libdtkcore-dev, libqt5svg5-dev, libdtkgui-dev, libcups2-dev
 Filename: pool/main/d/dtkwidget/libdtkwidget-dev_5.5.42-1_amd64.deb
-Size: 53318
-MD5sum: 78b1bbc0192fc1da45d7746cd380c58b
-SHA1: 975a183847328e5e99ee02d24006bd1e90e70532
-SHA256: b9418e293ea4013906c06211097ec43ccdd89942f69c32d15b092c25f170da3a
 SHA512: 4804118f2aef3f7dc8547f657f7618c7ea1d152c077400fd7dd989133446feaa69c986b97b5d31138d15d755a9a8d5fe435071bd48cfaf33f9cad4bc37c8586e
+Size: 53318
+SHA256: b9418e293ea4013906c06211097ec43ccdd89942f69c32d15b092c25f170da3a
+SHA1: 975a183847328e5e99ee02d24006bd1e90e70532
+MD5sum: 78b1bbc0192fc1da45d7746cd380c58b
 Description: Deepin graphical user interface library
  DtkWidget is Deepin graphical user interface for deepin desktop development.
  .
@@ -989,11 +989,11 @@ Source: dtkwidget
 Version: 5.5.42-1
 Depends: libc6 (>= 2.32), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.11.0~rc1), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstartup-notification0 (>= 0.10), libstdc++6 (>= 5.2), libx11-6 (>= 2:1.2.99.901), libxcb-util1 (>= 0.4.0), libxcb1, libxext6, libxi6 (>= 2:1.2.99.4), qtbase-abi-5-15-3, libdtkcommon
 Filename: pool/main/d/dtkwidget/libdtkwidget5_5.5.42-1_amd64.deb
-Size: 896336
-MD5sum: f0fc4930a25adf3f6c8a4694c9aeb5df
-SHA1: c6bd7b9a44eadae15b7005030046cf6a383a4ca1
-SHA256: d328b71652f0498c1b6aa8c50585a022517dc61edcd3f14058a1434fe9d232d3
 SHA512: cdc8ba5e7806aad6784732173eae4d7cf9f338e06716000112d65ef214563eaa5031a1b2766b52d623811ce35a8d8a273f0247a8a3693ff6e998e37233b3fd2c
+Size: 896336
+SHA256: d328b71652f0498c1b6aa8c50585a022517dc61edcd3f14058a1434fe9d232d3
+SHA1: c6bd7b9a44eadae15b7005030046cf6a383a4ca1
+MD5sum: f0fc4930a25adf3f6c8a4694c9aeb5df
 Description: Deepin graphical user interface library
  DtkWidget is Deepin graphical user interface for deepin desktop development.
  .
@@ -1010,11 +1010,11 @@ Source: dtkwidget
 Version: 5.5.42-1
 Depends: libc6 (>= 2.34), libdtkgui5 (>= 5.5), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libstdc++6 (>= 4.1.1), libdtkwidget5 (= 5.5.42-1), libqt5x11extras5-dev, libdtkcore-dev, libqt5svg5-dev
 Filename: pool/main/d/dtkwidget/libdtkwidget5-bin_5.5.42-1_amd64.deb
-Size: 9178
-MD5sum: 94c17cbe37a0910438b244c9c037719c
-SHA1: 020938e0b9e931007820ce91a65542c19c55bbcd
-SHA256: c7dd9876faa4ec747f615a22885a1414ba95d1be475e5870c93b6720bd710571
 SHA512: 2ceb06f1a1661c1f9a6ce17d5c19260bd043eec66d2bc511b987fce9f48cf15ccf7622344ae0e91213ef9ab7ad5dbc49420e7d5f0b5043b820edeb2e0edb0e1d
+Size: 9178
+SHA256: c7dd9876faa4ec747f615a22885a1414ba95d1be475e5870c93b6720bd710571
+SHA1: 020938e0b9e931007820ce91a65542c19c55bbcd
+MD5sum: 94c17cbe37a0910438b244c9c037719c
 Description: Deepin graphical user interface library utilities
  DtkWidget is Deepin graphical user interface for deepin desktop development.
  .
@@ -1030,12 +1030,12 @@ Architecture: amd64
 Source: dtkwidget
 Version: 5.5.42-1
 Depends: libdtkwidget5-bin (= 5.5.42-1)
-Filename: pool/main/d/dtkwidget/libdtkwidget5-bin-dbgsym_5.5.42-1_amd64.ddeb
-Size: 237374
-MD5sum: ebc24c5a8a08b84ae3df9ff69ddd12aa
-SHA1: 19ecea82bbab6b249024b6f8f9dfbe75a9e5a605
-SHA256: a1275538fbfad1c13c2a36e65ca5c1d55521b48241055beeb407254cc9067b16
+Filename: pool/main/d/dtkwidget/libdtkwidget5-bin-dbgsym_5.5.42-1_amd64.deb
 SHA512: 817f0bc08d9e363716eab78928edf9aeca2cee7b627f53292fe9738b55c4d02b44f46ea6bf95191720523ccfb5a2641411f82cfddcc104b1edd4b7a301a07e42
+Size: 237374
+SHA256: a1275538fbfad1c13c2a36e65ca5c1d55521b48241055beeb407254cc9067b16
+SHA1: 19ecea82bbab6b249024b6f8f9dfbe75a9e5a605
+MD5sum: ebc24c5a8a08b84ae3df9ff69ddd12aa
 Description: debug symbols for libdtkwidget5-bin
 Auto-Built-Package: debug-symbols
 Build-Ids: fc94731081972d90e5ff369175355fd6ba13b63a
@@ -1050,12 +1050,12 @@ Architecture: amd64
 Source: dtkwidget
 Version: 5.5.42-1
 Depends: libdtkwidget5 (= 5.5.42-1)
-Filename: pool/main/d/dtkwidget/libdtkwidget5-dbgsym_5.5.42-1_amd64.ddeb
-Size: 34550686
-MD5sum: a0ef94bfcf8e2c3ee3686f1860bce9f1
-SHA1: aeb7628bc620b73152320186a95b5876735f072f
-SHA256: a7c39a35429cdc1141b16d587a089f646202760383c8c0dc482f344f51b31aa7
+Filename: pool/main/d/dtkwidget/libdtkwidget5-dbgsym_5.5.42-1_amd64.deb
 SHA512: 3f68e7c985ff2660494502770bb09c2c2267b74f301c894e5f66ac3f869f704869d53f4560f19d570d611c9941eaeaa3e1f45679f0f73879caa5cf368e81f38f
+Size: 34550686
+SHA256: a7c39a35429cdc1141b16d587a089f646202760383c8c0dc482f344f51b31aa7
+SHA1: aeb7628bc620b73152320186a95b5876735f072f
+MD5sum: a0ef94bfcf8e2c3ee3686f1860bce9f1
 Description: debug symbols for libdtkwidget5
 Auto-Built-Package: debug-symbols
 Build-Ids: 6161ac9c2fcfd8c1b552ff7dbfbec34075ebd054
@@ -1072,11 +1072,11 @@ Source: gio-qt
 Version: 0.0.11-1
 Depends: libc6 (>= 2.2.5), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.31.8), libglibmm-2.4-1v5 (>= 2.54.0), libqt5core5a (>= 5.15.1), libsigc++-2.0-0v5 (>= 2.2.0), libstdc++6 (>= 5.2)
 Filename: pool/main/g/gio-qt/libgio-qt_0.0.11-1_amd64.deb
-Size: 74524
-MD5sum: a2caa3736805fd5f945bd69253d0c293
-SHA1: fcdd8e1b44dc6f0736afd82f40e3b016825bbe43
-SHA256: abb09640e2077273bd20056a6de5145ac6286ee71fe846f4ccd33e5d44c1b59c
 SHA512: 33327f1986ef876249b77582af662337f275dc4bc682ea2cfef0fc02c73af2b45202068288d8d0847b8b2dc3d40a45118459897e823679bccf1fb67a0b46e552
+Size: 74524
+SHA256: abb09640e2077273bd20056a6de5145ac6286ee71fe846f4ccd33e5d44c1b59c
+SHA1: fcdd8e1b44dc6f0736afd82f40e3b016825bbe43
+MD5sum: a2caa3736805fd5f945bd69253d0c293
 Description: Gio wrapper for Qt.
  A convenient way to bind gio with Qt5.
 Homepage: https://github.com/linuxdeepin/gio-qt
@@ -1091,11 +1091,11 @@ Source: udisks2-qt5
 Version: 5.0.6-1
 Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libstdc++6 (>= 5)
 Filename: pool/main/u/udisks2-qt5/libudisks2-qt5_5.0.6-1_amd64.deb
-Size: 136016
-MD5sum: 65bf03100d0482ce86551e6a51b583a6
-SHA1: 57c7f5a56ce08c97c1624c7cc1f72a000f3f02b7
-SHA256: ce6c29800658317b15972246e918608464cc03bc3c9e918b7abd6db9da4e29e9
 SHA512: 2a53b1dc3606543cc78e291440f68585433fd618d97fdf0376bcbbe6c7e266c45526b32b1271bed4bafb55ae7a9eeecca83c8a52beb468ef9769e654838865cc
+Size: 136016
+SHA256: ce6c29800658317b15972246e918608464cc03bc3c9e918b7abd6db9da4e29e9
+SHA1: 57c7f5a56ce08c97c1624c7cc1f72a000f3f02b7
+MD5sum: 65bf03100d0482ce86551e6a51b583a6
 Description: UDisks2 library with Qt5
  UDisks2 DBus interfaces binding of Qt5.
 Homepage: http://github.com/linuxdeepin/udisks2-qt5
@@ -1110,11 +1110,11 @@ Source: xcb-util-keysyms
 Version: 0.4.0.1-1+rebuild
 Depends: libc6 (>= 2.2.5), libxcb1
 Filename: pool/main/x/xcb-util-keysyms/libxcb-keysyms1_0.4.0.1-1+rebuild_amd64.deb
-Size: 14748
-MD5sum: 4cfed767f80eea619a2e6eeae31c5bae
-SHA1: a252303757e2ef586d956db62f1205dc442970e6
-SHA256: a8656090cd2971bff2d6596aafa14dff59c8d5e627f8564370ed2d210505b55c
 SHA512: 105625643167f84232aca63d01bd74479a72eb3ab5e3b0b43346c5b4fbd233f0a0390e5d6ad8b642d919f8ef7657aaea3c416b646b8fac7e2f86cddb85925c5a
+Size: 14748
+SHA256: a8656090cd2971bff2d6596aafa14dff59c8d5e627f8564370ed2d210505b55c
+SHA1: a252303757e2ef586d956db62f1205dc442970e6
+MD5sum: 4cfed767f80eea619a2e6eeae31c5bae
 Description: utility libraries for X C Binding -- keysyms
  This package contains the library files needed to run software using
  libxcb-keysyms, providing standard X key constants and conversion to/from
@@ -1139,11 +1139,11 @@ Source: xcb-util-keysyms
 Version: 0.4.0.1-1+rebuild
 Depends: libxcb-keysyms1 (= 0.4.0.1-1+rebuild), libxcb1-dev
 Filename: pool/main/x/xcb-util-keysyms/libxcb-keysyms1-dev_0.4.0.1-1+rebuild_amd64.deb
-Size: 14608
-MD5sum: 59f6c2b9ae5fe785ddae764108e89521
-SHA1: 567aaf83e07c595a6181e76c4d4303fcab50c18d
-SHA256: 69934f2ec17c2afa52f3ccc84149ee3cbe465194b31c4c22de013abe998196ce
 SHA512: 8607dede405d8950b1a8376d88951388aa4ae3a6fffe1356d98de77ba3aed294ab2cba9e881a547d5b899adc750b36b3e34bef6dc6b56a37d7d6012e4ea9d569
+Size: 14608
+SHA256: 69934f2ec17c2afa52f3ccc84149ee3cbe465194b31c4c22de013abe998196ce
+SHA1: 567aaf83e07c595a6181e76c4d4303fcab50c18d
+MD5sum: 59f6c2b9ae5fe785ddae764108e89521
 Description: utility libraries for X C Binding -- keysyms, development files
  This package contains the header and library files needed to build software
  using libxcb-keysyms, providing standard X key constants and conversion to/from
@@ -1167,11 +1167,11 @@ Architecture: amd64
 Version: 0.7
 Depends: libc6 (>= 2.14), libcanberra0 (>= 0.16), libgcc-s1 (>= 3.3.1), libkf5bluezqt6 (>= 5.77.0), libkf5coreaddons5 (>= 4.97.0), libkf5networkmanagerqt6 (>= 5.66.0), libkf5screen-bin (>= 4:5.17.5~), libkf5screen7 (>= 4:5.23.80), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.7.0) | libqt5quick5-gles (>= 5.7.0), libqt5sensors5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 5)
 Filename: pool/main/liby/libyoyo/libyoyo_0.7_amd64.deb
-Size: 499464
-MD5sum: 9fe01356e37c4ccbec19bb574aa0731e
-SHA1: e4eb6e2b672144003372a8e3883e2de236d997c0
-SHA256: c257a7c82066b920f5b337c5d2bf04ae30c20cbfaaa6ca4fd2d3998a8f1061dc
 SHA512: c003dae8a5ad771e7551aa1ef886be6686f7ffc84c9f02c7ffc398a23ba743e0293b91453026da1fd3c27cacc47aa992894dbf0e65b0ee7e6bdfd1a74e5ab3ac
+Size: 499464
+SHA256: c257a7c82066b920f5b337c5d2bf04ae30c20cbfaaa6ca4fd2d3998a8f1061dc
+SHA1: e4eb6e2b672144003372a8e3883e2de236d997c0
+MD5sum: 9fe01356e37c4ccbec19bb574aa0731e
 Description: YoyoOS Library
 Homepage: https://yoyoos.com
 
@@ -1183,11 +1183,11 @@ Maintainer: YoyoOS <yoyoos@foxmail.com>
 Architecture: amd64
 Version: 0.7-1
 Filename: pool/main/t/texteditor/texteditor_0.7-1_amd64.deb
-Size: 1856
-MD5sum: 8075a2003701fdc008629e1c3a5cfca9
-SHA1: f082d5ec05f5ddb6558d9bc228cfe158de11206d
-SHA256: 04257b50ee69605b240493a5f6bf4b682dcd004c184c5168a3d431ad0c7c8341
 SHA512: 3cd40f2a31dd8ae768e2d50744b65144f349bb71a3d78192e26766bab75a6d9720c2a397f196da16583308af317ac9018147f1c23b5c534ab5c5b24900a30a39
+Size: 1856
+SHA256: 04257b50ee69605b240493a5f6bf4b682dcd004c184c5168a3d431ad0c7c8341
+SHA1: f082d5ec05f5ddb6558d9bc228cfe158de11206d
+MD5sum: 8075a2003701fdc008629e1c3a5cfca9
 Description: YoyoOS Texteditor
 Homepage: https://github.com/yoyoos/texteditor
 
@@ -1201,11 +1201,11 @@ Version: 0.5
 Depends: os-prober, libboost-python1.74.0 (>= 1.74.0), libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libgcc-s1 (>= 3.3.1), libicu70 (>= 70.1-1~), libkf5coreaddons5 (>= 5.61.0), libkf5parts5 (>= 4.96.0), libkf5service-bin, libkf5service5 (>= 4.99.0), libkpmcore11 (>= 20.12.2), libparted2 (>= 3.1), libpwquality1 (>= 1.1.0), libpython3.10 (>= 3.10.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.10.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5svg5 (>= 5.6.0~beta), libqt5webkit5 (>= 5.212.0~alpha3), libqt5widgets5 (>= 5.15.1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 9), libyaml-cpp0.7 (>= 0.7.0)
 Recommends: btrfs-progs, squashfs-tools
 Filename: pool/main/y/yoyo-calamares/yoyo-calamares_0.5_amd64.deb
-Size: 3971590
-MD5sum: 2a0c1c5f9e047234b7a632fff6480b40
-SHA1: 6dcfb86ba3457b8179fd4b91c37581125f8428fb
-SHA256: 0f111f4db115588349293ca767edd8a507e7242684618123ab4a0b07d9d8e01b
 SHA512: c31f08f3f3e655db14f02aeb76cbe388cb537f9dfb6d3340776c017a2076c67b3651d717ef67ed42c25adc71376150e900fe59a4f20ff54db689b539758dbd35
+Size: 3971590
+SHA256: 0f111f4db115588349293ca767edd8a507e7242684618123ab4a0b07d9d8e01b
+SHA1: 6dcfb86ba3457b8179fd4b91c37581125f8428fb
+MD5sum: 2a0c1c5f9e047234b7a632fff6480b40
 Description: distribution-independent installer framework
  Calamares is a distribution-independent installer framework.
  .
@@ -1228,11 +1228,11 @@ Architecture: amd64
 Version: 0.6-1
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libstdc++6 (>= 5.2)
 Filename: pool/main/y/yoyo-calculator/yoyo-calculator_0.6-1_amd64.deb
-Size: 77828
-MD5sum: 5a730121e335346e1c37701c4644cef3
-SHA1: c0f0ceb4bc27bd0c9897975e7e0089e0aa345542
-SHA256: 9ffffb9831d5692265290c724d0f98b3f185464f2839813470b43814803b217d
 SHA512: 7b42560321643a3b76917f363e83b9593f703d4c94d2efbcedb61651d4409644694c03cd205450599cc7e506ef986b4afda4d21813517fcd315dc44305ddab4c
+Size: 77828
+SHA256: 9ffffb9831d5692265290c724d0f98b3f185464f2839813470b43814803b217d
+SHA1: c0f0ceb4bc27bd0c9897975e7e0089e0aa345542
+MD5sum: 5a730121e335346e1c37701c4644cef3
 Description: YoyoOS Calculator
 Homepage: https://github.com/yoyoos/calculator
 
@@ -1245,11 +1245,11 @@ Architecture: amd64
 Version: 0.8
 Depends: accountsservice, qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, appmenu-gtk2-module, appmenu-gtk3-module, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5coreaddons5 (>= 4.97.0), libkf5idletime5 (>= 4.96.0), libkf5windowsystem5 (>= 5.25.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6 (>= 2:1.2.99.901), libx11-xcb1 (>= 2:1.7.5), libxcb-composite0, libxcb-damage0, libxcb-dpms0, libxcb-image0 (>= 0.2), libxcb-record0, libxcb-shape0, libxcb-util1 (>= 0.4.0), libxcb1 (>= 1.6), libxcursor1 (>> 1.1.2), libxi6 (>= 2:1.2.99.4), libxtst6
 Filename: pool/main/y/yoyo-core/yoyo-core_0.8_amd64.deb
-Size: 350912
-MD5sum: 9968da42ea72e59ef6016f1a677179cd
-SHA1: 71f52fa230efdfe87366b1d3839642898d369e76
-SHA256: a3a4e4f0e22dd4288f127f84e0b5d9f0d808b1225cb5de0c933aaf61aa34aa23
 SHA512: 177f13931acddcb89598554dd9fd66baae97d5952b521506e27945f66b02f9e169d9bbb5c30025e497b503d96b731477ab83fa3f9557d3fe7964edfd5e652e0a
+Size: 350912
+SHA256: a3a4e4f0e22dd4288f127f84e0b5d9f0d808b1225cb5de0c933aaf61aa34aa23
+SHA1: 71f52fa230efdfe87366b1d3839642898d369e76
+MD5sum: 9968da42ea72e59ef6016f1a677179cd
 Description: YoyoOS System Components
 Homepage: https://github.com/yoyoos/core
 
@@ -1262,12 +1262,12 @@ Architecture: amd64
 Source: yoyo-core
 Version: 0.8
 Depends: yoyo-core (= 0.8)
-Filename: pool/main/y/yoyo-core/yoyo-core-dbgsym_0.8_amd64.ddeb
-Size: 15087374
-MD5sum: c119650f1f3707e844ba57105e338c71
-SHA1: 12775c82691a3b883d9e26269ba64bfcc0c9f33b
-SHA256: e923bf25747989a2119599da012b8fad43792bc11ea2128833c628f9d7d3c262
+Filename: pool/main/y/yoyo-core/yoyo-core-dbgsym_0.8_amd64.deb
 SHA512: 2a9c8e4f552829ee71c527d59298d71a33b43f1a178e0b7f091e21d9bb6af51d0ab6cdf86765f36278d2bded5b20318e4f519bcbc68be8f0034e69f39ad5e4cb
+Size: 15087374
+SHA256: e923bf25747989a2119599da012b8fad43792bc11ea2128833c628f9d7d3c262
+SHA1: 12775c82691a3b883d9e26269ba64bfcc0c9f33b
+MD5sum: c119650f1f3707e844ba57105e338c71
 Description: debug symbols for yoyo-core
 Auto-Built-Package: debug-symbols
 Build-Ids: 1651395c096d7c146d50fc543a201a091ab9a9b4 5756383af7e72384a3615b0c642485d562bc66c1 6607bb7921e13fa2e278cabc2f7d22a56a5247ec 70cae0177ab07978d7488d92a117343fd525cb86 98c99f4efd833064b6eb93308d04b716f1ae7cb9 98f59623a5cabbdaa7e6a84318b6bcaf314ac4db 9f4356ed647231817228e7b410e625091468f5f6 a0bf8edc151d4854c94b36a7f8da5b59f1da8f4a a37fc444c839c537bc595a6da5038f9f66c5886f a52e35705a7c22835e46d0d1a86f8cf1806b4bd5 bb2299eeed0c32aeca6deb6e3fc79e6bd6c1c2a3 cdac91a4a5397134f88834b19ebbd3fa99993262 da9e7cceb0cf50d3ea0a22db7cb7416315ee8db9 ecd46d6fb6f866c8b6e8a41ec4b08f62ca55183f
@@ -1281,11 +1281,11 @@ Maintainer: Reion Wong <reion@yoyoos.com>
 Architecture: amd64
 Version: 0.5
 Filename: pool/main/y/yoyo-cursor-themes/yoyo-cursor-themes_0.5_amd64.deb
-Size: 5029930
-MD5sum: 97605402fe63fc09084c964d9abb4e85
-SHA1: 72f46d2e9a83b6598a4e4470356f95e1d0fafbc3
-SHA256: 56b914a618cb31264a0e4ff739fb585adac9c90ebabaec883f016c32596e5a2a
 SHA512: f03e2b5305648a1a8d8396159c034a11157a9487c7b5ca2be4eaa403b9f1b4d4508532f90fdf281adb95bcaa4c453e5c5601932e6445dbb6bb38881b11ad054b
+Size: 5029930
+SHA256: 56b914a618cb31264a0e4ff739fb585adac9c90ebabaec883f016c32596e5a2a
+SHA1: 72f46d2e9a83b6598a4e4470356f95e1d0fafbc3
+MD5sum: 97605402fe63fc09084c964d9abb4e85
 Description: YoyoOS Cursor Theme
 Homepage: https://yoyoos.com
 
@@ -1298,11 +1298,11 @@ Architecture: amd64
 Version: 0.8-1
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 5.2)
 Filename: pool/main/y/yoyo-daemon/yoyo-daemon_0.8-1_amd64.deb
-Size: 23860
-MD5sum: 0b53aba87ba3a2e6821045a22df3bf0d
-SHA1: 5245bb44845a11924769a7d9586989e5d2342f5f
-SHA256: f7635cbef42caf1d646912a40e9d0fd3cfa95883c3e1458c39e6b718666e1951
 SHA512: b39e861884e26c10c3cec5f16aed9b14f896aed2b5b57ca173d4818f28d0b457f644b91c886bb0bf40b9f37430b68d84f132a687ced3ff43ca57fc0fe2499335
+Size: 23860
+SHA256: f7635cbef42caf1d646912a40e9d0fd3cfa95883c3e1458c39e6b718666e1951
+SHA1: 5245bb44845a11924769a7d9586989e5d2342f5f
+MD5sum: 0b53aba87ba3a2e6821045a22df3bf0d
 Description: YoyoOS Daemon.
 Homepage: http://yoyoos.com
 
@@ -1315,31 +1315,46 @@ Architecture: amd64
 Version: 0.7-1
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libapt-pkg6.0 (>= 0.8.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
 Filename: pool/main/y/yoyo-debinstaller/yoyo-debinstaller_0.7-1_amd64.deb
-Size: 27442
-MD5sum: 11b4be0657ca79c1394d655590b7a28a
-SHA1: 8b0f052405d12a59904f3364c6cd85c164671d2c
-SHA256: 6c9deff982ed5fdd5238ec9d074b1a3898864593ef3277552a8dfa71967e069b
 SHA512: 6ee4dd11837a2eef41574adc23765819c64fdbe3d9422178315eb3a759d2078279610c39e680ae3947499fc8156b8432aa54caca3c90f7d39946b165d2f607da
+Size: 27442
+SHA256: 6c9deff982ed5fdd5238ec9d074b1a3898864593ef3277552a8dfa71967e069b
+SHA1: 8b0f052405d12a59904f3364c6cd85c164671d2c
+MD5sum: 11b4be0657ca79c1394d655590b7a28a
 Description: YoyoOS Deb Installer
 Homepage: https://yoyoos.com/
 
 Package: yoyo-desktop
-Priority: extra
-Section: metapackages
-Installed-Size: 11
-Maintainer: YoyoOS <support@yoyoos.com>
+Version: 0.8-1
 Architecture: amd64
-Version: 0.8
-Depends: yoyo-calculator, yoyo-core, yoyo-dock, dde-file-manager, dde-desktop, yoyo-launcher, yoyo-statusbar, yoyo-kwin-plugins, yoyo-qt-plugins, yoyo-screenlocker, yoyo-wallpapers, yoyo-settings, yoyo-icons, yoyo-gtk-themes, yoyo-daemon, yoyo-updator, fishui, libyoyo, fonts-noto, fonts-noto-mono, desktop-file-utils
-Recommends: yoyo-screenshot, yoyo-videoplayer, yoyo-debinstaller, yoyo-terminal, pppoe, smbclient, wireless-tools, pulseaudio-module-bluetooth
-Filename: pool/main/y/yoyo-desktop/yoyo-desktop_0.8_amd64.deb
-Size: 1334
-MD5sum: 38bca5389bdfd801a9dafdcf6c27f31a
-SHA1: b625367180eb23b367fed49a7f2ae20773d0e994
-SHA256: f304df764e7a4fba14018c792e366d60043d2ce6e470841f79b1e193a435b8f5
-SHA512: b6a04b33799d4cca0ff4fb6f30c21f5e41f35ed637a91553e36fe6c6c8ee1fba8701701d660a538217b58349c00bb5e9861075850736c1878096307a84172954
-Description: YoyoOS Meta Packages.
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 92
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtgraphicaleffects, libyoyo, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.9.0~beta) | libqt5gui5-gles (>= 5.9.0~beta), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
 Homepage: https://yoyoos.com
+Priority: optional
+Section: devel
+Filename: pool/main/y/yoyo-desktop/yoyo-desktop_0.8-1_amd64.deb
+Size: 32014
+SHA256: 9c762adfde9188956d99047493c4050a526b46d712391385f536defd7c061214
+SHA1: b80a1d3a130bc30b5cf94dcf4cbd83c4a2191a96
+MD5sum: 995274f05f87cf8924c24e7defc298ac
+Description: YoyoOS Desktop
+
+Package: yoyo-digitalwellbeing-daemon
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Yoyo OS <admin@yzzi.icu>
+Installed-Size: 98
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.5.0), libqt5sql5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Homepage: https://github.com/yoyo-os/digitalwellbeing-daemon
+Priority: optional
+Section: utils
+Filename: pool/main/y/yoyo-digitalwellbeing-daemon/yoyo-digitalwellbeing-daemon_0.1.0_amd64.deb
+Size: 31620
+SHA256: 6d063c5def5c72b140be8e176702fcd7c38b63a5c33aea5bd6fc223f237a467b
+SHA1: b89f782839b3dbcc440dbfa4556658eb0f8632aa
+MD5sum: b50be29984d198f86b15b9c6fba16a9a
+Description: A digital-wellbeing daemon which monitors your behavior and provides corresponding stats via dbus.
+ A digital-wellbeing daemon which monitors your behavior, stores them in local sqlite file, and provides corresponding stats via dbus such as per-app usage, usage summary per day/week etc.
 
 Package: yoyo-dock
 Priority: optional
@@ -1350,11 +1365,11 @@ Architecture: amd64
 Version: 0.8
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtgraphicaleffects, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.35.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1)
 Filename: pool/main/y/yoyo-dock/yoyo-dock_0.8_amd64.deb
-Size: 74662
-MD5sum: b74a8e89f54c190680f795b0cd33f6ef
-SHA1: 0eb5eae457bdc1d2ea65e4fad147fc6ca9bf90f2
-SHA256: fe75a6a7bebd1c6dd65dca3420f2b880506c3c1e431e069f9ff937b1ae184288
 SHA512: 5cb7930c72e85d595aa644d33ea8792da3cde2686a51105f0720f421ad0665464c47759d2e64fdb2a6a159895479108c1ba8a3d3eb1ff08fd2e3605382ed55f1
+Size: 74662
+SHA256: fe75a6a7bebd1c6dd65dca3420f2b880506c3c1e431e069f9ff937b1ae184288
+SHA1: 0eb5eae457bdc1d2ea65e4fad147fc6ca9bf90f2
+MD5sum: b74a8e89f54c190680f795b0cd33f6ef
 Description: YoyoOS Dock
 Homepage: https://yoyoos.com
 
@@ -1366,11 +1381,11 @@ Maintainer: YoyoOS <support@yoyoos.com>
 Architecture: amd64
 Version: 0.7
 Filename: pool/main/y/yoyo-gtk-themes/yoyo-gtk-themes_0.7_amd64.deb
-Size: 96438
-MD5sum: f9994c583bff5d5df6d5eba2b360b2c9
-SHA1: c189ebb4abb040621ed25b8cee26dc396b70cf59
-SHA256: 19a241285c38765f8f6cff2625b5435c158ff044731d9a2d2815e61b7284cc1a
 SHA512: 48e4ce1b57992c990acddbb598f7003072623be56d1abf8a6a3d9e04ba259e063d5c3d11fc4ef95c5304e501094641bbe34785ca584ad39fd9713c44184fe730
+Size: 96438
+SHA256: 19a241285c38765f8f6cff2625b5435c158ff044731d9a2d2815e61b7284cc1a
+SHA1: c189ebb4abb040621ed25b8cee26dc396b70cf59
+MD5sum: f9994c583bff5d5df6d5eba2b360b2c9
 Description: YoyoOS GTK Themes
 Homepage: https://yoyoos.com
 
@@ -1382,11 +1397,11 @@ Maintainer: shenmo <shenmo@spark-app.store>
 Architecture: amd64
 Version: 1.1
 Filename: pool/main/y/yoyo-hi/yoyo-hi_1.1_amd64.deb
-Size: 844
-MD5sum: f448dc066f6bfe732f044de4ae2844a6
-SHA1: abdfc053ef3c610377accc41fb5df1d7b99df0e4
-SHA256: 2775a11c54febf50079506397e00500ebbed60752b54771929e967b1de30caee
 SHA512: e6715c590f3b32c65c72f378653069ce91de4c317bb20cb3d6fa462512de5cb6c3314819e678926e722b244c6a6c1431d7fef118d87cea08020bfc3ef8c118db
+Size: 844
+SHA256: 2775a11c54febf50079506397e00500ebbed60752b54771929e967b1de30caee
+SHA1: abdfc053ef3c610377accc41fb5df1d7b99df0e4
+MD5sum: f448dc066f6bfe732f044de4ae2844a6
 Description: yoyo-hi
 
 Package: yoyo-icons
@@ -1397,11 +1412,11 @@ Maintainer: YoyoOS <support@yoyoos.com>
 Architecture: all
 Version: 0.8-1
 Filename: pool/main/y/yoyo-icons/yoyo-icons_0.8-1_all.deb
-Size: 3057528
-MD5sum: 0e0e95a2e7a4aa8d448b1a67b73db0cf
-SHA1: 46194a8498ee326324c72f01ab164b03f67ddc2e
-SHA256: 79cca1e2d07e7fd347a8a21620da85fa7796feb277fd0dae648aade6c78856a4
 SHA512: e433f02022b351482aaa8df7ec0ca409163f66a3efc97dfa5bef59cbfde414ddf4a11d9a08c460094d8f2897dfcc5c0d12c9a1e37c42eb83efd30ab49d80500a
+Size: 3057528
+SHA256: 79cca1e2d07e7fd347a8a21620da85fa7796feb277fd0dae648aade6c78856a4
+SHA1: 46194a8498ee326324c72f01ab164b03f67ddc2e
+MD5sum: 0e0e95a2e7a4aa8d448b1a67b73db0cf
 Description: YoyoOS Icons
 Homepage: https://yoyoos.com
 
@@ -1414,11 +1429,11 @@ Architecture: amd64
 Version: 0.8
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, libc6 (>= 2.29), libgcc-s1 (>= 3.3.1), libkdecorations2-5v5 (>= 5.1.50+git20141206.0010+15.04), libkf5coreaddons5 (>= 4.99.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5)
 Filename: pool/main/y/yoyo-kwin-plugins/yoyo-kwin-plugins_0.8_amd64.deb
-Size: 44668
-MD5sum: 4f96414993b6883686cab6f6687802fa
-SHA1: f5b5a2612a216c2e7a2fcc633183772a6149d92e
-SHA256: d0fa24c7704d4fe486524e80399c493c40ed78a575154c024a6be25134e303dd
 SHA512: 0f2fc0a49a7195835f812530a2cf54a842bdcd0c9707b284d6e700c550b5c1917b5748a26610aea80e07e5942ebc48e705459d040f51e784f38d330cf6aa736b
+Size: 44668
+SHA256: d0fa24c7704d4fe486524e80399c493c40ed78a575154c024a6be25134e303dd
+SHA1: f5b5a2612a216c2e7a2fcc633183772a6149d92e
+MD5sum: 4f96414993b6883686cab6f6687802fa
 Description: YoyoOS KWin Plugins
 Homepage: https://yoyoos.com
 
@@ -1431,11 +1446,11 @@ Architecture: amd64
 Version: 0.8
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
 Filename: pool/main/y/yoyo-launcher/yoyo-launcher_0.8_amd64.deb
-Size: 63010
-MD5sum: 856b0de2a663fd42f56081ceabd7e2c9
-SHA1: 5bfadda399c4a6cfabf07ec8e5ac0adfb1ffb941
-SHA256: bf144612c2a71a7047a66a774da7b1f560485c67038fa7658fd983632db5fb92
 SHA512: 58f03d98c6819b17d7a5c90b40fcebc2f02bd7adc187cd75bd3e14a6ce61b3231965460ff8bf4ff64dde1ae05d6c221bcb2eff3546ca1aecf336347649de1321
+Size: 63010
+SHA256: bf144612c2a71a7047a66a774da7b1f560485c67038fa7658fd983632db5fb92
+SHA1: 5bfadda399c4a6cfabf07ec8e5ac0adfb1ffb941
+MD5sum: 856b0de2a663fd42f56081ceabd7e2c9
 Description: YoyoOS Launcher
 Homepage: https://yoyoos.com
 
@@ -1447,11 +1462,11 @@ Maintainer: Reion Wong <reion@yoyoos.com>
 Architecture: all
 Version: 0.5-1
 Filename: pool/main/y/yoyo-plymouth-theme/yoyo-plymouth-theme_0.5-1_all.deb
-Size: 12986
-MD5sum: 721a337e6cb63e465701eab33ff66d12
-SHA1: e88ecfa04fb17067d5e6ec9c3b544c40b26f372c
-SHA256: f94723d89f610ef5a34b51c5bd05024ca76b52dc6092697eb808ca16eb182c5b
 SHA512: 78cf093e288d21d0f2e1424104c44b33ea43ceed9b8dbf1fd892542624fab0085d00270f5378dd3548ff90d59afe58c0da5ac17cc972c338922f96e556638a18
+Size: 12986
+SHA256: f94723d89f610ef5a34b51c5bd05024ca76b52dc6092697eb808ca16eb182c5b
+SHA1: e88ecfa04fb17067d5e6ec9c3b544c40b26f372c
+MD5sum: 721a337e6cb63e465701eab33ff66d12
 Description: Plymouth theme for YoyoOS.
 
 Package: yoyo-qt-plugins
@@ -1463,11 +1478,11 @@ Architecture: amd64
 Version: 0.6
 Depends: libc6 (>= 2.29), libdbusmenu-qt5-2 (>= 0.3.2), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.69.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5quickcontrols2-5 (>= 5.7.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libqt5xdgiconloader3 (>= 2.0.0), libstdc++6 (>= 5), qtbase-abi-5-15-3
 Filename: pool/main/y/yoyo-qt-plugins/yoyo-qt-plugins_0.6_amd64.deb
-Size: 168854
-MD5sum: 5c0c0ab18ad8466344e1d6c251e7ec99
-SHA1: c784f89c38206f667d648e552705efd442884924
-SHA256: 48baf9621a53d7aee2ce2af2ae67281b6a16a6c793b198c365bf2bcaf5a57a6e
 SHA512: 8b18cb5ad685ef5e43a94f3a65d47d93db4207c7450e09a476eeef15e7dbdc26492a619711a6e25fabed2c5b522b936b892cf38eefc6a4396fd1f97068085f98
+Size: 168854
+SHA256: 48baf9621a53d7aee2ce2af2ae67281b6a16a6c793b198c365bf2bcaf5a57a6e
+SHA1: c784f89c38206f667d648e552705efd442884924
+MD5sum: 5c0c0ab18ad8466344e1d6c251e7ec99
 Description: YoyoOS Qt Plugins
 Homepage: https://yoyoos.com
 
@@ -1480,11 +1495,11 @@ Architecture: amd64
 Version: 0.6-1
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libpam0g (>= 0.99.7.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6
 Filename: pool/main/y/yoyo-screenlocker/yoyo-screenlocker_0.6-1_amd64.deb
-Size: 37804
-MD5sum: 669ef7e688a9d54642a883a17ae972de
-SHA1: 93c88b5432f596bfdec09896992948aa2c1c8504
-SHA256: 966fd804f287f776b0cca318de573ab18cb591068a43ee16c534b8f7daddac3f
 SHA512: 2bbf1b435e25a51f9ad10e537d65af31b9ba27722390fa652d7331efe290e0643e54035c0d716e356001b3366bff311d4619cabb9f38fb04c2acb7a5dd2c96a3
+Size: 37804
+SHA256: 966fd804f287f776b0cca318de573ab18cb591068a43ee16c534b8f7daddac3f
+SHA1: 93c88b5432f596bfdec09896992948aa2c1c8504
+MD5sum: 669ef7e688a9d54642a883a17ae972de
 Description: YoyoOS Screen Locker
 Homepage: https://yoyoos.com
 
@@ -1497,11 +1512,11 @@ Architecture: amd64
 Version: 0.8
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
 Filename: pool/main/y/yoyo-screenshot/yoyo-screenshot_0.8_amd64.deb
-Size: 22922
-MD5sum: 72f7cdb86ab28bfeedb75e14881869dc
-SHA1: aac50f646cb486e76850a699e9f3465dad7b3e7b
-SHA256: 1129367bf610f12b7792cc74fc20f37403e77e787f840bb64281494c0aeca517
 SHA512: 68310e616051508f5f00b3162679876196ebea46b6f50216ef2e10e9bb186e04d546a5b28988dbbbeb6d041e68a7eb3a09196e51804c01b8c0a3bec0bdc4726e
+Size: 22922
+SHA256: 1129367bf610f12b7792cc74fc20f37403e77e787f840bb64281494c0aeca517
+SHA1: aac50f646cb486e76850a699e9f3465dad7b3e7b
+MD5sum: 72f7cdb86ab28bfeedb75e14881869dc
 Description: YoyoOS Screenshot
 Homepage: https://yoyoos.com
 
@@ -1514,11 +1529,11 @@ Architecture: amd64
 Version: 0.5-1
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, sddm
 Filename: pool/main/y/yoyo-sddm-theme/yoyo-sddm-theme_0.5-1_amd64.deb
-Size: 6722
-MD5sum: 67a57e78066c27183c96662545f4a431
-SHA1: cc71ca2b0fb896c76679338cacc851951caec15a
-SHA256: c10e6a16edb22c659a243d7b425303723c34faf8325627de521b62ece0212b48
 SHA512: a022ccb45c715c1d031b467aad4ee421cee112969703952eb07ff0d475394dfbd7472fe622260123efede6129e87fd95a14b85942662fc9a898d971a64e0f119
+Size: 6722
+SHA256: c10e6a16edb22c659a243d7b425303723c34faf8325627de521b62ece0212b48
+SHA1: cc71ca2b0fb896c76679338cacc851951caec15a
+MD5sum: 67a57e78066c27183c96662545f4a431
 Description: YoyoOS Calculator
 Homepage: https://github.com/yoyoos/calculator
 
@@ -1531,11 +1546,11 @@ Architecture: amd64
 Version: 0.8-2
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtquick-particles2, kscreen, libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libfontconfig1 (>= 2.12.6), libgcc-s1 (>= 3.3.1), libicu70 (>= 70.1-1~), libkf5configcore5 (>= 4.97.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libx11-6, libxcursor1 (>> 1.1.2), libxfixes3
 Filename: pool/main/y/yoyo-settings/yoyo-settings_0.8-2_amd64.deb
-Size: 316980
-MD5sum: 84aa02f440459100c3bf7dc19b29de91
-SHA1: 07d9079562be51ce5665375b52ca1ae87ec8337f
-SHA256: c2422c379bcc01e226b340fb52362ef2ad1cbfbd36b08db9f7e26778b3e0cb40
 SHA512: 9b5d26c41674efa4b7aedb106004cdd8b7b9e187323bfafe0f842967942c6f469f45e6499004785c766f35ddc299dcae40f850aafe4ce9541f3adcce7ed188ea
+Size: 316980
+SHA256: c2422c379bcc01e226b340fb52362ef2ad1cbfbd36b08db9f7e26778b3e0cb40
+SHA1: 07d9079562be51ce5665375b52ca1ae87ec8337f
+MD5sum: 84aa02f440459100c3bf7dc19b29de91
 Description: YoyoOS Settings
 Homepage: https://yoyoos.com
 
@@ -1548,12 +1563,12 @@ Architecture: amd64
 Source: yoyo-settings
 Version: 0.8-2
 Depends: yoyo-settings (= 0.8-2)
-Filename: pool/main/y/yoyo-settings/yoyo-settings-dbgsym_0.8-2_amd64.ddeb
-Size: 4289436
-MD5sum: c9df0d0fb339e2e3b87b3c46a7724ec2
-SHA1: ed20609496001bd3db52e998d411953710005c0a
-SHA256: a7a3dd6f3e8617998190e8d605cb8e5620ef6fbd878e0d424b9eb717228eb2c0
+Filename: pool/main/y/yoyo-settings/yoyo-settings-dbgsym_0.8-2_amd64.deb
 SHA512: 4965671965a9e1324f75c4130fca9020e2b50677948cfd9d01e6c49ef9a2f221d9944b002158bfc7927640f81aa3e1f89da5b824384a269a4c7cae550787231a
+Size: 4289436
+SHA256: a7a3dd6f3e8617998190e8d605cb8e5620ef6fbd878e0d424b9eb717228eb2c0
+SHA1: ed20609496001bd3db52e998d411953710005c0a
+MD5sum: c9df0d0fb339e2e3b87b3c46a7724ec2
 Description: debug symbols for yoyo-settings
 Auto-Built-Package: debug-symbols
 Build-Ids: ca36ac34bf11a6652ece86a44268c08a74e7a311
@@ -1568,11 +1583,11 @@ Architecture: amd64
 Version: 0.8-1
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.35.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libxcb1
 Filename: pool/main/y/yoyo-statusbar/yoyo-statusbar_0.8-1_amd64.deb
-Size: 178704
-MD5sum: 17f47148bea7fc43d1b1ae69be54b215
-SHA1: bfbdb33cbc5a9729d1fbe4cc4f4cf26d67075ef7
-SHA256: 09c0488a6d3b0954242f925a00b22336466f9d939056ffdb39cc5c33f1ce6e3f
 SHA512: 3c81b2a565ac0ff4e63bc0e98175232369e47022ec8d7b38d11149968f9ee79b3e4903c063d50d7fadbb211b02d5eb13d3fda51041cb3cb7bcb18e39bb623639
+Size: 178704
+SHA256: 09c0488a6d3b0954242f925a00b22336466f9d939056ffdb39cc5c33f1ce6e3f
+SHA1: bfbdb33cbc5a9729d1fbe4cc4f4cf26d67075ef7
+MD5sum: 17f47148bea7fc43d1b1ae69be54b215
 Description: YoyoOS Statusbar
 Homepage: https://yoyoos.com
 
@@ -1585,11 +1600,11 @@ Architecture: amd64
 Version: 0.7-3
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libyoyo, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.1) | libqt5quick5-gles (>= 5.6.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
 Filename: pool/main/y/yoyo-terminal/yoyo-terminal_0.7-3_amd64.deb
-Size: 257376
-MD5sum: 86ac351bdf169270a5958989b55b19fc
-SHA1: 3a5fb1966e71122bf3cf3983206103b1d3c39490
-SHA256: fea5323dd183b0b91f73fe54853b000ff31e031b3d7a0f82ccedb96b4b0651e8
 SHA512: ddafd8c11531d371e2067e9c90d4d2457d3ba1bff63eb39dbe54a4db7aa2d0389cb82109e07e67b7b06e0fc3cffc4859a71f93ee2e8dcdde39a2ef5d763c1c02
+Size: 257376
+SHA256: fea5323dd183b0b91f73fe54853b000ff31e031b3d7a0f82ccedb96b4b0651e8
+SHA1: 3a5fb1966e71122bf3cf3983206103b1d3c39490
+MD5sum: 86ac351bdf169270a5958989b55b19fc
 Description: YoyoOS Terminal
 Homepage: https://yoyoos.com
 
@@ -1602,11 +1617,11 @@ Architecture: amd64
 Version: 0.8-1
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.1.0), libstdc++6 (>= 4.1.1)
 Filename: pool/main/y/yoyo-updator/yoyo-updator_0.8-1_amd64.deb
-Size: 287530
-MD5sum: 5dbef4f47fb8a1875c273dc6b5825ed6
-SHA1: bcc9948d6a98ae4019c6f9d58a2a4177cc5ce8ae
-SHA256: 1a43ceeb445130038be537b1d8973589dc69b849cd7eb5cee8d46d74c53c8850
 SHA512: 93a6d8cdec5224c820aa0a56c9c6be26d4669ef9ac6944b91cbb1540a509c84a08792684b9275a8cbb883eac9801e17ebd3331ef52c579783a149db53b5dd1bd
+Size: 287530
+SHA256: 1a43ceeb445130038be537b1d8973589dc69b849cd7eb5cee8d46d74c53c8850
+SHA1: bcc9948d6a98ae4019c6f9d58a2a4177cc5ce8ae
+MD5sum: 5dbef4f47fb8a1875c273dc6b5825ed6
 Description: YoyoOS Updator.
 Homepage: https://yoyoos.com
 
@@ -1619,11 +1634,11 @@ Architecture: amd64
 Version: 0.5-3
 Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtquick-particles2, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libmpv1 (>= 0.29), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.4.0) | libqt5quick5-gles (>= 5.4.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2), qtdeclarative-abi-5-15-3
 Filename: pool/main/y/yoyo-videoplayer/yoyo-videoplayer_0.5-3_amd64.deb
-Size: 82352
-MD5sum: 82243cc40a6f7a6415eebb80fcbf3755
-SHA1: 53f7665560c5814b96d1493b656dcb5adf8bc768
-SHA256: 38c3dcce9d7cf9e0f924143bc19ee252e6602f89a6d5d453800e85b3caf37637
 SHA512: 2a2a7f82206e64921c0b3707c656461ff8098940238021d4fda457b7846cb698889e23c99a9b7a01ebcaa374374fdb48d0added3fd3af53b3b3d67969ef79539
+Size: 82352
+SHA256: 38c3dcce9d7cf9e0f924143bc19ee252e6602f89a6d5d453800e85b3caf37637
+SHA1: 53f7665560c5814b96d1493b656dcb5adf8bc768
+MD5sum: 82243cc40a6f7a6415eebb80fcbf3755
 Description: An open source video player built with Qt/QML and libmpv
 Homepage: https://yoyoos.com
 
@@ -1635,11 +1650,28 @@ Maintainer: YoyoOS <support@yoyoos.com>
 Architecture: amd64
 Version: 0.5
 Filename: pool/main/y/yoyo-wallpapers/yoyo-wallpapers_0.5_amd64.deb
-Size: 3231676
-MD5sum: 5a59ebf5aa6dd8a60023d0f858759c77
-SHA1: 7fc409268bccdf0e8c82b7799ccec48d5e8874f4
-SHA256: f5f9750a471f957c2bbe0a1846179ee55755072a8b991f34bcdc9d8628e560c0
 SHA512: 9f69b1d197c64a5db4d3fa040f15e30a51cc42a518bb8d1b9b2ad5127890ee9acf81d4f2220627fe0d199bb3f38333f84cf21a34bf2f9d7c73a384e2d80e36ea
+Size: 3231676
+SHA256: f5f9750a471f957c2bbe0a1846179ee55755072a8b991f34bcdc9d8628e560c0
+SHA1: 7fc409268bccdf0e8c82b7799ccec48d5e8874f4
+MD5sum: 5a59ebf5aa6dd8a60023d0f858759c77
 Description: YoyoOS Wallpapers
 Homepage: https://yoyoos.com
+
+Package: yyds
+Version: 0.9
+Architecture: amd64
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 11
+Depends: yoyo-calculator, yoyo-core, yoyo-dock, yoyo-filemanager, yoyo-digitalwellbeing-daemon, yoyo-desktop, yoyo-launcher, yoyo-statusbar, yoyo-kwin-plugins, yoyo-qt-plugins, yoyo-screenlocker, yoyo-wallpapers, yoyo-settings, yoyo-icons, yoyo-gtk-themes, yoyo-daemon, yoyo-updator, fishui, libyoyo, fonts-noto, fonts-noto-mono, desktop-file-utils
+Recommends: yoyo-screenshot, yoyo-videoplayer, yoyo-debinstaller, yoyo-terminal, pppoe, smbclient, wireless-tools, pulseaudio-module-bluetooth
+Homepage: https://yoyoos.com
+Priority: extra
+Section: metapackages
+Filename: pool/main/y/yyds/yyds_0.9_amd64.deb
+Size: 1322
+SHA256: 450dc5cd0eb975dff17ed20ff5495b43ea5c5110c0869af3a4f7058ccb95031d
+SHA1: 3eebdb2bd0369d51b11ff84c2aea785d035abd7f
+MD5sum: a86b2b61fe684c75d37805c4226c8694
+Description: YoyoOS Meta Packages.
 

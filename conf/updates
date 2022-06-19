@@ -1,0 +1,3 @@
+Name: YoyoOS-packages
+Method: https://github.com/Yoyo-OS/packages/raw/master/
+Config: Acquire::Http::Proxy=http://127.0.0.1:7890

@@ -1,6 +1,2 @@
-Origin: . kokomi
-Label: . kokomi
-Archive: kokomi
-Suite: kokomi
-Architecture: amd64
 Component: main
+Architecture: amd64
