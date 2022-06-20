@@ -1159,21 +1159,20 @@ Homepage: http://xcb.freedesktop.org
 Multi-Arch: same
 
 Package: libyoyo
+Version: 0.8-1
+Architecture: amd64
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 2533
+Depends: kio, libc6 (>= 2.32), libcanberra0 (>= 0.16), libgcc-s1 (>= 3.3.1), libkf5bluezqt6 (>= 5.77.0), libkf5configcore5 (>= 4.97.0), libkf5coreaddons5 (>= 4.97.0), libkf5kiocore5 (>= 5.92.0), libkf5kiowidgets5 (>= 5.3.0+git20141101.0339), libkf5networkmanagerqt6 (>= 5.66.0), libkf5screen-bin (>= 4:5.17.5~), libkf5screen7 (>= 4:5.23.80), libkf5solid5 (>= 5.74.0), libkf5xmlgui5 (>= 4.96.0), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.9.0~beta) | libqt5gui5-gles (>= 5.9.0~beta), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5sensors5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 5.2)
+Homepage: https://yoyoos.com
 Priority: optional
 Section: devel
-Installed-Size: 1926
-Maintainer: YoyoOS <support@yoyoos.com>
-Architecture: amd64
-Version: 0.7
-Depends: libc6 (>= 2.14), libcanberra0 (>= 0.16), libgcc-s1 (>= 3.3.1), libkf5bluezqt6 (>= 5.77.0), libkf5coreaddons5 (>= 4.97.0), libkf5networkmanagerqt6 (>= 5.66.0), libkf5screen-bin (>= 4:5.17.5~), libkf5screen7 (>= 4:5.23.80), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.7.0) | libqt5quick5-gles (>= 5.7.0), libqt5sensors5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 5)
-Filename: pool/main/liby/libyoyo/libyoyo_0.7_amd64.deb
-SHA512: c003dae8a5ad771e7551aa1ef886be6686f7ffc84c9f02c7ffc398a23ba743e0293b91453026da1fd3c27cacc47aa992894dbf0e65b0ee7e6bdfd1a74e5ab3ac
-Size: 499464
-SHA256: c257a7c82066b920f5b337c5d2bf04ae30c20cbfaaa6ca4fd2d3998a8f1061dc
-SHA1: e4eb6e2b672144003372a8e3883e2de236d997c0
-MD5sum: 9fe01356e37c4ccbec19bb574aa0731e
+Filename: pool/main/liby/libyoyo/libyoyo_0.8-1_amd64.deb
+Size: 662598
+SHA256: 13508f5fac606e6d33d2b4632780966d8e53f0b227fe54ed116a0503e463545d
+SHA1: b135e484ab1dbf6851abdc7c811da9b33834df4e
+MD5sum: 9d304c98810c9538971168ada44245ce
 Description: YoyoOS Library
-Homepage: https://yoyoos.com
 
 Package: texteditor
 Priority: optional
