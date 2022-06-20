@@ -181,7 +181,7 @@ Architecture: amd64
 Source: qt5integration
 Version: 5.5.20-1
 Depends: dde-qt5integration (= 5.5.20-1)
-Filename: pool/main/q/qt5integration/dde-qt5integration-dbgsym_5.5.20-1_amd64.ddeb
+Filename: pool/main/q/qt5integration/dde-qt5integration-dbgsym_5.5.20-1_amd64.deb
 Size: 971826
 MD5sum: 139f069a4174e67a6c38bc044395d62a
 SHA1: cc6e436f3e4a027b11b26b4363454f41df9fc0f7
@@ -219,7 +219,7 @@ Architecture: amd64
 Source: qt5integration
 Version: 5.5.20-1
 Depends: dde-qt5integration5 (= 5.5.20-1)
-Filename: pool/main/q/qt5integration/dde-qt5integration5-dbgsym_5.5.20-1_amd64.ddeb
+Filename: pool/main/q/qt5integration/dde-qt5integration5-dbgsym_5.5.20-1_amd64.deb
 Size: 5253390
 MD5sum: 67f2d93c0a28ae7a3277343f06a5a107
 SHA1: 4e6a7485dee8e8d462e9ce427ebe0485f224eed5
@@ -380,7 +380,7 @@ Architecture: amd64
 Source: dtkwidget
 Version: 5.5.42-1
 Depends: dtkwidget5-examples (= 5.5.42-1)
-Filename: pool/main/d/dtkwidget/dtkwidget5-examples-dbgsym_5.5.42-1_amd64.ddeb
+Filename: pool/main/d/dtkwidget/dtkwidget5-examples-dbgsym_5.5.42-1_amd64.deb
 Size: 5229238
 MD5sum: 8a0f20214d038ea986f4fad3a87b198a
 SHA1: 2aa11ffbd42b5e6e91de431f163939a24b9046b2
@@ -824,7 +824,7 @@ Architecture: amd64
 Source: dtkcore
 Version: 5.5.30-1
 Depends: libdtkcore5-bin (= 5.5.30-1)
-Filename: pool/main/d/dtkcore/libdtkcore5-bin-dbgsym_5.5.30-1_amd64.ddeb
+Filename: pool/main/d/dtkcore/libdtkcore5-bin-dbgsym_5.5.30-1_amd64.deb
 Size: 1589748
 MD5sum: ee02493fee4d122c9fddc36bda5ff5ee
 SHA1: f24d23affd8b2cf0fc6b37ffd7492c2a5c2a51b7
@@ -844,7 +844,7 @@ Architecture: amd64
 Source: dtkcore
 Version: 5.5.30-1
 Depends: libdtkcore5 (= 5.5.30-1)
-Filename: pool/main/d/dtkcore/libdtkcore5-dbgsym_5.5.30-1_amd64.ddeb
+Filename: pool/main/d/dtkcore/libdtkcore5-dbgsym_5.5.30-1_amd64.deb
 Size: 6947996
 MD5sum: 7cfc8a065e6129c653d78c07023a10bc
 SHA1: b07e3c0631c1d604296938ef24816c87e1c43d4d
@@ -926,7 +926,7 @@ Architecture: amd64
 Source: dtkgui
 Version: 5.5.22-1
 Depends: libdtkgui5-bin (= 5.5.22-1)
-Filename: pool/main/d/dtkgui/libdtkgui5-bin-dbgsym_5.5.22-1_amd64.ddeb
+Filename: pool/main/d/dtkgui/libdtkgui5-bin-dbgsym_5.5.22-1_amd64.deb
 Size: 735472
 MD5sum: b405051476cdf7757772ca303e7cacb2
 SHA1: 2985962db519022712f3fb43b30504a5ab0f7ac6
@@ -946,7 +946,7 @@ Architecture: amd64
 Source: dtkgui
 Version: 5.5.22-1
 Depends: libdtkgui5 (= 5.5.22-1)
-Filename: pool/main/d/dtkgui/libdtkgui5-dbgsym_5.5.22-1_amd64.ddeb
+Filename: pool/main/d/dtkgui/libdtkgui5-dbgsym_5.5.22-1_amd64.deb
 Size: 3826656
 MD5sum: efec83fe8f63f952e56a10c5340bb09d
 SHA1: a54b42f77b3a5ec9396c86917d953ee03d69462c
@@ -1030,7 +1030,7 @@ Architecture: amd64
 Source: dtkwidget
 Version: 5.5.42-1
 Depends: libdtkwidget5-bin (= 5.5.42-1)
-Filename: pool/main/d/dtkwidget/libdtkwidget5-bin-dbgsym_5.5.42-1_amd64.ddeb
+Filename: pool/main/d/dtkwidget/libdtkwidget5-bin-dbgsym_5.5.42-1_amd64.deb
 Size: 237374
 MD5sum: ebc24c5a8a08b84ae3df9ff69ddd12aa
 SHA1: 19ecea82bbab6b249024b6f8f9dfbe75a9e5a605
@@ -1050,7 +1050,7 @@ Architecture: amd64
 Source: dtkwidget
 Version: 5.5.42-1
 Depends: libdtkwidget5 (= 5.5.42-1)
-Filename: pool/main/d/dtkwidget/libdtkwidget5-dbgsym_5.5.42-1_amd64.ddeb
+Filename: pool/main/d/dtkwidget/libdtkwidget5-dbgsym_5.5.42-1_amd64.deb
 Size: 34550686
 MD5sum: a0ef94bfcf8e2c3ee3686f1860bce9f1
 SHA1: aeb7628bc620b73152320186a95b5876735f072f
@@ -1262,7 +1262,7 @@ Architecture: amd64
 Source: yoyo-core
 Version: 0.8
 Depends: yoyo-core (= 0.8)
-Filename: pool/main/y/yoyo-core/yoyo-core-dbgsym_0.8_amd64.ddeb
+Filename: pool/main/y/yoyo-core/yoyo-core-dbgsym_0.8_amd64.deb
 Size: 15087374
 MD5sum: c119650f1f3707e844ba57105e338c71
 SHA1: 12775c82691a3b883d9e26269ba64bfcc0c9f33b
@@ -1324,22 +1324,39 @@ Description: YoyoOS Deb Installer
 Homepage: https://yoyoos.com/
 
 Package: yoyo-desktop
-Priority: extra
-Section: metapackages
-Installed-Size: 11
+Priority: optional
+Section: devel
+Installed-Size: 92
 Maintainer: YoyoOS <support@yoyoos.com>
 Architecture: amd64
-Version: 0.8
-Depends: yoyo-calculator, yoyo-core, yoyo-dock, dde-file-manager, dde-desktop, yoyo-launcher, yoyo-statusbar, yoyo-kwin-plugins, yoyo-qt-plugins, yoyo-screenlocker, yoyo-wallpapers, yoyo-settings, yoyo-icons, yoyo-gtk-themes, yoyo-daemon, yoyo-updator, fishui, libyoyo, fonts-noto, fonts-noto-mono, desktop-file-utils
-Recommends: yoyo-screenshot, yoyo-videoplayer, yoyo-debinstaller, yoyo-terminal, pppoe, smbclient, wireless-tools, pulseaudio-module-bluetooth
-Filename: pool/main/y/yoyo-desktop/yoyo-desktop_0.8_amd64.deb
-Size: 1334
-MD5sum: 38bca5389bdfd801a9dafdcf6c27f31a
-SHA1: b625367180eb23b367fed49a7f2ae20773d0e994
-SHA256: f304df764e7a4fba14018c792e366d60043d2ce6e470841f79b1e193a435b8f5
-SHA512: b6a04b33799d4cca0ff4fb6f30c21f5e41f35ed637a91553e36fe6c6c8ee1fba8701701d660a538217b58349c00bb5e9861075850736c1878096307a84172954
-Description: YoyoOS Meta Packages.
+Version: 0.8-1
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtgraphicaleffects, libyoyo, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.9.0~beta) | libqt5gui5-gles (>= 5.9.0~beta), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-desktop/yoyo-desktop_0.8-1_amd64.deb
+Size: 32014
+MD5sum: 995274f05f87cf8924c24e7defc298ac
+SHA1: b80a1d3a130bc30b5cf94dcf4cbd83c4a2191a96
+SHA256: 9c762adfde9188956d99047493c4050a526b46d712391385f536defd7c061214
+SHA512: 1add1c2613eebc9377bf922d431868e82333104cc45b5402a4393d9d38488320db302960545115863b1cf5b2683afd0004a62c6111db23f870b248df6eb0bab6
+Description: YoyoOS Desktop
 Homepage: https://yoyoos.com
+
+Package: yoyo-digitalwellbeing-daemon
+Priority: optional
+Section: utils
+Installed-Size: 98
+Maintainer: Yoyo OS <admin@yzzi.icu>
+Architecture: amd64
+Version: 0.1.0
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.5.0), libqt5sql5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: pool/main/y/yoyo-digitalwellbeing-daemon/yoyo-digitalwellbeing-daemon_0.1.0_amd64.deb
+Size: 31620
+MD5sum: b50be29984d198f86b15b9c6fba16a9a
+SHA1: b89f782839b3dbcc440dbfa4556658eb0f8632aa
+SHA256: 6d063c5def5c72b140be8e176702fcd7c38b63a5c33aea5bd6fc223f237a467b
+SHA512: daa9f8e5ced6fdb2ce5dfb88325ff619fff81dcc0d1cae8c94aed7d12603fd728c03c178109903d06fce599e6a605bfbf66a3bba7045ed09fbd2c08de8d96166
+Description: A digital-wellbeing daemon which monitors your behavior and provides corresponding stats via dbus.
+ A digital-wellbeing daemon which monitors your behavior, stores them in local sqlite file, and provides corresponding stats via dbus such as per-app usage, usage summary per day/week etc.
+Homepage: https://github.com/yoyo-os/digitalwellbeing-daemon
 
 Package: yoyo-dock
 Priority: optional
@@ -1548,7 +1565,7 @@ Architecture: amd64
 Source: yoyo-settings
 Version: 0.8-2
 Depends: yoyo-settings (= 0.8-2)
-Filename: pool/main/y/yoyo-settings/yoyo-settings-dbgsym_0.8-2_amd64.ddeb
+Filename: pool/main/y/yoyo-settings/yoyo-settings-dbgsym_0.8-2_amd64.deb
 Size: 4289436
 MD5sum: c9df0d0fb339e2e3b87b3c46a7724ec2
 SHA1: ed20609496001bd3db52e998d411953710005c0a
@@ -1641,5 +1658,23 @@ SHA1: 7fc409268bccdf0e8c82b7799ccec48d5e8874f4
 SHA256: f5f9750a471f957c2bbe0a1846179ee55755072a8b991f34bcdc9d8628e560c0
 SHA512: 9f69b1d197c64a5db4d3fa040f15e30a51cc42a518bb8d1b9b2ad5127890ee9acf81d4f2220627fe0d199bb3f38333f84cf21a34bf2f9d7c73a384e2d80e36ea
 Description: YoyoOS Wallpapers
+Homepage: https://yoyoos.com
+
+Package: yyds
+Priority: extra
+Section: metapackages
+Installed-Size: 11
+Maintainer: YoyoOS <support@yoyoos.com>
+Architecture: amd64
+Version: 0.9
+Depends: yoyo-calculator, yoyo-core, yoyo-dock, yoyo-filemanager, yoyo-digitalwellbeing-daemon, yoyo-desktop, yoyo-launcher, yoyo-statusbar, yoyo-kwin-plugins, yoyo-qt-plugins, yoyo-screenlocker, yoyo-wallpapers, yoyo-settings, yoyo-icons, yoyo-gtk-themes, yoyo-daemon, yoyo-updator, fishui, libyoyo, fonts-noto, fonts-noto-mono, desktop-file-utils
+Recommends: yoyo-screenshot, yoyo-videoplayer, yoyo-debinstaller, yoyo-terminal, pppoe, smbclient, wireless-tools, pulseaudio-module-bluetooth
+Filename: pool/main/y/yyds/yyds_0.9_amd64.deb
+Size: 1322
+MD5sum: a86b2b61fe684c75d37805c4226c8694
+SHA1: 3eebdb2bd0369d51b11ff84c2aea785d035abd7f
+SHA256: 450dc5cd0eb975dff17ed20ff5495b43ea5c5110c0869af3a4f7058ccb95031d
+SHA512: e762e0a46567b41081085e503983d1c6f7db3efe4c000aa6f6f817a7cab40a8e92e7df5518956d3479e1de5009c3aa6448fc4a8390d051361c9df96f850b604b
+Description: YoyoOS Meta Packages.
 Homepage: https://yoyoos.com
 

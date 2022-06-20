@@ -2,3 +2,4 @@ Codename: kokomi
 Components: main
 Architectures: amd64
 Update: YoyoOS-packages
+SignWith: 9C9A1BA17A2CF9E1
