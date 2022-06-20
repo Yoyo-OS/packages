@@ -1236,21 +1236,20 @@ Description: YoyoOS Calculator
 Homepage: https://github.com/yoyoos/calculator
 
 Package: yoyo-core
+Version: 0.9
+Architecture: amd64
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Installed-Size: 1464
+Depends: accountsservice, qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, appmenu-gtk2-module, appmenu-gtk3-module, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5coreaddons5 (>= 4.97.0), libkf5idletime5 (>= 4.96.0), libkf5windowsystem5 (>= 5.25.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6 (>= 2:1.2.99.901), libx11-xcb1 (>= 2:1.7.5), libxcb-composite0, libxcb-damage0, libxcb-dpms0, libxcb-image0 (>= 0.2), libxcb-record0, libxcb-shape0, libxcb-util1 (>= 0.4.0), libxcb1 (>= 1.6), libxcursor1 (>> 1.1.2), libxi6 (>= 2:1.2.99.4), libxtst6
+Homepage: https://github.com/yoyoos/core
 Priority: optional
 Section: devel
-Installed-Size: 1452
-Maintainer: YoyoOS <yoyoos@foxmail.com>
-Architecture: amd64
-Version: 0.8
-Depends: accountsservice, qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, appmenu-gtk2-module, appmenu-gtk3-module, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5coreaddons5 (>= 4.97.0), libkf5idletime5 (>= 4.96.0), libkf5windowsystem5 (>= 5.25.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6 (>= 2:1.2.99.901), libx11-xcb1 (>= 2:1.7.5), libxcb-composite0, libxcb-damage0, libxcb-dpms0, libxcb-image0 (>= 0.2), libxcb-record0, libxcb-shape0, libxcb-util1 (>= 0.4.0), libxcb1 (>= 1.6), libxcursor1 (>> 1.1.2), libxi6 (>= 2:1.2.99.4), libxtst6
-Filename: pool/main/y/yoyo-core/yoyo-core_0.8_amd64.deb
-SHA512: 177f13931acddcb89598554dd9fd66baae97d5952b521506e27945f66b02f9e169d9bbb5c30025e497b503d96b731477ab83fa3f9557d3fe7964edfd5e652e0a
-Size: 350912
-SHA256: a3a4e4f0e22dd4288f127f84e0b5d9f0d808b1225cb5de0c933aaf61aa34aa23
-SHA1: 71f52fa230efdfe87366b1d3839642898d369e76
-MD5sum: 9968da42ea72e59ef6016f1a677179cd
+Filename: pool/main/y/yoyo-core/yoyo-core_0.9_amd64.deb
+Size: 351232
+SHA256: 69e09f6eafe6ff27729c05cffc1cceb7c0f2614a5b7a5ee9ab677fc19b3b9e78
+SHA1: 1d8a8ddba7dcdf5f1f15100a68a2ad1dd2d7780e
+MD5sum: f5ccb1994cf0f666f6e433f0c14ef868
 Description: YoyoOS System Components
-Homepage: https://github.com/yoyoos/core
 
 Package: yoyo-core-dbgsym
 Priority: optional
@@ -1572,21 +1571,20 @@ Description: YoyoOS Calculator
 Homepage: https://github.com/yoyoos/calculator
 
 Package: yoyo-settings
+Version: 0.9
+Architecture: amd64
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 1356
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtquick-particles2, kscreen, libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libfontconfig1 (>= 2.12.6), libgcc-s1 (>= 3.3.1), libicu70 (>= 70.1-1~), libkf5configcore5 (>= 4.97.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libx11-6, libxcursor1 (>> 1.1.2), libxfixes3
+Homepage: https://yoyoos.com
 Priority: optional
 Section: devel
-Installed-Size: 1336
-Maintainer: YoyoOS <support@yoyoos.com>
-Architecture: amd64
-Version: 0.8-2
-Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtquick-particles2, kscreen, libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libfontconfig1 (>= 2.12.6), libgcc-s1 (>= 3.3.1), libicu70 (>= 70.1-1~), libkf5configcore5 (>= 4.97.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libx11-6, libxcursor1 (>> 1.1.2), libxfixes3
-Filename: pool/main/y/yoyo-settings/yoyo-settings_0.8-2_amd64.deb
-SHA512: 9b5d26c41674efa4b7aedb106004cdd8b7b9e187323bfafe0f842967942c6f469f45e6499004785c766f35ddc299dcae40f850aafe4ce9541f3adcce7ed188ea
-Size: 316980
-SHA256: c2422c379bcc01e226b340fb52362ef2ad1cbfbd36b08db9f7e26778b3e0cb40
-SHA1: 07d9079562be51ce5665375b52ca1ae87ec8337f
-MD5sum: 84aa02f440459100c3bf7dc19b29de91
+Filename: pool/main/y/yoyo-settings/yoyo-settings_0.9_amd64.deb
+Size: 320536
+SHA256: c6490bf2ff3eb0331bf3628b76402c1ab5469b340aaa2085c03e3577dc068915
+SHA1: 05f7e126ae4fcd69a956be738c1b05c95edc31bd
+MD5sum: 150e719f482c4d773d610f94ba57430c
 Description: YoyoOS Settings
-Homepage: https://yoyoos.com
 
 Package: yoyo-settings-dbgsym
 Priority: optional
