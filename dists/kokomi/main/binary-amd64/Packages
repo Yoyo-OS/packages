@@ -1288,21 +1288,39 @@ Description: YoyoOS Cursor Theme
 Homepage: https://yoyoos.com
 
 Package: yoyo-daemon
+Version: 0.9
+Architecture: amd64
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 61
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Homepage: http://yoyoos.com
 Priority: optional
 Section: devel
-Installed-Size: 87
-Maintainer: YoyoOS <support@yoyoos.com>
-Architecture: amd64
-Version: 0.8-1
-Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 5.2)
-Filename: pool/main/y/yoyo-daemon/yoyo-daemon_0.8-1_amd64.deb
-SHA512: b39e861884e26c10c3cec5f16aed9b14f896aed2b5b57ca173d4818f28d0b457f644b91c886bb0bf40b9f37430b68d84f132a687ced3ff43ca57fc0fe2499335
-Size: 23860
-SHA256: f7635cbef42caf1d646912a40e9d0fd3cfa95883c3e1458c39e6b718666e1951
-SHA1: 5245bb44845a11924769a7d9586989e5d2342f5f
-MD5sum: 0b53aba87ba3a2e6821045a22df3bf0d
+Filename: pool/main/y/yoyo-daemon/yoyo-daemon_0.9_amd64.deb
+Size: 15254
+SHA256: a5e1768734479eab7b02897bf80a2491c84a52b8255bfac608c1f4dfcba437c0
+SHA1: ec08597ac219bfe08d7619f13e00948a02038d45
+MD5sum: e82261d691e8ed3fdfdb899028d795a0
 Description: YoyoOS Daemon.
-Homepage: http://yoyoos.com
+
+Package: yoyo-daemon-dbgsym
+Package-Type: ddeb
+Source: yoyo-daemon
+Version: 0.9
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 641
+Depends: yoyo-daemon (= 0.9)
+Priority: optional
+Section: debug
+Filename: pool/main/y/yoyo-daemon/yoyo-daemon-dbgsym_0.9_amd64.deb
+Size: 629328
+SHA256: 545fca193ea6cec406efdf1d5e2336d5054664c5402365cb14560ef3358a6dc5
+SHA1: eed2e54fabc49b9cc9d65808dd44bf1cc9ff20c0
+MD5sum: 778683688502e0abef22e0160132d113
+Description: debug symbols for yoyo-daemon
+Build-Ids: 5aeae5ff511eea81540fff97866d38556a635ea8
 
 Package: yoyo-debinstaller
 Priority: optional
@@ -1587,41 +1605,58 @@ MD5sum: 150e719f482c4d773d610f94ba57430c
 Description: YoyoOS Settings
 
 Package: yoyo-settings-dbgsym
+Package-Type: ddeb
+Source: yoyo-settings
+Version: 0.9
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 4528
+Depends: yoyo-settings (= 0.9)
 Priority: optional
 Section: debug
-Installed-Size: 4362
-Maintainer: YoyoOS <support@yoyoos.com>
-Architecture: amd64
-Source: yoyo-settings
-Version: 0.8-2
-Depends: yoyo-settings (= 0.8-2)
-Filename: pool/main/y/yoyo-settings/yoyo-settings-dbgsym_0.8-2_amd64.deb
-SHA512: 4965671965a9e1324f75c4130fca9020e2b50677948cfd9d01e6c49ef9a2f221d9944b002158bfc7927640f81aa3e1f89da5b824384a269a4c7cae550787231a
-Size: 4289436
-SHA256: a7a3dd6f3e8617998190e8d605cb8e5620ef6fbd878e0d424b9eb717228eb2c0
-SHA1: ed20609496001bd3db52e998d411953710005c0a
-MD5sum: c9df0d0fb339e2e3b87b3c46a7724ec2
+Filename: pool/main/y/yoyo-settings/yoyo-settings-dbgsym_0.9_amd64.deb
+Size: 4453316
+SHA256: fe2b8ed96012e0a672dfeae4b6b2de0cc50d4e49a3f5817eaa022a91cc4301c4
+SHA1: 5e26e2b76b84d187c3cada908d479946d70af5a8
+MD5sum: 3a316ea7ac81af8449eb2a6b932c63b8
 Description: debug symbols for yoyo-settings
-Auto-Built-Package: debug-symbols
-Build-Ids: ca36ac34bf11a6652ece86a44268c08a74e7a311
-Package-Type: ddeb
+Build-Ids: 2f9c227418c5d14ff6c047a2119264a568fce832
 
 Package: yoyo-statusbar
+Version: 0.9
+Architecture: amd64
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 717
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.35.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libxcb1
+Homepage: https://yoyoos.com
 Priority: optional
 Section: devel
-Installed-Size: 705
-Maintainer: YoyoOS <support@yoyoos.com>
-Architecture: amd64
-Version: 0.8-1
-Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.35.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libxcb1
-Filename: pool/main/y/yoyo-statusbar/yoyo-statusbar_0.8-1_amd64.deb
-SHA512: 3c81b2a565ac0ff4e63bc0e98175232369e47022ec8d7b38d11149968f9ee79b3e4903c063d50d7fadbb211b02d5eb13d3fda51041cb3cb7bcb18e39bb623639
-Size: 178704
-SHA256: 09c0488a6d3b0954242f925a00b22336466f9d939056ffdb39cc5c33f1ce6e3f
-SHA1: bfbdb33cbc5a9729d1fbe4cc4f4cf26d67075ef7
-MD5sum: 17f47148bea7fc43d1b1ae69be54b215
+Filename: pool/main/y/yoyo-statusbar/yoyo-statusbar_0.9_amd64.deb
+Size: 182622
+SHA256: b2c5b3a4d6d1443be210db50ff3e89c851f01dd3224fd0bbb0da861c9c49a35e
+SHA1: 2a9925ed63a3ffe75d87e4bb2f02f63beef51346
+MD5sum: c98526b30cfd12481ccd2483e0edf260
 Description: YoyoOS Statusbar
-Homepage: https://yoyoos.com
+
+Package: yoyo-statusbar-dbgsym
+Package-Type: ddeb
+Source: yoyo-statusbar
+Version: 0.9
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 6026
+Depends: yoyo-statusbar (= 0.9)
+Priority: optional
+Section: debug
+Filename: pool/main/y/yoyo-statusbar/yoyo-statusbar-dbgsym_0.9_amd64.deb
+Size: 5944720
+SHA256: 002ebd6971e2fd55b3aa1ad3e9dbae4c9d6aba04b0273904b5941696f284d4c4
+SHA1: b401bf1ac06bb2f982c2e8aaf0ba7a4c8b93e913
+MD5sum: 8bb14708694d8679893ba5b31cf56a82
+Description: debug symbols for yoyo-statusbar
+Build-Ids: c8082ea48115f7764975c26075cd116f07026cfb
 
 Package: yoyo-terminal
 Priority: optional
