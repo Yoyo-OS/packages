@@ -110,40 +110,39 @@ Description: YoyoOS Calculator
 Homepage: https://github.com/yoyoos/calculator
 
 Package: yoyo-core
-Version: 0.9
+Version: 0.9-1
 Architecture: amd64
 Maintainer: YoyoOS <yoyoos@foxmail.com>
-Installed-Size: 1464
+Installed-Size: 1488
 Depends: accountsservice, qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, appmenu-gtk2-module, appmenu-gtk3-module, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5coreaddons5 (>= 4.97.0), libkf5idletime5 (>= 4.96.0), libkf5windowsystem5 (>= 5.25.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6 (>= 2:1.2.99.901), libx11-xcb1 (>= 2:1.7.5), libxcb-composite0, libxcb-damage0, libxcb-dpms0, libxcb-image0 (>= 0.2), libxcb-record0, libxcb-shape0, libxcb-util1 (>= 0.4.0), libxcb1 (>= 1.6), libxcursor1 (>> 1.1.2), libxi6 (>= 2:1.2.99.4), libxtst6
 Homepage: https://github.com/yoyoos/core
 Priority: optional
 Section: devel
-Filename: pool/main/y/yoyo-core/yoyo-core_0.9_amd64.deb
-Size: 351232
-SHA256: 69e09f6eafe6ff27729c05cffc1cceb7c0f2614a5b7a5ee9ab677fc19b3b9e78
-SHA1: 1d8a8ddba7dcdf5f1f15100a68a2ad1dd2d7780e
-MD5sum: f5ccb1994cf0f666f6e433f0c14ef868
+Filename: pool/main/y/yoyo-core/yoyo-core_0.9-1_amd64.deb
+Size: 361664
+SHA256: a5aebecb974c51ea31ae628ded74b14f59581efd774add591777eb4af53775bc
+SHA1: ac0f2600ae5901e6698cb006235f33a186a82a78
+MD5sum: 214eb91dc0526c39faf222cbbe41ef84
 Description: YoyoOS System Components
 
 Package: yoyo-core-dbgsym
+Package-Type: ddeb
+Source: yoyo-core
+Version: 0.9-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Installed-Size: 15638
+Depends: yoyo-core (= 0.9-1)
 Priority: optional
 Section: debug
-Installed-Size: 15371
-Maintainer: YoyoOS <yoyoos@foxmail.com>
-Architecture: amd64
-Source: yoyo-core
-Version: 0.8
-Depends: yoyo-core (= 0.8)
-Filename: pool/main/y/yoyo-core/yoyo-core-dbgsym_0.8_amd64.deb
-SHA512: 2a9c8e4f552829ee71c527d59298d71a33b43f1a178e0b7f091e21d9bb6af51d0ab6cdf86765f36278d2bded5b20318e4f519bcbc68be8f0034e69f39ad5e4cb
-Size: 15087374
-SHA256: e923bf25747989a2119599da012b8fad43792bc11ea2128833c628f9d7d3c262
-SHA1: 12775c82691a3b883d9e26269ba64bfcc0c9f33b
-MD5sum: c119650f1f3707e844ba57105e338c71
+Filename: pool/main/y/yoyo-core/yoyo-core-dbgsym_0.9-1_amd64.deb
+Size: 15344728
+SHA256: 6809e7dc26049838779ab704d68c379bacf4744641228f11a1a385feb3c66227
+SHA1: eafbfda3e0cd75dc75e5b6c9f3e68dc3f7be2322
+MD5sum: fc9341792b60dc1f5685581f5dffb0eb
 Description: debug symbols for yoyo-core
-Auto-Built-Package: debug-symbols
-Build-Ids: 1651395c096d7c146d50fc543a201a091ab9a9b4 5756383af7e72384a3615b0c642485d562bc66c1 6607bb7921e13fa2e278cabc2f7d22a56a5247ec 70cae0177ab07978d7488d92a117343fd525cb86 98c99f4efd833064b6eb93308d04b716f1ae7cb9 98f59623a5cabbdaa7e6a84318b6bcaf314ac4db 9f4356ed647231817228e7b410e625091468f5f6 a0bf8edc151d4854c94b36a7f8da5b59f1da8f4a a37fc444c839c537bc595a6da5038f9f66c5886f a52e35705a7c22835e46d0d1a86f8cf1806b4bd5 bb2299eeed0c32aeca6deb6e3fc79e6bd6c1c2a3 cdac91a4a5397134f88834b19ebbd3fa99993262 da9e7cceb0cf50d3ea0a22db7cb7416315ee8db9 ecd46d6fb6f866c8b6e8a41ec4b08f62ca55183f
-Package-Type: ddeb
+Build-Ids: 01a734f8bab59ebdb20f867816cfad0cf6437819 0d79a5defd93d6f673793fa3e24aaad1074f9215 35565b0bce19abafc4640e1129c7b4f1e6bb0a12 7e974cea920e24c0c092d8ae23321eaa9f5cda0f a9da8a5461601f650d0c3a799ba0f17705ea8dea c1c38042a3557c686778c06128b386efafdd1f0b caebeaf7d5539ba53af2cb2c29b3512e8ece08cd d2c0ccb238e1d6824351335a9d2dda21efcf9cc5 d62bb0ce1eadf8814b1cd6338315b9d80dfe4f41 dbb7a4b53b9b223a95c5a7e568d51cf514bab516 e499a9426deee1355518e3878180ae2483c1b227 e5aa7a7777852b8e226152e94f4071c569666b08 ed66120432f7f648a057c848d816392b6934c178 fa08bcfa1691e770eec6d59f8b7817ba3338f36e
 
 Package: yoyo-cursor-themes
 Priority: optional
@@ -162,39 +161,39 @@ Description: YoyoOS Cursor Theme
 Homepage: https://yoyoos.com
 
 Package: yoyo-daemon
-Version: 0.9
+Version: 0.9-1
 Architecture: amd64
 Maintainer: YoyoOS <support@yoyoos.com>
 Installed-Size: 61
-Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, python3-pyinotify, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
 Homepage: http://yoyoos.com
 Priority: optional
 Section: devel
-Filename: pool/main/y/yoyo-daemon/yoyo-daemon_0.9_amd64.deb
-Size: 15254
-SHA256: a5e1768734479eab7b02897bf80a2491c84a52b8255bfac608c1f4dfcba437c0
-SHA1: ec08597ac219bfe08d7619f13e00948a02038d45
-MD5sum: e82261d691e8ed3fdfdb899028d795a0
+Filename: pool/main/y/yoyo-daemon/yoyo-daemon_0.9-1_amd64.deb
+Size: 15300
+SHA256: 0f1da07be3a1fb78d5389acd37261312c83e775dc70ced3016ab053f8f9a3437
+SHA1: c9d0faca50230cda0fae93020695048992ee9fec
+MD5sum: bedf0868129a17004c55e29864fd49d4
 Description: YoyoOS Daemon.
 
 Package: yoyo-daemon-dbgsym
 Package-Type: ddeb
 Source: yoyo-daemon
-Version: 0.9
+Version: 0.9-1
 Auto-Built-Package: debug-symbols
 Architecture: amd64
 Maintainer: YoyoOS <support@yoyoos.com>
 Installed-Size: 641
-Depends: yoyo-daemon (= 0.9)
+Depends: yoyo-daemon (= 0.9-1)
 Priority: optional
 Section: debug
-Filename: pool/main/y/yoyo-daemon/yoyo-daemon-dbgsym_0.9_amd64.deb
-Size: 629328
-SHA256: 545fca193ea6cec406efdf1d5e2336d5054664c5402365cb14560ef3358a6dc5
-SHA1: eed2e54fabc49b9cc9d65808dd44bf1cc9ff20c0
-MD5sum: 778683688502e0abef22e0160132d113
+Filename: pool/main/y/yoyo-daemon/yoyo-daemon-dbgsym_0.9-1_amd64.deb
+Size: 629320
+SHA256: 6e03361a9d9efdb9dcc124f1910d9f24acb7d837b0829997a65508b9d89bd42f
+SHA1: be1c68e204871350087f1603cb2addd27a49bfa7
+MD5sum: 2e04d6660e9a184bed96f920028e1c0e
 Description: debug symbols for yoyo-daemon
-Build-Ids: 5aeae5ff511eea81540fff97866d38556a635ea8
+Build-Ids: 0abf00f20ed00fa326879be04023c461714c3018
 
 Package: yoyo-debinstaller
 Priority: optional

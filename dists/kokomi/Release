@@ -1,16 +1,16 @@
 Codename: kokomi
-Date: Mon, 20 Jun 2022 04:01:12 UTC
+Date: Thu, 23 Jun 2022 05:02:44 UTC
 Architectures: amd64
 Components: main
 MD5Sum:
- c82d6c6d5eaa0f58c6864872459898bd 33577 main/binary-amd64/Packages
- 010a13564f15671cb89fd7b154fe92ba 9678 main/binary-amd64/Packages.gz
+ e92ccab8027b57d33fec6639457e332e 33479 main/binary-amd64/Packages
+ cd3f61471dbaf1c4a01826cb636ae63d 9589 main/binary-amd64/Packages.gz
  063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
 SHA1:
- cdccd5887a9a6076d7964e458aac2d85fbb47d67 33577 main/binary-amd64/Packages
- ddf1f6b459557b756e936a19c5131f3f35b7dbaa 9678 main/binary-amd64/Packages.gz
+ c11aa1565cb7ae2787f54e8d6be5c5069cbbb0aa 33479 main/binary-amd64/Packages
+ 0c7502ca6d53425bc3201dd21026ed19067aadeb 9589 main/binary-amd64/Packages.gz
  f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
 SHA256:
- 529f08fdef4abbd8dc7407195ae1ed0076cfc13add8a3ed31b74f9bf53679385 33577 main/binary-amd64/Packages
- c36d22e06880c52a26cc5835812274022513e4189c08b78f3bcee9b51c85d38e 9678 main/binary-amd64/Packages.gz
+ 61200642449f7eb98f86aadafee3078d6fbb9318ab94310e75eaa883c9338c28 33479 main/binary-amd64/Packages
+ 2f7115698638a765f7d7c38aff44ba140ba20224d0cc0bf155ca472b8d140f42 9589 main/binary-amd64/Packages.gz
  f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
