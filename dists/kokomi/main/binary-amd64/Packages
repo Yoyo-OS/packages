@@ -33,20 +33,39 @@ Description: CutefishOS UIKit
 Homepage: https://cutefishos.com
 
 Package: libyoyo
-Version: 0.8-1
+Version: 0.9
 Architecture: amd64
 Maintainer: YoyoOS <support@yoyoos.com>
-Installed-Size: 2533
+Installed-Size: 2537
 Depends: kio, libc6 (>= 2.32), libcanberra0 (>= 0.16), libgcc-s1 (>= 3.3.1), libkf5bluezqt6 (>= 5.77.0), libkf5configcore5 (>= 4.97.0), libkf5coreaddons5 (>= 4.97.0), libkf5kiocore5 (>= 5.92.0), libkf5kiowidgets5 (>= 5.3.0+git20141101.0339), libkf5networkmanagerqt6 (>= 5.66.0), libkf5screen-bin (>= 4:5.17.5~), libkf5screen7 (>= 4:5.23.80), libkf5solid5 (>= 5.74.0), libkf5xmlgui5 (>= 4.96.0), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.9.0~beta) | libqt5gui5-gles (>= 5.9.0~beta), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5sensors5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 5.2)
 Homepage: https://yoyoos.com
 Priority: optional
 Section: devel
-Filename: pool/main/liby/libyoyo/libyoyo_0.8-1_amd64.deb
-Size: 662598
-SHA256: 13508f5fac606e6d33d2b4632780966d8e53f0b227fe54ed116a0503e463545d
-SHA1: b135e484ab1dbf6851abdc7c811da9b33834df4e
-MD5sum: 9d304c98810c9538971168ada44245ce
+Filename: pool/main/liby/libyoyo/libyoyo_0.9_amd64.deb
+Size: 662974
+SHA256: 702e78a14e5efbe3b2727c33f9496ad7f9d6156e838a4b815e15b11dfcfffcb1
+SHA1: 511fbd661e31c9b8d0b01ef954b1e2bb4c20ef44
+MD5sum: 8c92d2a5dd7fff9d6dd6996c5453dcb9
 Description: YoyoOS Library
+
+Package: libyoyo-dbgsym
+Package-Type: ddeb
+Source: libyoyo
+Version: 0.9
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 18432
+Depends: libyoyo (= 0.9)
+Priority: optional
+Section: debug
+Filename: pool/main/liby/libyoyo/libyoyo-dbgsym_0.9_amd64.deb
+Size: 17911836
+SHA256: 383864b98c1f1d04ef155602b5e976d325ce0a086037d49340aeb47fdc005100
+SHA1: 3ccf0d20f278a12ec60e03c001399f74bdc3e496
+MD5sum: aaa7643d25afb4dfda84a388bf44d1cd
+Description: debug symbols for libyoyo
+Build-Ids: 19ba979fa663c485b759ff85e248a0e4b9ce0102 4343fe95c5d0ac9c77689ce6438829a713a3a322 54fa38a9afa859a21480bbaf6d758b13b18b1b8d 6f0a2e1d04405033d8321db87be472e7faa4154d a21f321322c3d0e0c56244b2add3e90d02964329 a6545eb59afc461fe678f8e32cce56c4662c8fd8 b9c20f6b3e80300a16407ec87ebd59ca6d85f2b4 e8b9d9b8a3c8dba3e5a9e9e2228edfde3968a6aa ebd7954e0237ae9fe38d68fdbaf026c9b16ef38a
 
 Package: texteditor
 Priority: optional

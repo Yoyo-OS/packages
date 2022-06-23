@@ -1,16 +1,16 @@
 Codename: kokomi
-Date: Thu, 23 Jun 2022 05:41:47 UTC
+Date: Thu, 23 Jun 2022 08:39:35 UTC
 Architectures: amd64
 Components: main
 MD5Sum:
- 4ec9715cd44312aefd11d53c58b9ac42 33342 main/binary-amd64/Packages
- f7460f9c6b00e6582486521b1c99c3c2 9503 main/binary-amd64/Packages.gz
+ bbae84cfcb9c9d36d3e3860e4d5a042f 34243 main/binary-amd64/Packages
+ 86be845fa8cae56c29acba8ce9132b20 9881 main/binary-amd64/Packages.gz
  063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
 SHA1:
- 0ebbbf824517d668f5d68065d4b96cc57c375ddb 33342 main/binary-amd64/Packages
- 19bac4bd4259f36eac23e715e5eead5e226e4a92 9503 main/binary-amd64/Packages.gz
+ 12706d47bc721f165bbe458828a2839c98e9176e 34243 main/binary-amd64/Packages
+ d2ce9df3bec9a297c5556a22fbfb244f8a79828a 9881 main/binary-amd64/Packages.gz
  f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
 SHA256:
- 799e1546cb0cfd488998bfdaee16a8e8f2ceab5965b0b6e4ce8bcb9b845fab78 33342 main/binary-amd64/Packages
- 5099bbd92de845f9669c1c3b44da462d1c2dade643b3a688a65318485fe03f30 9503 main/binary-amd64/Packages.gz
+ d5eb42d2711c72e14acd0968862ca3b31fe04c724d3bbcd1cb42beb6ce8b56b9 34243 main/binary-amd64/Packages
+ 0251ed6e5489d2202652df4a8ea0d601451cc880f19e7acc76c9a2e2bb289e9f 9881 main/binary-amd64/Packages.gz
  f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
