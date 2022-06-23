@@ -145,20 +145,19 @@ Description: debug symbols for yoyo-core
 Build-Ids: 01a734f8bab59ebdb20f867816cfad0cf6437819 0d79a5defd93d6f673793fa3e24aaad1074f9215 35565b0bce19abafc4640e1129c7b4f1e6bb0a12 7e974cea920e24c0c092d8ae23321eaa9f5cda0f a9da8a5461601f650d0c3a799ba0f17705ea8dea c1c38042a3557c686778c06128b386efafdd1f0b caebeaf7d5539ba53af2cb2c29b3512e8ece08cd d2c0ccb238e1d6824351335a9d2dda21efcf9cc5 d62bb0ce1eadf8814b1cd6338315b9d80dfe4f41 dbb7a4b53b9b223a95c5a7e568d51cf514bab516 e499a9426deee1355518e3878180ae2483c1b227 e5aa7a7777852b8e226152e94f4071c569666b08 ed66120432f7f648a057c848d816392b6934c178 fa08bcfa1691e770eec6d59f8b7817ba3338f36e
 
 Package: yoyo-cursor-themes
+Version: 0.9
+Architecture: amd64
+Maintainer: Reion Wong <reion@yoyoos.com>
+Installed-Size: 83437
+Homepage: https://yoyoos.com
 Priority: optional
 Section: kde
-Installed-Size: 83437
-Maintainer: Reion Wong <reion@yoyoos.com>
-Architecture: amd64
-Version: 0.5
-Filename: pool/main/y/yoyo-cursor-themes/yoyo-cursor-themes_0.5_amd64.deb
-SHA512: f03e2b5305648a1a8d8396159c034a11157a9487c7b5ca2be4eaa403b9f1b4d4508532f90fdf281adb95bcaa4c453e5c5601932e6445dbb6bb38881b11ad054b
-Size: 5029930
-SHA256: 56b914a618cb31264a0e4ff739fb585adac9c90ebabaec883f016c32596e5a2a
-SHA1: 72f46d2e9a83b6598a4e4470356f95e1d0fafbc3
-MD5sum: 97605402fe63fc09084c964d9abb4e85
+Filename: pool/main/y/yoyo-cursor-themes/yoyo-cursor-themes_0.9_amd64.deb
+Size: 5029944
+SHA256: b484097acebb2d1cff0812da41e9486f2832a3ae772e367e64920e1d8d312412
+SHA1: b615f085f39704e80769e62c2987067c95f4ce78
+MD5sum: 9fb44009d3ddbb9f740dfcd7d5925c57
 Description: YoyoOS Cursor Theme
-Homepage: https://yoyoos.com
 
 Package: yoyo-daemon
 Version: 0.9-1
